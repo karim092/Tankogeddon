@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tankogeddon.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8AEF1ABF-8665-4FBA-873F-59AEDB89777C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tankogeddon.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TankogeddonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FE6AD196-CAFE-4F55-96D8-F6D93B54F0DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tankogeddon">
+      <UniqueIdentifier>{26B85091-5AC3-4D9A-99B9-2547FD6623FA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tankogeddon\Tankogeddon.Build.cs">
+      <Filter>Source\Tankogeddon</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tankogeddon\Tankogeddon.cpp">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankogeddon\Tankogeddon.h">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tankogeddon\TankogeddonGameModeBase.cpp">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankogeddon\TankogeddonGameModeBase.h">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
