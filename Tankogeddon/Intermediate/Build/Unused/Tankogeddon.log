@@ -1,0 +1,31 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+  Parsing headers for TankogeddonEditor
+    Running UnrealHeaderTool "D:\UE4_Curs\Tankogeddon\Tankogeddon\Tankogeddon.uproject" "D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\TankogeddonEditor\Development\TankogeddonEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for TankogeddonEditor in 4,7164981 seconds
+  Building TankogeddonEditor...
+  Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 6 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  TankPawn.cpp (0:00.73 at +0:00)
+  TankPlayerController.cpp (0:00.90 at +0:00)
+  TankPawn.gen.cpp (0:00.89 at +0:01)
+  UE4Editor-Tankogeddon-0036.lib (0:00.15 at +0:02)
+     Создается библиотека D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0036.lib и объект D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0036.exp
+  UE4Editor-Tankogeddon-0036.dll (0:00.84 at +0:02)
+     Создается библиотека D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0036.suppressed.lib и объект D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0036.suppressed.exp
+  TankogeddonEditor.target (0:00.21 at +0:03)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 3,90 seconds
+  Total execution time: 9,43 seconds
