@@ -1,0 +1,1010 @@
+﻿Log file open, 05/22/22 18:00:09
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Tankogeddon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.737509
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:       Intel(R) Xeon(R) CPU E3-1270 V2 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.22-15.00.13:866][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.22-15.00.13:866][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.22-15.00.13:868][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.22-15.00.13:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.22-15.00.13:869][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.22-15.00.13:870][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.22-15.00.13:871][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.22-15.00.13:976][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.13:976][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.22-15.00.13:976][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.22-15.00.13:976][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.13:976][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.22-15.00.13:977][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.13:977][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.22-15.00.13:977][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.22-15.00.13:977][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.22-15.00.13:977][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.22-15.00.13:977][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.22-15.00.13:978][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.22-15.00.13:978][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.22-15.00.13:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.22-15.00.13:978][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.22-15.00.13:978][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.22-15.00.13:978][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.22-15.00.13:978][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.22-15.00.13:978][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.22-15.00.13:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.22-15.00.13:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.22-15.00.13:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.22-15.00.13:979][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.22-15.00.13:979][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.22-15.00.13:979][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.13:979][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.22-15.00.13:980][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.22-15.00.13:981][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.22-15.00.13:981][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.22-15.00.13:981][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.22-15.00.13:981][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.22-15.00.13:981][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.22-15.00.13:981][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.22-15.00.13:981][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.22-15.00.13:981][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.22-15.00.13:982][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.22-15.00.13:983][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.22-15.00.13:983][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.22-15.00.13:983][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.22-15.00.13:983][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.13:983][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.22-15.00.13:983][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.22-15.00.13:983][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.22-15.00.13:983][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.22-15.00.13:984][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.22-15.00.13:985][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.22-15.00.13:985][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.22-15.00.13:985][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.22-15.00.13:985][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.22-15.00.13:985][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.22-15.00.13:985][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.22-15.00.13:985][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.22-15.00.13:985][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.22-15.00.13:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.22-15.00.13:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.22-15.00.13:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.22-15.00.13:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.22-15.00.13:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.22-15.00.13:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.22-15.00.13:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.22-15.00.13:987][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.13:987][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.22-15.00.13:987][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.22-15.00.13:988][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.13:988][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.22-15.00.13:988][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.22-15.00.13:988][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.22-15.00.14:010][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.22-15.00.14:011][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.22-15.00.14:013][  0]LogHAL: Display: Platform has ~ 16 GB [17145421824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.22-15.00.14:013][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.22-15.00.14:013][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.14:014][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.22-15.00.14:014][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.22-15.00.14:014][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.14:014][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.22-15.00.14:014][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.14:014][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.22-15.00.14:014][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.22-15.00.14:015][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.22-15.00.14:015][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.22-15.00.14:015][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.22-15.00.14:015][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.22-15.00.14:015][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.22-15.00.14:015][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.22-15.00.14:015][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.22-15.00.14:015][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.22-15.00.14:016][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.22-15.00.14:017][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.22-15.00.14:018][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.22-15.00.14:019][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.22-15.00.14:020][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.22-15.00.14:020][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.22-15.00.14:020][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.14:020][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.22-15.00.14:020][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.22-15.00.14:020][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.22-15.00.14:020][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.22-15.00.14:020][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.22-15.00.14:020][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.22-15.00.14:021][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.22-15.00.14:021][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.22-15.00.14:021][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.22-15.00.14:021][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.14:021][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.22-15.00.14:021][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.22-15.00.14:021][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.22-15.00.14:021][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.22-15.00.14:021][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.22-15.00.14:022][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.22-15.00.14:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.22-15.00.14:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.22-15.00.14:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.22-15.00.14:024][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.14:024][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.22-15.00.14:024][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.22-15.00.14:024][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.22-15.00.14:024][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.22-15.00.14:024][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.22-15.00.14:024][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.22-15.00.14:024][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.22-15.00.14:025][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.22-15.00.14:025][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.22-15.00.14:026][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.22-15.00.14:026][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.22-15.00.14:026][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Editor.ini]
+[2022.05.22-15.00.14:074][  0]LogInit: Computer: WIN-UKE6JSO0UCB
+[2022.05.22-15.00.14:074][  0]LogInit: User: user
+[2022.05.22-15.00.14:074][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.22-15.00.14:074][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.22-15.00.14:075][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.05.22-15.00.14:081][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.22-15.00.14:081][  0]LogMemory: Process Physical Memory: 131.93 MB used, 131.94 MB peak
+[2022.05.22-15.00.14:081][  0]LogMemory: Process Virtual Memory: 109.80 MB used, 109.80 MB peak
+[2022.05.22-15.00.14:081][  0]LogMemory: Physical Memory: 8357.96 MB used,  7993.19 MB free, 16351.15 MB total
+[2022.05.22-15.00.14:081][  0]LogMemory: Virtual Memory: 134209960.00 MB used,  7771.03 MB free, 134217728.00 MB total
+[2022.05.22-15.00.14:137][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.22-15.00.15:750][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.22-15.00.15:882][  0]LogInit: Using OS detected language (ru-RU).
+[2022.05.22-15.00.15:882][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.05.22-15.00.15:914][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.05.22-15.00.15:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.05.22-15.00.15:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.05.22-15.00.15:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.05.22-15.00.15:918][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.05.22-15.00.15:918][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.05.22-15.00.15:919][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.05.22-15.00.15:920][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.05.22-15.00.15:975][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.22-15.00.16:224][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.22-15.00.16:555][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.22-15.00.16:555][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.22-15.00.17:648][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.22-15.00.17:648][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.22-15.00.17:648][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.22-15.00.17:648][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.22-15.00.17:921][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2022.05.22-15.00.17:921][  0]LogD3D11RHI:       2988/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.22-15.00.17:927][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.22-15.00.17:927][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.22-15.00.17:928][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.22-15.00.17:953][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.22-15.00.17:953][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.22-15.00.17:953][  0]LogWindows: EnumDisplayDevices:
+[2022.05.22-15.00.17:954][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2022.05.22-15.00.17:954][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.05.22-15.00.17:955][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.05.22-15.00.17:955][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.05.22-15.00.17:955][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.22-15.00.17:956][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2022.05.22-15.00.17:957][  0]LogD3D11RHI:   Driver Version: 472.47 (internal:30.0.14.7247, unified:472.47)
+[2022.05.22-15.00.17:957][  0]LogD3D11RHI:      Driver Date: 10-26-2021
+[2022.05.22-15.00.17:958][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2022.05.22-15.00.18:089][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.22-15.00.18:092][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.22-15.00.18:092][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.22-15.00.18:666][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.22-15.00.18:715][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.22-15.00.19:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.22-15.00.19:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.22-15.00.19:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.22-15.00.19:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.22-15.00.19:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.22-15.00.19:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.22-15.00.19:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.22-15.00.19:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.22-15.00.19:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.22-15.00.19:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.22-15.00.19:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.22-15.00.20:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.22-15.00.20:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.22-15.00.20:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.22-15.00.20:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.22-15.00.20:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.22-15.00.20:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.22-15.00.20:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.22-15.00.20:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.22-15.00.20:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.22-15.00.20:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.22-15.00.20:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.22-15.00.20:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.22-15.00.20:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.22-15.00.20:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.22-15.00.21:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.22-15.00.21:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.22-15.00.21:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.22-15.00.21:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.22-15.00.21:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.22-15.00.21:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.22-15.00.21:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.22-15.00.21:164][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.22-15.00.21:412][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.22-15.00.23:312][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.22-15.00.23:333][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Intermediate/Shaders/WorkingDirectory/16564/).
+[2022.05.22-15.00.23:333][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/11537BF241D07476AC698AAC908AC3BD/'.
+[2022.05.22-15.00.23:344][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.05.22-15.00.26:360][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.22-15.00.26:677][  0]LogDerivedDataCache: Loaded boot cache 0.32s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.22-15.00.26:677][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.05.22-15.00.26:677][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE4_Curs/Tankogeddon/Tankogeddon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.22-15.00.26:677][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.22-15.00.26:678][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE4_Curs/Tankogeddon/Tankogeddon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.22-15.00.26:678][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.22-15.00.26:730][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.22-15.00.26:731][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.22-15.00.26:731][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.22-15.00.26:771][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.05.22-15.00.26:771][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=53.88MBs, RandomWriteSpeed=99.11MBs. Assigned SpeedClass 'Local'
+[2022.05.22-15.00.26:774][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.22-15.00.26:774][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.22-15.00.26:774][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.22-15.00.27:048][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.22-15.00.27:148][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.22-15.00.27:737][  0]LogAssetRegistry: FAssetRegistry took 0.0137 seconds to start up
+[2022.05.22-15.00.36:664][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.22-15.00.36:664][  0]LogInit: Active device profile: [00000143A5DB2300][00000143A3B2D9C0 49] Windows
+[2022.05.22-15.00.36:665][  0]LogInit: Profiles: [00000143A5DB2300][00000143A3B2D9C0 49] Windows, [00000143A5D45C00][00000143A4E1DB40 49] WindowsNoEditor, [00000143A5DB3000][00000143A4E21CC0 49] WindowsServer, [00000143A5D46800][00000143A4E24180 49] WindowsClient, [00000143A5DB0E00][00000143A4E28300 49] IOS, [00000143A5D46D00][00000143A4E2C480 49] iPadAir, [00000143A5DB2100][00000143A4E30600 49] iPadAir2, [00000143A5CE9D00][00000143A4E388C0 49] IPadPro, [00000143A5CE9E00][00000143A4E34900 49] iPadAir3, [00000143A5D45700][00000143A4E3CA80 49] iPadAir4, [00000143A5CEB500][00000143A4E40C00 49] iPadMini2, [00000143A5D45300][00000143A4E44D80 49] iPadMini3, [00000143A5CE9600][00000143A4E48F00 49] iPadMini4, [00000143A5D45F00][00000143A4E4D080 49] iPadMini5, [00000143A5CFD500][00000143A4E55340 49] iPhone6, [00000143A5CFD600][00000143A4E51380 49] iPodTouch6, [00000143A5CE8F00][00000143A3B29600 49] iPhone7, [00000143A5CE8E00][00000143A4E59640 49] iPodTouch7, [00000143A5CFEC00][00000143A4E5D780 49] iPhone5S, [00000143A5CEAB00][00000143A4E618C0 49] iPhone6Plus, [00000143A5CFFC00][00000143A4E65A00 49] iPhone6S, [00000143A5CE8200][00000143A4E6DB80 49] iPhone6SPlus, [00000143A5CFC900][00000143A4E71D00 49] iPhone7Plus, [00000143A5CEB800][00000143A4E741C0 49] iPhoneSE, [00000143A5CFE800][00000143A4E78340 49] iPhone8, [00000143A5CE8800][00000143A4E7C4C0 49] iPhone8Plus, [00000143A5CFE200][00000143A4E80640 49] iPhoneX, [00000143A5CE8D00][00000143A4E847C0 49] iPhoneXS, [00000143A5CFDC00][00000143A4E88940 49] iPhoneXSMax, [00000143A5CE9C00][00000143A4E8CAC0 49] iPhoneXR, [00000143A5CFED00][00000143A4E90C40 49] iPhone11, [00000143A5CEBA00][00000143A4E94DC0 49] iPhone11Pro, [00000143A5CFDF00][00000143A4E98F40 49] iPhone11ProMax, [00000143A5CEAA00][00000143A4E9D0C0 49] iPhoneSE2, [00000143A5CFC700][00000143A4EA1240 49] iPhone12Mini, [00000143A5CEB700][00000143A4EA53C0 49] iPhone12, [00000143A5CFC600][00000143A4EA9540 49] iPhone12Pro, [00000143A5CEBF00][00000143A4E69680 49] iPhone12ProMax, [00000143A5DB2700][00000143A4EAD7C0 49] iPadPro105, [00000143A5CE9A00][00000143A4EB1900 49] iPadPro129, [00000143A5DB2000][00000143A4EB5A40 49] iPadPro97, [00000143A5CEBD00][00000143A4EBDBC0 49] iPadPro2_129, [00000143A5DB0300][00000143A4EC1D40 49] iPad5, [00000143A5CEAD00][00000143A4EC4200 49] iPad6, [00000143A5DB1100][00000143A4EC8380 49] iPad7, [00000143A5CEA000][00000143A4ECC500 49] iPad8, [00000143A5DB2B00][00000143A4ED0680 49] iPadPro11, [00000143A5CEB400][00000143A4ED4800 49] iPadPro2_11, [00000143A5DB1A00][00000143A4ED8980 49] iPadPro3_129, [00000143A5CE8300][00000143A4EDCB00 49] iPadPro4_129, [00000143A5DB0200][00000143A4EE0C80 49] AppleTV, [00000143A5CE9900][00000143A4EE4E00 49] AppleTV4K, [00000143A5DB1200][00000143A4EE8F80 49] TVOS, [00000143A5CEA400][00000143A4EED100 49] Mac, [00000143A5DB1300][00000143A4EF1280 49] MacClient, [00000143A5CEA100][00000143A4EF5400 49] MacNoEditor, [00000143A5DB1600][00000143A4EF9580 49] MacServer, [00000143A5CEB100][00000143A4EFD700 49] Linux, [00000143A5DB1400][00000143A4EB9840 49] LinuxAArch64, [00000143A5CE8400][00000143A4F01980 49] LinuxNoEditor, [00000143A5DB2F00][00000143A4F05AC0 49] LinuxAArch64NoEditor, [00000143A5CEA700][00000143A4F0DC40 49] LinuxClient, [00000143A5DB0D00][00000143A4F10100 49] LinuxAArch64Client, [00000143A5CEAF00][00000143A4F14280 49] LinuxServer, [00000143A5DB3400][00000143A4F18400 49] LinuxAArch64Server, [00000143A5CE8700][00000143A4F1C580 49] Android, [00000143A5DB0C00][00000143A4F20700 49] Android_Low, [00000143A5CE9B00][00000143A4F24880 49] Android_Mid, [00000143A5DB1900][00000143A4F28A00 49] Android_High, [00000143A5CEB000][00000143A4F2CB80 49] Android_Default, [00000143A5DB2C00][00000143A4F30D00 49] Android_Adreno4xx, [00000143A5CE9400][00000143A4F34E80 49] Android_Adreno5xx_Low, [00000143A5DB2D00][00000143A4F39000 49] Android_Adreno5xx, [00000143A5CEA300][00000143A4F3D180 49] Android_Adreno6xx, [00000143A5DB0500][00000143A5F51300 49] Android_Adreno6xx_Vulkan, [00000143A5CE9700][00000143A5F55480 49] Android_Mali_T6xx, [00000143A5CFD000][00000143A5F59600 49] Android_Mali_T7xx, [00000143A5D44300][00000143A5F5D780 49] Android_Mali_T8xx, [00000143A5CFCD00][00000143A4F098C0 49] Android_Mali_G71, [00000143A5D47200][00000143A5F61A00 49] Android_Mali_G72, [00000143A5CFD400][00000143A5F65B40 49] Android_Mali_G72_Vulkan, [00000143A5D46300][00000143A5F6DCC0 49] Android_Mali_G76, [00000143A5CFF200][00000143A5F70180 49] Android_Mali_G76_Vulkan, [00000143A5D47400][00000143A5F74300 49] Android_Mali_G77, [00000143A5CFE000][00000143A5F78480 49] Android_Mali_G77_Vulkan, [00000143A5D45B00][00000143A5F7C600 49] Android_Vulkan_SM5, [00000143A5CFE500][00000143A5F80780 49] Android_PowerVR_G6xxx, [00000143A5D46400][00000143A5F84900 49] Android_PowerVR_GT7xxx, [00000143A5CFF800][00000143A5F88A80 49] Android_PowerVR_GE8xxx, [00000143A5D47900][00000143A5F8CC00 49] Android_PowerVR_GM9xxx, [00000143A5CFF700][00000143A5F90D80 49] Android_PowerVR_GM9xxx_Vulkan, [00000143A5D46600][00000143A5F94F00 49] Android_TegraK1, [00000143A5CFFB00][00000143A5F99080 49] Android_Unknown_Vulkan, [00000143A5D44900][00000143A5F9D200 49] Lumin, [00000143A5CFF500][00000143A5FA1380 49] Lumin_Desktop, [00000143A5D45600][00000143A5FA5500 49] HoloLens, 
+[2022.05.22-15.00.38:200][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.22-15.00.38:200][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.22-15.00.38:200][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.22-15.00.38:200][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.22-15.00.38:201][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.22-15.00.38:767][  0]LogNetVersion: Tankogeddon 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1156881733)
+[2022.05.22-15.00.47:338][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.22-15.00.47:563][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.151920 seconds
+[2022.05.22-15.00.47:765][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.05.22-15.00.47:777][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.05.22-15.00.47:777][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.22-15.00.53:751][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.22-15.00.53:777][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.22-15.00.54:709][  0]SourceControl: Source control is disabled
+[2022.05.22-15.00.54:709][  0]SourceControl: Source control is disabled
+[2022.05.22-15.00.54:833][  0]SourceControl: Source control is disabled
+[2022.05.22-15.00.54:854][  0]SourceControl: Source control is disabled
+[2022.05.22-15.00.54:871][  0]SourceControl: Source control is disabled
+[2022.05.22-15.00.54:901][  0]LogUProjectInfo: Found projects:
+[2022.05.22-15.00.57:215][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.22-15.00.57:302][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.22-15.00.57:302][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.22-15.00.57:770][  0]LogCollectionManager: Loaded 0 collections in 0.002253 seconds
+[2022.05.22-15.00.57:904][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Collections/' took 0.05s
+[2022.05.22-15.00.57:905][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/Developers/user/Collections/' took 0.01s
+[2022.05.22-15.00.57:905][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/Collections/' took 0.00s
+[2022.05.22-15.00.58:090][  0]LogOcInput: OculusInput pre-init called
+[2022.05.22-15.00.58:187][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.05.22-15.00.58:188][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.05.22-15.01.00:082][  0]LogEngine: Initializing Engine...
+[2022.05.22-15.01.00:164][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.22-15.01.00:218][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.22-15.01.00:310][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.016 s
+[2022.05.22-15.01.00:940][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.22-15.01.01:508][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.22-15.01.01:652][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.22-15.01.01:725][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.22-15.01.01:725][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.22-15.01.01:743][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.22-15.01.01:743][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.22-15.01.01:743][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.22-15.01.01:743][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.22-15.01.01:743][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.22-15.01.01:743][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.22-15.01.01:744][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.22-15.01.01:746][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.22-15.01.01:759][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.22-15.01.01:760][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.22-15.01.01:896][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-15.01.01:896][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-15.01.02:017][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.05.22-15.01.02:108][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.22-15.01.02:129][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.22-15.01.02:131][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.22-15.01.02:135][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.22-15.01.02:136][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.22-15.01.02:137][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.22-15.01.02:141][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.22-15.01.02:141][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.22-15.01.02:141][  0]LogInit: FAudioDevice initialized.
+[2022.05.22-15.01.02:163][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.22-15.01.02:187][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.05.22-15.01.02:187][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.22-15.01.02:373][  0]LogDerivedDataCache: Saved boot cache 0.19s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.22-15.01.02:389][  0]LogInit: Texture streaming: Enabled
+[2022.05.22-15.01.02:553][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.05.22-15.01.02:626][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.22-15.01.02:644][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.22-15.01.02:676][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.22-15.01.02:943][  0]LogInit: Transaction tracking system initialized
+[2022.05.22-15.01.03:340][  0]BlueprintLog: New page: Editor Load
+[2022.05.22-15.01.04:594][  0]LocalizationService: Localization service is disabled
+[2022.05.22-15.01.05:076][  0]TimingProfiler: Initialize
+[2022.05.22-15.01.05:079][  0]TimingProfiler: OnSessionChanged
+[2022.05.22-15.01.05:080][  0]LoadingProfiler: Initialize
+[2022.05.22-15.01.05:081][  0]LoadingProfiler: OnSessionChanged
+[2022.05.22-15.01.05:082][  0]NetworkingProfiler: Initialize
+[2022.05.22-15.01.05:082][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.22-15.01.05:082][  0]MemoryProfiler: Initialize
+[2022.05.22-15.01.05:083][  0]MemoryProfiler: OnSessionChanged
+[2022.05.22-15.01.07:148][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/' took 0.03s
+[2022.05.22-15.01.07:149][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.22-15.01.07:149][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.22-15.01.09:441][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.22-15.01.09:572][  0]SourceControl: Source control is disabled
+[2022.05.22-15.01.09:641][  0]LogUnrealEdMisc: Loading editor; pre map load, took 69.231
+[2022.05.22-15.01.09:700][  0]Cmd: MAP LOAD FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.22-15.01.09:735][  0]LightingResults: New page: Lighting Build
+[2022.05.22-15.01.09:911][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-15.01.09:997][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-15.01.10:147][  0]MapCheck: New page: Map Check
+[2022.05.22-15.01.10:147][  0]LightingResults: New page: Lighting Build
+[2022.05.22-15.01.11:042][  0]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2022.05.22-15.01.12:580][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.05.22-15.01.12:618][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.05.22-15.01.12:896][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.22-15.01.12:910][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.22-15.01.13:500][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.22-15.01.13:705][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.05.22-15.01.13:731][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.22-15.01.13:738][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6,433ms to complete.
+[2022.05.22-15.01.13:738][  0]LogFileHelpers: Loading map 'Minimal_Default' took 4.066
+[2022.05.22-15.01.15:149][  0]LogUnrealEdMisc: Total Editor Startup Time, took 74.784
+[2022.05.22-15.01.16:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.01.16:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.01.16:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.01.16:436][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.01.16:751][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0144 seconds. Added 3604 classes and 861 folders.
+[2022.05.22-15.01.16:928][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.05.22-15.01.17:055][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.22-15.01.17:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.22-15.01.17:069][  0]LogPakFile: OnPakFileMounted2Time == 0.013643
+[2022.05.22-15.01.17:101][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.22-15.01.17:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.22-15.01.17:102][  0]LogPakFile: OnPakFileMounted2Time == 0.013647
+[2022.05.22-15.01.17:114][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.22-15.01.17:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.22-15.01.17:115][  0]LogPakFile: OnPakFileMounted2Time == 0.013651
+[2022.05.22-15.01.17:118][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.22-15.01.17:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.22-15.01.17:118][  0]LogPakFile: OnPakFileMounted2Time == 0.013655
+[2022.05.22-15.01.17:131][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.22-15.01.17:131][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:131][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.22-15.01.17:131][  0]LogPakFile: OnPakFileMounted2Time == 0.013659
+[2022.05.22-15.01.17:141][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.22-15.01.17:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.22-15.01.17:141][  0]LogPakFile: OnPakFileMounted2Time == 0.013666
+[2022.05.22-15.01.17:145][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.22-15.01.17:145][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.22-15.01.17:145][  0]LogPakFile: OnPakFileMounted2Time == 0.013671
+[2022.05.22-15.01.17:184][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.22-15.01.17:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.22-15.01.17:185][  0]LogPakFile: OnPakFileMounted2Time == 0.013677
+[2022.05.22-15.01.17:188][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.22-15.01.17:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.22-15.01.17:188][  0]LogPakFile: OnPakFileMounted2Time == 0.013681
+[2022.05.22-15.01.17:203][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.22-15.01.17:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.22-15.01.17:203][  0]LogPakFile: OnPakFileMounted2Time == 0.013686
+[2022.05.22-15.01.17:212][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.22-15.01.17:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.22-15.01.17:213][  0]LogPakFile: OnPakFileMounted2Time == 0.013691
+[2022.05.22-15.01.17:216][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.22-15.01.17:216][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:216][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.22-15.01.17:216][  0]LogPakFile: OnPakFileMounted2Time == 0.013695
+[2022.05.22-15.01.17:219][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.22-15.01.17:219][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:219][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.22-15.01.17:219][  0]LogPakFile: OnPakFileMounted2Time == 0.013698
+[2022.05.22-15.01.17:222][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.22-15.01.17:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.22-15.01.17:223][  0]LogPakFile: OnPakFileMounted2Time == 0.013702
+[2022.05.22-15.01.17:225][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.22-15.01.17:225][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:226][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.22-15.01.17:226][  0]LogPakFile: OnPakFileMounted2Time == 0.013706
+[2022.05.22-15.01.17:228][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.22-15.01.17:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.22-15.01.17:229][  0]LogPakFile: OnPakFileMounted2Time == 0.013709
+[2022.05.22-15.01.17:232][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.22-15.01.17:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:232][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.22-15.01.17:232][  0]LogPakFile: OnPakFileMounted2Time == 0.013712
+[2022.05.22-15.01.17:235][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.22-15.01.17:235][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:235][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.22-15.01.17:235][  0]LogPakFile: OnPakFileMounted2Time == 0.013716
+[2022.05.22-15.01.17:238][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.22-15.01.17:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.22-15.01.17:238][  0]LogPakFile: OnPakFileMounted2Time == 0.013719
+[2022.05.22-15.01.17:241][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.22-15.01.17:241][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:241][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.22-15.01.17:241][  0]LogPakFile: OnPakFileMounted2Time == 0.013723
+[2022.05.22-15.01.17:245][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.22-15.01.17:245][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.22-15.01.17:245][  0]LogPakFile: OnPakFileMounted2Time == 0.013726
+[2022.05.22-15.01.17:249][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.22-15.01.17:249][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:249][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.22-15.01.17:249][  0]LogPakFile: OnPakFileMounted2Time == 0.013730
+[2022.05.22-15.01.17:254][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.22-15.01.17:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.22-15.01.17:255][  0]LogPakFile: OnPakFileMounted2Time == 0.013734
+[2022.05.22-15.01.17:258][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.22-15.01.17:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.22-15.01.17:259][  0]LogPakFile: OnPakFileMounted2Time == 0.013739
+[2022.05.22-15.01.17:262][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.22-15.01.17:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.22-15.01.17:262][  0]LogPakFile: OnPakFileMounted2Time == 0.013742
+[2022.05.22-15.01.17:272][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.22-15.01.17:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.22-15.01.17:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.22-15.01.17:273][  0]LogPakFile: OnPakFileMounted2Time == 0.013747
+[2022.05.22-15.01.17:766][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.05.22-15.01.17:835][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2022.05.22-15.01.19:153][  0]LogSlate: Took 0.013133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.22-15.01.19:206][  0]LogSlate: Took 0.011459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.22-15.01.19:294][  0]LogSlate: Took 0.012510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.22-15.01.20:119][  0]LogRenderer: Reallocating scene render targets to support 1208x524 Format 10 NumSamples 1 (Frame:1).
+[2022.05.22-15.01.21:337][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.05.22-15.01.21:338][  0]LogLoad: (Engine Initialization) Total time: 80.97 seconds
+[2022.05.22-15.01.21:338][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.22-15.01.21:349][  0]LogInit: First time updating LLM stats...
+[2022.05.22-15.01.23:162][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.22-15.01.23:654][  1]LogAssetRegistry: Asset discovery search completed in 55.9218 seconds
+[2022.05.22-15.01.23:689][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008788 seconds (updated 0 objects)
+[2022.05.22-15.01.24:152][  2]LogSlate: Took 0.014772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.22-15.01.30:848][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.22-15.01.30:942][723]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.22-15.01.31:317][723]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TestLevel.TestLevel
+[2022.05.22-15.01.31:336][723]Cmd: MAP LOAD FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.22-15.01.31:336][723]LightingResults: New page: Lighting Build
+[2022.05.22-15.01.31:337][723]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.05.22-15.01.31:423][723]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-15.01.31:460][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-15.01.31:468][723]MapCheck: New page: Map Check
+[2022.05.22-15.01.31:469][723]LightingResults: New page: Lighting Build
+[2022.05.22-15.01.31:497][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.22-15.01.31:660][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.05.22-15.01.31:669][723]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.05.22-15.01.31:938][723]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.22-15.01.31:938][723]LogAIModule: Creating AISystem for world TestLevel
+[2022.05.22-15.01.31:975][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.05.22-15.01.31:999][723]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.22-15.01.31:999][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,13ms to complete.
+[2022.05.22-15.01.31:999][723]LogFileHelpers: Loading map 'TestLevel' took 0.664
+[2022.05.22-15.01.40:358][312]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.22-15.02.18:396][632]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.22-15.02.18:401][632]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.22-15.02.19:287][696]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.22-15.02.19:459][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.22-15.02.19:498][696]PIE: New page: PIE session: TestLevel (22 мая 2022 г., 21:02:19)
+[2022.05.22-15.02.19:566][696]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.22-15.02.19:580][696]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.22-15.02.19:590][696]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2022.05.22-15.02.19:696][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100661s)
+[2022.05.22-15.02.19:709][696]LogAIModule: Creating AISystem for world TestLevel
+[2022.05.22-15.02.19:719][696]LogPlayLevel: PIE: World Init took: (0.021975s)
+[2022.05.22-15.02.19:730][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.139919s)
+[2022.05.22-15.02.19:741][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.05.22-15.02.19:756][696]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.22-15.02.19:756][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.22-15.02.19:756][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.22-15.02.19:756][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.22-15.02.19:756][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.22-15.02.19:757][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.22-15.02.19:757][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.22-15.02.19:757][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.22-15.02.19:757][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.22-15.02.19:758][696]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.22-15.02.19:758][696]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.22-15.02.19:769][696]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-15.02.19:769][696]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-15.02.19:851][696]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.05.22-15.02.19:852][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.22-15.02.19:852][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.22-15.02.19:852][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.22-15.02.19:853][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.22-15.02.19:854][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.22-15.02.19:854][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.22-15.02.19:889][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.22-15.02.19:889][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.22-15.02.19:889][696]LogInit: FAudioDevice initialized.
+[2022.05.22-15.02.19:889][696]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestLevel'.
+[2022.05.22-15.02.19:921][696]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.05.22-15.02.19:970][696]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.05.22-18.02.19
+[2022.05.22-15.02.19:994][696]LogWorld: Bringing up level for play took: 0.017484
+[2022.05.22-15.02.19:997][696]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.05.22-15.02.20:177][696]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2022.05.22-15.02.20:231][696]PIE: Server logged in
+[2022.05.22-15.02.20:242][696]PIE: Play in editor total start time 0,924 seconds.
+[2022.05.22-15.02.33:833][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.02.33:833][266]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2022.05.22-15.02.33:853][266]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-15.02.33:854][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-15.02.33:927][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.22-15.02.33:959][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-15.02.33:968][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.22-15.02.34:005][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-15.02.34:009][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-15.02.34:079][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.02.34:146][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.22-15.02.34:208][267]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.05.22-15.02.35:532][420]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.22-15.02.35:538][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.22-15.02.35:538][420]PIE: New page: PIE session: TestLevel (22 мая 2022 г., 21:02:35)
+[2022.05.22-15.02.35:576][420]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2022.05.22-15.02.35:579][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002505s)
+[2022.05.22-15.02.35:582][420]LogAIModule: Creating AISystem for world TestLevel
+[2022.05.22-15.02.35:583][420]LogPlayLevel: PIE: World Init took: (0.003615s)
+[2022.05.22-15.02.35:583][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.006666s)
+[2022.05.22-15.02.35:594][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.22-15.02.35:595][420]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.22-15.02.35:595][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.22-15.02.35:595][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.22-15.02.35:595][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.22-15.02.35:596][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.22-15.02.35:596][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.22-15.02.35:596][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.22-15.02.35:596][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.22-15.02.35:596][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.22-15.02.35:597][420]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.22-15.02.35:597][420]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.22-15.02.35:608][420]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-15.02.35:608][420]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-15.02.35:652][420]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.05.22-15.02.35:653][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.22-15.02.35:653][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.22-15.02.35:653][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.22-15.02.35:654][420]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.22-15.02.35:654][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.22-15.02.35:654][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.22-15.02.35:672][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.22-15.02.35:672][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.22-15.02.35:672][420]LogInit: FAudioDevice initialized.
+[2022.05.22-15.02.35:672][420]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestLevel'.
+[2022.05.22-15.02.35:683][420]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.05.22-15.02.35:684][420]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.05.22-18.02.35
+[2022.05.22-15.02.35:685][420]LogWorld: Bringing up level for play took: 0.000748
+[2022.05.22-15.02.35:685][420]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.05.22-15.02.35:689][420]PIE: Server logged in
+[2022.05.22-15.02.35:690][420]PIE: Play in editor total start time 0,153 seconds.
+[2022.05.22-15.02.51:308][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.02.51:308][283]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2022.05.22-15.02.51:309][283]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-15.02.51:309][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-15.02.51:332][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.22-15.02.51:335][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-15.02.51:345][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.02.51:346][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-15.02.51:348][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-15.02.51:388][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.05.22-15.02.51:410][284]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.05.22-15.03.04:000][740]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.22-15.03.37:802][861]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.22-15.03.37:807][861]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.22-15.03.41:061][194]Candidate modules for hot reload:
+[2022.05.22-15.03.41:061][194]  Tankogeddon
+[2022.05.22-15.03.41:062][194]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,4520 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.05.22-15.03.41:066][194]Warning: Starting HotReload took  0.2s.
+[2022.05.22-15.03.41:309][196]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.05.22-15.03.44:867][585]CompilerResultsLog: New page: Compilation - 22 мая 2022 г., 21:03:44
+[2022.05.22-15.03.44:867][585]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.05.22-15.03.44:867][585]CompilerResultsLog: Building TankogeddonEditor...
+[2022.05.22-15.03.44:867][585]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.05.22-15.03.44:868][585]CompilerResultsLog: Distributing 3 actions to XGE
+[2022.05.22-15.03.44:868][585]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.05.22-15.03.44:868][585]CompilerResultsLog: License is invalid:
+[2022.05.22-15.03.44:868][585]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.05.22-15.03.44:868][585]CompilerResultsLog:     This build will run in standalone mode.
+[2022.05.22-15.03.44:868][585]CompilerResultsLog: 
+[2022.05.22-15.03.44:869][585]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.05.22-15.03.44:869][585]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.05.22-15.03.44:869][585]CompilerResultsLog: UE4Editor-Tankogeddon-4520.lib (0:00.25 at +0:00)
+[2022.05.22-15.03.44:869][585]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-4520.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-4520.exp
+[2022.05.22-15.03.44:869][585]CompilerResultsLog: UE4Editor-Tankogeddon-4520.dll (0:01.07 at +0:00)
+[2022.05.22-15.03.44:870][585]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-4520.suppressed.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-4520.suppressed.exp
+[2022.05.22-15.03.44:870][585]CompilerResultsLog: TankogeddonEditor.target (0:00.92 at +0:01)
+[2022.05.22-15.03.44:870][585]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.05.22-15.03.44:870][585]CompilerResultsLog: 
+[2022.05.22-15.03.44:870][585]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.05.22-15.03.44:870][585]CompilerResultsLog: 
+[2022.05.22-15.03.44:871][585]CompilerResultsLog: 1 build system warning(s):
+[2022.05.22-15.03.44:871][585]CompilerResultsLog:    - License is invalid
+[2022.05.22-15.03.44:871][585]CompilerResultsLog: 
+[2022.05.22-15.03.44:871][585]CompilerResultsLog: Total time in XGE executor: 2,49 seconds
+[2022.05.22-15.03.44:871][585]CompilerResultsLog: Total execution time: 3,34 seconds
+[2022.05.22-15.03.44:871][585]LogMainFrame: MainFrame: Module compiling took 3.915 seconds
+[2022.05.22-15.03.44:944][585]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Tankogeddon' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2022.05.22-15.03.44:977][585]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.05.22-15.03.45:512][585]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0222 seconds. Added 3604 classes and 861 folders.
+[2022.05.22-15.03.45:547][585]Display: HotReload took  4.7s.
+[2022.05.22-15.03.48:069][857]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.22-15.03.48:078][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.22-15.03.48:079][857]PIE: New page: PIE session: TestLevel (22 мая 2022 г., 21:03:48)
+[2022.05.22-15.03.48:116][857]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2022.05.22-15.03.48:119][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002617s)
+[2022.05.22-15.03.48:121][857]LogAIModule: Creating AISystem for world TestLevel
+[2022.05.22-15.03.48:121][857]LogPlayLevel: PIE: World Init took: (0.002549s)
+[2022.05.22-15.03.48:122][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.005845s)
+[2022.05.22-15.03.48:133][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.22-15.03.48:135][857]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.22-15.03.48:136][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.22-15.03.48:136][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.22-15.03.48:136][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.22-15.03.48:136][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.22-15.03.48:136][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.22-15.03.48:137][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.22-15.03.48:137][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.22-15.03.48:137][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.22-15.03.48:138][857]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.22-15.03.48:138][857]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.22-15.03.48:148][857]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-15.03.48:148][857]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-15.03.48:200][857]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.05.22-15.03.48:201][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.22-15.03.48:201][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.22-15.03.48:201][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.22-15.03.48:202][857]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.22-15.03.48:202][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.22-15.03.48:202][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.22-15.03.48:223][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.22-15.03.48:223][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.22-15.03.48:223][857]LogInit: FAudioDevice initialized.
+[2022.05.22-15.03.48:223][857]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestLevel'.
+[2022.05.22-15.03.48:236][857]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.05.22-15.03.48:238][857]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.05.22-18.03.48
+[2022.05.22-15.03.48:238][857]LogWorld: Bringing up level for play took: 0.000837
+[2022.05.22-15.03.48:239][857]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.05.22-15.03.48:243][857]PIE: Server logged in
+[2022.05.22-15.03.48:245][857]PIE: Play in editor total start time 0,167 seconds.
+[2022.05.22-15.04.12:856][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.04.12:856][798]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2022.05.22-15.04.12:856][798]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-15.04.12:857][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-15.04.12:868][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.22-15.04.12:870][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-15.04.12:880][798]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.22-15.04.12:880][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-15.04.12:883][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-15.04.12:944][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-15.04.12:947][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.05.22-15.04.12:978][799]LogPlayLevel: Display: Destroying online subsystem :Context_5
