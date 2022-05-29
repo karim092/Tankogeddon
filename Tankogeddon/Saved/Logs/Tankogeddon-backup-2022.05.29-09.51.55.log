@@ -1,0 +1,1289 @@
+﻿Log file open, 05/29/22 12:51:14
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Tankogeddon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.771055
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:       Intel(R) Xeon(R) CPU E3-1270 V2 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.29-09.51.16:209][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.29-09.51.16:210][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.29-09.51.16:210][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.29-09.51.16:211][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.29-09.51.16:212][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.29-09.51.16:212][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.29-09.51.16:212][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.29-09.51.16:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.29-09.51.16:212][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.29-09.51.16:224][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.29-09.51.16:225][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.29-09.51.16:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.29-09.51.16:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.29-09.51.16:228][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.29-09.51.16:229][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.29-09.51.16:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.29-09.51.16:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.29-09.51.16:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.29-09.51.16:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.29-09.51.16:231][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:231][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.29-09.51.16:231][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.29-09.51.16:231][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:231][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.29-09.51.16:231][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.29-09.51.16:231][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.29-09.51.16:231][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.29-09.51.16:231][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.29-09.51.16:231][  0]LogHAL: Display: Platform has ~ 16 GB [17145421824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.29-09.51.16:231][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.29-09.51.16:232][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.29-09.51.16:232][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.29-09.51.16:233][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.29-09.51.16:234][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.29-09.51.16:235][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.29-09.51.16:236][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.29-09.51.16:237][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.29-09.51.16:238][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.05.29-09.51.16:238][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.29-09.51.16:238][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.29-09.51.16:238][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.29-09.51.16:238][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.29-09.51.16:238][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.29-09.51.16:238][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.29-09.51.16:239][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.29-09.51.16:239][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.05.29-09.51.16:239][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Editor.ini]
+[2022.05.29-09.51.16:239][  0]LogInit: Computer: WIN-UKE6JSO0UCB
+[2022.05.29-09.51.16:239][  0]LogInit: User: user
+[2022.05.29-09.51.16:239][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.29-09.51.16:239][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.29-09.51.16:239][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.05.29-09.51.16:239][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.29-09.51.16:239][  0]LogMemory: Process Physical Memory: 132.24 MB used, 132.25 MB peak
+[2022.05.29-09.51.16:239][  0]LogMemory: Process Virtual Memory: 109.61 MB used, 109.61 MB peak
+[2022.05.29-09.51.16:239][  0]LogMemory: Physical Memory: 9734.10 MB used,  6617.05 MB free, 16351.15 MB total
+[2022.05.29-09.51.16:239][  0]LogMemory: Virtual Memory: 134210712.00 MB used,  7017.96 MB free, 134217728.00 MB total
+[2022.05.29-09.51.16:256][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.29-09.51.17:609][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.29-09.51.17:618][  0]LogInit: Using OS detected language (ru-RU).
+[2022.05.29-09.51.17:618][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.05.29-09.51.17:621][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.05.29-09.51.17:621][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.05.29-09.51.17:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.05.29-09.51.17:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.05.29-09.51.17:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.05.29-09.51.17:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.05.29-09.51.17:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.05.29-09.51.17:623][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.05.29-09.51.17:643][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.29-09.51.17:682][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.29-09.51.17:811][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.29-09.51.17:811][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.29-09.51.18:592][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.29-09.51.18:593][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.29-09.51.18:593][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.29-09.51.18:593][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.29-09.51.18:763][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2022.05.29-09.51.18:763][  0]LogD3D11RHI:       2988/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.29-09.51.18:770][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.29-09.51.18:770][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.29-09.51.18:770][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.29-09.51.18:776][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.29-09.51.18:776][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.29-09.51.18:776][  0]LogWindows: EnumDisplayDevices:
+[2022.05.29-09.51.18:776][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2022.05.29-09.51.18:777][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.05.29-09.51.18:777][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.05.29-09.51.18:777][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.05.29-09.51.18:777][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.29-09.51.18:778][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2022.05.29-09.51.18:778][  0]LogD3D11RHI:   Driver Version: 512.96 (internal:30.0.15.1296, unified:512.96)
+[2022.05.29-09.51.18:778][  0]LogD3D11RHI:      Driver Date: 5-19-2022
+[2022.05.29-09.51.18:778][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2022.05.29-09.51.18:852][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.29-09.51.18:852][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.29-09.51.18:852][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.29-09.51.18:873][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.29-09.51.18:878][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.29-09.51.19:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.29-09.51.19:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.29-09.51.19:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.29-09.51.19:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.29-09.51.19:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.29-09.51.19:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.29-09.51.19:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.29-09.51.19:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.29-09.51.19:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.29-09.51.19:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.29-09.51.19:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.29-09.51.19:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.29-09.51.19:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.29-09.51.20:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.29-09.51.20:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.29-09.51.20:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.29-09.51.20:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.29-09.51.20:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.29-09.51.20:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.29-09.51.20:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.29-09.51.20:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.29-09.51.20:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.29-09.51.20:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.29-09.51.20:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.29-09.51.20:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.29-09.51.20:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.29-09.51.20:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.29-09.51.20:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.29-09.51.20:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.29-09.51.20:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.29-09.51.20:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.29-09.51.20:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.29-09.51.20:722][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.29-09.51.20:855][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.29-09.51.22:524][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.29-09.51.22:525][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Intermediate/Shaders/WorkingDirectory/5824/).
+[2022.05.29-09.51.22:525][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/B5D6E1C64FB0BF895BEACDB444B45283/'.
+[2022.05.29-09.51.22:525][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.05.29-09.51.24:751][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.29-09.51.25:080][  0]LogDerivedDataCache: Loaded boot cache 0.33s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.29-09.51.25:081][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.05.29-09.51.25:081][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE4_Curs/Tankogeddon/Tankogeddon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.29-09.51.25:081][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.29-09.51.25:081][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE4_Curs/Tankogeddon/Tankogeddon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.29-09.51.25:081][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.29-09.51.25:159][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.29-09.51.25:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.29-09.51.25:159][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.29-09.51.25:190][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.05.29-09.51.25:190][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=58.46MBs, RandomWriteSpeed=63.70MBs. Assigned SpeedClass 'Local'
+[2022.05.29-09.51.25:193][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.29-09.51.25:193][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.29-09.51.25:193][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.29-09.51.25:257][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.29-09.51.25:265][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.29-09.51.25:618][  0]LogAssetRegistry: FAssetRegistry took 0.0086 seconds to start up
+[2022.05.29-09.51.25:920][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.29-09.51.25:920][  0]LogInit: Active device profile: [0000021AE52E2300][0000021ADBE31140 49] Windows
+[2022.05.29-09.51.25:920][  0]LogInit: Profiles: [0000021AE52E2300][0000021ADBE31140 49] Windows, [0000021AE526DC00][0000021ADBE392C0 49] WindowsNoEditor, [0000021AE52E3000][0000021ADBE3D440 49] WindowsServer, [0000021AE526E800][0000021ADBE35580 49] WindowsClient, [0000021AE52E0E00][0000021ADBE416C0 49] IOS, [0000021AE526ED00][0000021ADBE45800 49] iPadAir, [0000021AE52E2100][0000021ADBE49940 49] iPadAir2, [0000021AE5211D00][0000021ADBE55C00 49] IPadPro, [0000021AE5211E00][0000021ADBE51C40 49] iPadAir3, [0000021AE526D700][0000021ADBE58100 49] iPadAir4, [0000021AE5213500][0000021ADBE5C280 49] iPadMini2, [0000021AE526D300][0000021ADBE60400 49] iPadMini3, [0000021AE5211600][0000021ADBE64580 49] iPadMini4, [0000021AE526DF00][0000021ADBE68700 49] iPadMini5, [0000021AE521D500][0000021ADBE709C0 49] iPhone6, [0000021AE521D600][0000021ADBE6CA00 49] iPodTouch6, [0000021AE5210F00][0000021ADBE78CC0 49] iPhone7, [0000021AE5210E00][0000021ADBE74D00 49] iPodTouch7, [0000021AE521EC00][0000021ADBE7CE80 49] iPhone5S, [0000021AE5212B00][0000021ADBE81000 49] iPhone6Plus, [0000021AE521FC00][0000021ADDC6B180 49] iPhone6S, [0000021AE5210200][0000021ADDC6F300 49] iPhone6SPlus, [0000021AE521C900][0000021ADDC73480 49] iPhone7Plus, [0000021AE5213800][0000021ADDC77600 49] iPhoneSE, [0000021AE521E800][0000021ADBE4D740 49] iPhone8, [0000021AE5210800][0000021ADDC7B880 49] iPhone8Plus, [0000021AE521E200][0000021ADDC7F9C0 49] iPhoneX, [0000021AE5210D00][0000021ADDC87B40 49] iPhoneXS, [0000021AE521DC00][0000021ADDC8BCC0 49] iPhoneXSMax, [0000021AE5211C00][0000021ADDC8E180 49] iPhoneXR, [0000021AE521ED00][0000021ADDC92300 49] iPhone11, [0000021AE5213A00][0000021ADDC96480 49] iPhone11Pro, [0000021AE521DF00][0000021ADDC9A600 49] iPhone11ProMax, [0000021AE5212A00][0000021ADDC9E780 49] iPhoneSE2, [0000021AE521C700][0000021ADDCA2900 49] iPhone12Mini, [0000021AE5213700][0000021ADDCA6A80 49] iPhone12, [0000021AE521C600][0000021ADDCAAC00 49] iPhone12Pro, [0000021AE5213F00][0000021ADDCAED80 49] iPhone12ProMax, [0000021AE52E2700][0000021ADDCB2F00 49] iPadPro105, [0000021AE5211A00][0000021ADDCB7080 49] iPadPro129, [0000021AE52E2000][0000021ADDCBB200 49] iPadPro97, [0000021AE5213D00][0000021ADDCBF380 49] iPadPro2_129, [0000021AE52E0300][0000021ADDCC3500 49] iPad5, [0000021AE5212D00][0000021ADDCC7680 49] iPad6, [0000021AE52E1100][0000021ADDC837C0 49] iPad7, [0000021AE5212000][0000021ADDCCB900 49] iPad8, [0000021AE52E2B00][0000021ADDCCFA40 49] iPadPro11, [0000021AE5213400][0000021ADDCD3B80 49] iPadPro2_11, [0000021AE52E1A00][0000021ADDCDBD00 49] iPadPro3_129, [0000021AE5210300][0000021ADDCDE1C0 49] iPadPro4_129, [0000021AE52E0200][0000021ADDCE2340 49] AppleTV, [0000021AE5211900][0000021ADDCE64C0 49] AppleTV4K, [0000021AE52E1200][0000021ADDCEA640 49] TVOS, [0000021AE5212400][0000021ADDCEE7C0 49] Mac, [0000021AE52E1300][0000021ADDCF2940 49] MacClient, [0000021AE5212100][0000021ADDCF6AC0 49] MacNoEditor, [0000021AE52E1600][0000021ADDCFAC40 49] MacServer, [0000021AE5213100][0000021ADDCFEDC0 49] Linux, [0000021AE52E1400][0000021ADDD02F40 49] LinuxAArch64, [0000021AE5210400][0000021ADDD070C0 49] LinuxNoEditor, [0000021AE52E2F00][0000021ADDD0B240 49] LinuxAArch64NoEditor, [0000021AE5212700][0000021ADDD0F3C0 49] LinuxClient, [0000021AE52E0D00][0000021ADDD13540 49] LinuxAArch64Client, [0000021AE5212F00][0000021ADDD176C0 49] LinuxServer, [0000021AE52E3400][0000021ADDCD7800 49] LinuxAArch64Server, [0000021AE5210700][0000021ADDD1B940 49] Android, [0000021AE52E0C00][0000021ADDD1FA80 49] Android_Low, [0000021AE5211B00][0000021ADDD23BC0 49] Android_Mid, [0000021AE52E1900][0000021ADDD2BD40 49] Android_High, [0000021AE5213000][0000021ADDD2E200 49] Android_Default, [0000021AE52E2C00][0000021ADDD32380 49] Android_Adreno4xx, [0000021AE5211400][0000021ADDD36500 49] Android_Adreno5xx_Low, [0000021AE52E2D00][0000021ADDD3A680 49] Android_Adreno5xx, [0000021AE5212300][0000021ADDD3E800 49] Android_Adreno6xx, [0000021AE52E0500][0000021ADDD42980 49] Android_Adreno6xx_Vulkan, [0000021AE5211700][0000021ADDD46B00 49] Android_Mali_T6xx, [0000021AE521D000][0000021ADDD4AC80 49] Android_Mali_T7xx, [0000021AE526C300][0000021AD6A6CE00 49] Android_Mali_T8xx, [0000021AE521CD00][0000021AD6A70F80 49] Android_Mali_G71, [0000021AE526F200][0000021AD6A75100 49] Android_Mali_G72, [0000021AE521D400][0000021AD6A79280 49] Android_Mali_G72_Vulkan, [0000021AE526E300][0000021AD6A7D400 49] Android_Mali_G76, [0000021AE521F200][0000021AD6A81580 49] Android_Mali_G76_Vulkan, [0000021AE526F400][0000021AD6A85700 49] Android_Mali_G77, [0000021AE521E000][0000021AD6A89880 49] Android_Mali_G77_Vulkan, [0000021AE526DB00][0000021ADDD279C0 49] Android_Vulkan_SM5, [0000021AE521E500][0000021AD6A8DB00 49] Android_PowerVR_G6xxx, [0000021AE526E400][0000021AD6A91C40 49] Android_PowerVR_GT7xxx, [0000021AE521F800][0000021AE5750100 49] Android_PowerVR_GE8xxx, [0000021AE526F900][0000021AE5754280 49] Android_PowerVR_GM9xxx, [0000021AE521F700][0000021AE5758400 49] Android_PowerVR_GM9xxx_Vulkan, [0000021AE526E600][0000021AE575C580 49] Android_TegraK1, [0000021AE521FB00][0000021AE5760700 49] Android_Unknown_Vulkan, [0000021AE526C900][0000021AE5764880 49] Lumin, [0000021AE521F500][0000021AE5768A00 49] Lumin_Desktop, [0000021AE526D600][0000021AE576CB80 49] HoloLens, 
+[2022.05.29-09.51.27:300][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.29-09.51.27:300][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.29-09.51.27:300][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.29-09.51.27:300][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.29-09.51.27:300][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.29-09.51.27:389][  0]LogNetVersion: Tankogeddon 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1156881733)
+[2022.05.29-09.51.32:475][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.29-09.51.32:529][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.053368 seconds
+[2022.05.29-09.51.32:535][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.05.29-09.51.32:535][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.05.29-09.51.32:535][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.29-09.51.35:403][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.29-09.51.35:430][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.29-09.51.35:928][  0]SourceControl: Source control is disabled
+[2022.05.29-09.51.35:928][  0]SourceControl: Source control is disabled
+[2022.05.29-09.51.35:943][  0]SourceControl: Source control is disabled
+[2022.05.29-09.51.36:203][  0]SourceControl: Source control is disabled
+[2022.05.29-09.51.36:213][  0]SourceControl: Source control is disabled
+[2022.05.29-09.51.36:229][  0]LogUProjectInfo: Found projects:
+[2022.05.29-09.51.37:691][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.29-09.51.37:797][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.29-09.51.37:797][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.29-09.51.38:099][  0]LogCollectionManager: Loaded 0 collections in 0.000702 seconds
+[2022.05.29-09.51.38:105][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Collections/' took 0.00s
+[2022.05.29-09.51.38:105][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/Developers/user/Collections/' took 0.00s
+[2022.05.29-09.51.38:105][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/Collections/' took 0.00s
+[2022.05.29-09.51.38:151][  0]LogOcInput: OculusInput pre-init called
+[2022.05.29-09.51.38:187][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.05.29-09.51.38:187][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.05.29-09.51.38:338][  0]LogEngine: Initializing Engine...
+[2022.05.29-09.51.38:339][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.29-09.51.38:339][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.29-09.51.38:340][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.29-09.51.38:490][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.29-09.51.38:531][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.29-09.51.38:532][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.29-09.51.38:579][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.29-09.51.38:579][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.29-09.51.38:579][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.29-09.51.38:579][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.29-09.51.38:580][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.29-09.51.38:580][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.29-09.51.38:580][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.29-09.51.38:580][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.29-09.51.38:580][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.29-09.51.38:580][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.29-09.51.38:580][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.29-09.51.38:581][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.29-09.51.38:631][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.29-09.51.38:632][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.29-09.51.38:750][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.05.29-09.51.38:758][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.29-09.51.38:762][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.29-09.51.38:762][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.29-09.51.38:763][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.29-09.51.38:764][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.29-09.51.38:764][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.29-09.51.38:766][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.29-09.51.38:766][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.29-09.51.38:766][  0]LogInit: FAudioDevice initialized.
+[2022.05.29-09.51.38:766][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.29-09.51.38:766][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.29-09.51.38:925][  0]LogDerivedDataCache: Saved boot cache 0.16s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.29-09.51.38:927][  0]LogInit: Texture streaming: Enabled
+[2022.05.29-09.51.39:207][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.05.29-09.51.39:228][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.29-09.51.39:228][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={8985B36F-47A6-1F66-494C-21B691C0760D}
+[2022.05.29-09.51.39:229][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.29-09.51.39:234][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.29-09.51.39:338][  0]LogInit: Transaction tracking system initialized
+[2022.05.29-09.51.39:606][  0]BlueprintLog: New page: Editor Load
+[2022.05.29-09.51.40:132][  0]LocalizationService: Localization service is disabled
+[2022.05.29-09.51.40:376][  0]TimingProfiler: Initialize
+[2022.05.29-09.51.40:377][  0]TimingProfiler: OnSessionChanged
+[2022.05.29-09.51.40:377][  0]LoadingProfiler: Initialize
+[2022.05.29-09.51.40:378][  0]LoadingProfiler: OnSessionChanged
+[2022.05.29-09.51.40:378][  0]NetworkingProfiler: Initialize
+[2022.05.29-09.51.40:378][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.29-09.51.40:378][  0]MemoryProfiler: Initialize
+[2022.05.29-09.51.40:379][  0]MemoryProfiler: OnSessionChanged
+[2022.05.29-09.51.42:103][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.29-09.51.42:103][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.29-09.51.42:808][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/' took 0.01s
+[2022.05.29-09.51.43:460][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.29-09.51.43:468][  0]SourceControl: Source control is disabled
+[2022.05.29-09.51.43:468][  0]LogUnrealEdMisc: Loading editor; pre map load, took 30.663
+[2022.05.29-09.51.43:469][  0]Cmd: MAP LOAD FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.29-09.51.43:469][  0]LogEditorServer: Warning: Can't find file '../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/TestLevel.umap'
+[2022.05.29-09.51.43:469][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-09.51.43:469][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,112ms to complete.
+[2022.05.29-09.51.43:469][  0]LogFileHelpers: Loading map 'TestLevel' took 0.001
+[2022.05.29-09.51.43:471][  0]LogUnrealEdMisc: Total Editor Startup Time, took 30.667
+[2022.05.29-09.51.43:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.29-09.51.43:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.29-09.51.43:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.29-09.51.43:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.29-09.51.43:718][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0154 seconds. Added 3608 classes and 861 folders.
+[2022.05.29-09.51.43:761][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.05.29-09.51.43:799][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.29-09.51.43:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.29-09.51.43:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.05.29-09.51.43:801][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.29-09.51.43:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.29-09.51.43:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.05.29-09.51.43:809][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.29-09.51.43:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.29-09.51.43:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.05.29-09.51.43:812][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.29-09.51.43:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.29-09.51.43:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.05.29-09.51.43:818][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.29-09.51.43:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.29-09.51.43:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.29-09.51.43:828][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.29-09.51.43:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.29-09.51.43:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.05.29-09.51.43:831][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.29-09.51.43:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.29-09.51.43:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.05.29-09.51.43:845][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.29-09.51.43:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.29-09.51.43:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.05.29-09.51.43:849][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.29-09.51.43:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.29-09.51.43:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.05.29-09.51.43:857][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.29-09.51.43:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.29-09.51.43:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.05.29-09.51.43:867][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.29-09.51.43:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.29-09.51.43:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.05.29-09.51.43:869][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.29-09.51.43:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.29-09.51.43:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.05.29-09.51.43:871][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.29-09.51.43:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.29-09.51.43:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.05.29-09.51.43:873][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.29-09.51.43:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.29-09.51.43:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.05.29-09.51.43:874][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.29-09.51.43:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.29-09.51.43:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.05.29-09.51.43:876][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.29-09.51.43:876][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:876][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.29-09.51.43:876][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.05.29-09.51.43:877][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.29-09.51.43:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.29-09.51.43:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.05.29-09.51.43:879][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.29-09.51.43:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.29-09.51.43:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.05.29-09.51.43:881][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.29-09.51.43:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.29-09.51.43:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.05.29-09.51.43:882][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.29-09.51.43:882][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:882][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.29-09.51.43:882][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.05.29-09.51.43:884][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.29-09.51.43:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.29-09.51.43:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.05.29-09.51.43:887][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.29-09.51.43:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.29-09.51.43:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.05.29-09.51.43:890][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.29-09.51.43:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.29-09.51.43:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.05.29-09.51.43:892][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.29-09.51.43:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.29-09.51.43:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.05.29-09.51.43:893][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.29-09.51.43:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.29-09.51.43:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.05.29-09.51.43:902][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.29-09.51.43:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.29-09.51.43:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.29-09.51.43:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.05.29-09.51.44:390][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2022.05.29-09.51.44:398][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.05.29-09.51.44:505][  0]LogSlate: Took 0.018085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.29-09.51.44:514][  0]LogSlate: Took 0.006841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.29-09.51.44:538][  0]LogSlate: Took 0.012917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.29-09.51.44:687][  0]LogRenderer: Reallocating scene render targets to support 1208x524 Format 10 NumSamples 1 (Frame:1).
+[2022.05.29-09.51.44:737][  0]LogSlate: Took 0.002447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.29-09.51.44:933][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.05.29-09.51.44:934][  0]LogLoad: (Engine Initialization) Total time: 32.13 seconds
+[2022.05.29-09.51.44:934][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.29-09.51.44:934][  0]LogInit: First time updating LLM stats...
+[2022.05.29-09.51.45:033][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.29-09.51.45:073][  1]LogAssetRegistry: Asset discovery search completed in 19.4607 seconds
+[2022.05.29-09.51.45:075][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.05.29-09.51.50:214][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.05.29-09.51.50:219][596]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.29-09.51.50:556][596]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.05.29-09.51.50:556][596]Cmd: MAP LOAD FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.29-09.51.50:556][596]LightingResults: New page: Lighting Build
+[2022.05.29-09.51.50:567][596]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2022.05.29-09.51.50:567][596]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.05.29-09.51.50:567][596]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-09.51.50:567][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-09.51.50:568][596]MapCheck: New page: Map Check
+[2022.05.29-09.51.50:568][596]LightingResults: New page: Lighting Build
+[2022.05.29-09.51.50:575][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.29-09.51.50:576][596]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.05.29-09.51.50:652][596]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-09.51.50:652][596]LogAIModule: Creating AISystem for world TestLevel
+[2022.05.29-09.51.50:659][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.29-09.51.50:672][596]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-09.51.50:672][596]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2022.05.29-09.51.50:672][596]LogFileHelpers: Loading map 'TestLevel' took 0.117
+[2022.05.29-09.51.51:232][655]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.29-09.51.51:237][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.29-09.51.51:238][655]PIE: New page: PIE session: TestLevel (29 мая 2022 г., 15:51:51)
+[2022.05.29-09.51.51:240][655]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.29-09.51.51:242][655]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.29-09.51.51:243][655]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.05.29-09.51.51:245][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002558s)
+[2022.05.29-09.51.51:246][655]LogAIModule: Creating AISystem for world TestLevel
+[2022.05.29-09.51.51:247][655]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2022.05.29-09.51.51:247][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.004161s)
+[2022.05.29-09.51.51:252][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.29-09.51.51:253][655]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.29-09.51.51:253][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.29-09.51.51:253][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.29-09.51.51:253][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.29-09.51.51:253][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.29-09.51.51:254][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.29-09.51.51:254][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.29-09.51.51:254][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.29-09.51.51:254][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.29-09.51.51:254][655]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.29-09.51.51:254][655]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.29-09.51.51:259][655]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.29-09.51.51:259][655]LogAudioMixer: Display: 1: FrontRight
+[2022.05.29-09.51.51:292][655]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.05.29-09.51.51:292][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.29-09.51.51:293][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.29-09.51.51:293][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.29-09.51.51:293][655]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.29-09.51.51:293][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.29-09.51.51:293][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.29-09.51.51:310][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.29-09.51.51:310][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.29-09.51.51:310][655]LogInit: FAudioDevice initialized.
+[2022.05.29-09.51.51:310][655]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestLevel'.
+[2022.05.29-09.51.51:349][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.29-09.51.51:349][655]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.05.29-09.51.51:351][655]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.05.29-12.51.51
+[2022.05.29-09.51.51:352][655]LogWorld: Bringing up level for play took: 0.001412
+[2022.05.29-09.51.51:352][655]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.05.29-09.51.51:371][655]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.05.29-09.51.51:375][655]PIE: Server logged in
+[2022.05.29-09.51.51:376][655]PIE: Play in editor total start time 0,139 seconds.
+[2022.05.29-09.51.51:379][655]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:417][656]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.05.29-09.51.51:421][656]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:450][657]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:468][658]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:477][659]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:485][660]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:493][661]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:501][662]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:510][663]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:518][664]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:527][665]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:536][666]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:545][667]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:553][668]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:562][669]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:571][670]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:579][671]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:587][672]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:595][673]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:604][674]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:612][675]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:620][676]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:629][677]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:637][678]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:645][679]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:654][680]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:662][681]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:670][682]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:679][683]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:687][684]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:695][685]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:704][686]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:712][687]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:720][688]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:729][689]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:737][690]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:745][691]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:754][692]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:762][693]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:770][694]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:779][695]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:787][696]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:795][697]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:804][698]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:812][699]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:820][700]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:829][701]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:837][702]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:845][703]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:854][704]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:862][705]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:873][706]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:881][707]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:890][708]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:898][709]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:906][710]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:915][711]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:923][712]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:931][713]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:940][714]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:948][715]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:957][716]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:965][717]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:973][718]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:981][719]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:990][720]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.51:998][721]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:006][722]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:015][723]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:023][724]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:031][725]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:040][726]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:048][727]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:057][728]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:065][729]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:073][730]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:082][731]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:091][732]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:098][733]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:107][734]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:115][735]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:123][736]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:132][737]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:140][738]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:148][739]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:157][740]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:165][741]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:173][742]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:182][743]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:190][744]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:199][745]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:208][746]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:217][747]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:225][748]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:233][749]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:242][750]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:250][751]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:259][752]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:267][753]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:275][754]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:284][755]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:292][756]LogTemp: Warning: CurrentRightAxisValue = 0.000000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:300][757]LogTemp: Warning: CurrentRightAxisValue = 0.100000 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:309][758]LogTemp: Warning: CurrentRightAxisValue = 0.190000 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:317][759]LogTemp: Warning: CurrentRightAxisValue = 0.271000 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:325][760]LogTemp: Warning: CurrentRightAxisValue = 0.343900 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:333][761]LogTemp: Warning: CurrentRightAxisValue = 0.409510 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:341][762]LogTemp: Warning: CurrentRightAxisValue = 0.468559 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:349][763]LogTemp: Warning: CurrentRightAxisValue = 0.521703 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:358][764]LogTemp: Warning: CurrentRightAxisValue = 0.569533 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:366][765]LogTemp: Warning: CurrentRightAxisValue = 0.612580 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:375][766]LogTemp: Warning: CurrentRightAxisValue = 0.651322 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:383][767]LogTemp: Warning: CurrentRightAxisValue = 0.686189 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:391][768]LogTemp: Warning: CurrentRightAxisValue = 0.717570 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:400][769]LogTemp: Warning: CurrentRightAxisValue = 0.745813 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:408][770]LogTemp: Warning: CurrentRightAxisValue = 0.771232 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:416][771]LogTemp: Warning: CurrentRightAxisValue = 0.794109 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:425][772]LogTemp: Warning: CurrentRightAxisValue = 0.814698 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:433][773]LogTemp: Warning: CurrentRightAxisValue = 0.833228 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:442][774]LogTemp: Warning: CurrentRightAxisValue = 0.849905 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:450][775]LogTemp: Warning: CurrentRightAxisValue = 0.864915 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:458][776]LogTemp: Warning: CurrentRightAxisValue = 0.878423 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.52:467][777]LogTemp: Warning: CurrentRightAxisValue = 0.790581 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:475][778]LogTemp: Warning: CurrentRightAxisValue = 0.711523 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:483][779]LogTemp: Warning: CurrentRightAxisValue = 0.640371 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:492][780]LogTemp: Warning: CurrentRightAxisValue = 0.576334 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:500][781]LogTemp: Warning: CurrentRightAxisValue = 0.518700 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:508][782]LogTemp: Warning: CurrentRightAxisValue = 0.466830 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:516][783]LogTemp: Warning: CurrentRightAxisValue = 0.420147 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:525][784]LogTemp: Warning: CurrentRightAxisValue = 0.378132 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:533][785]LogTemp: Warning: CurrentRightAxisValue = 0.340319 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:541][786]LogTemp: Warning: CurrentRightAxisValue = 0.306287 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:550][787]LogTemp: Warning: CurrentRightAxisValue = 0.275659 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:558][788]LogTemp: Warning: CurrentRightAxisValue = 0.248093 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:566][789]LogTemp: Warning: CurrentRightAxisValue = 0.223283 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:575][790]LogTemp: Warning: CurrentRightAxisValue = 0.200955 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:583][791]LogTemp: Warning: CurrentRightAxisValue = 0.180860 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:592][792]LogTemp: Warning: CurrentRightAxisValue = 0.162774 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.52:600][793]LogTemp: Warning: CurrentRightAxisValue = 0.046496 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:608][794]LogTemp: Warning: CurrentRightAxisValue = -0.058153 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:617][795]LogTemp: Warning: CurrentRightAxisValue = -0.152338 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:625][796]LogTemp: Warning: CurrentRightAxisValue = -0.237104 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:633][797]LogTemp: Warning: CurrentRightAxisValue = -0.313394 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:642][798]LogTemp: Warning: CurrentRightAxisValue = -0.382054 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:650][799]LogTemp: Warning: CurrentRightAxisValue = -0.443849 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:658][800]LogTemp: Warning: CurrentRightAxisValue = -0.499464 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:667][801]LogTemp: Warning: CurrentRightAxisValue = -0.549518 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:675][802]LogTemp: Warning: CurrentRightAxisValue = -0.594566 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:683][803]LogTemp: Warning: CurrentRightAxisValue = -0.635109 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:692][804]LogTemp: Warning: CurrentRightAxisValue = -0.671598 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:700][805]LogTemp: Warning: CurrentRightAxisValue = -0.704439 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:708][806]LogTemp: Warning: CurrentRightAxisValue = -0.733995 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:716][807]LogTemp: Warning: CurrentRightAxisValue = -0.760595 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:724][808]LogTemp: Warning: CurrentRightAxisValue = -0.784536 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:733][809]LogTemp: Warning: CurrentRightAxisValue = -0.806082 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:741][810]LogTemp: Warning: CurrentRightAxisValue = -0.825474 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:750][811]LogTemp: Warning: CurrentRightAxisValue = -0.842927 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:758][812]LogTemp: Warning: CurrentRightAxisValue = -0.858634 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:766][813]LogTemp: Warning: CurrentRightAxisValue = -0.872770 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:774][814]LogTemp: Warning: CurrentRightAxisValue = -0.885493 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:783][815]LogTemp: Warning: CurrentRightAxisValue = -0.896944 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:791][816]LogTemp: Warning: CurrentRightAxisValue = -0.907250 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:800][817]LogTemp: Warning: CurrentRightAxisValue = -0.916525 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:808][818]LogTemp: Warning: CurrentRightAxisValue = -0.924872 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:816][819]LogTemp: Warning: CurrentRightAxisValue = -0.932385 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:825][820]LogTemp: Warning: CurrentRightAxisValue = -0.939146 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:833][821]LogTemp: Warning: CurrentRightAxisValue = -0.945232 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:841][822]LogTemp: Warning: CurrentRightAxisValue = -0.950709 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:850][823]LogTemp: Warning: CurrentRightAxisValue = -0.955638 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:858][824]LogTemp: Warning: CurrentRightAxisValue = -0.960074 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:866][825]LogTemp: Warning: CurrentRightAxisValue = -0.964067 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:875][826]LogTemp: Warning: CurrentRightAxisValue = -0.967660 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:883][827]LogTemp: Warning: CurrentRightAxisValue = -0.970894 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:891][828]LogTemp: Warning: CurrentRightAxisValue = -0.973805 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:900][829]LogTemp: Warning: CurrentRightAxisValue = -0.976424 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:908][830]LogTemp: Warning: CurrentRightAxisValue = -0.978782 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:916][831]LogTemp: Warning: CurrentRightAxisValue = -0.980904 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:925][832]LogTemp: Warning: CurrentRightAxisValue = -0.982813 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:933][833]LogTemp: Warning: CurrentRightAxisValue = -0.984532 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:941][834]LogTemp: Warning: CurrentRightAxisValue = -0.986079 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:950][835]LogTemp: Warning: CurrentRightAxisValue = -0.987471 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:958][836]LogTemp: Warning: CurrentRightAxisValue = -0.988724 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:966][837]LogTemp: Warning: CurrentRightAxisValue = -0.989851 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:975][838]LogTemp: Warning: CurrentRightAxisValue = -0.990866 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:983][839]LogTemp: Warning: CurrentRightAxisValue = -0.991780 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:991][840]LogTemp: Warning: CurrentRightAxisValue = -0.992602 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.52:999][841]LogTemp: Warning: CurrentRightAxisValue = -0.993341 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:009][842]LogTemp: Warning: CurrentRightAxisValue = -0.994007 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:017][843]LogTemp: Warning: CurrentRightAxisValue = -0.994607 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:025][844]LogTemp: Warning: CurrentRightAxisValue = -0.995146 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:034][845]LogTemp: Warning: CurrentRightAxisValue = -0.995631 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:042][846]LogTemp: Warning: CurrentRightAxisValue = -0.996068 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:051][847]LogTemp: Warning: CurrentRightAxisValue = -0.996461 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:059][848]LogTemp: Warning: CurrentRightAxisValue = -0.996815 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:066][849]LogTemp: Warning: CurrentRightAxisValue = -0.997134 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:075][850]LogTemp: Warning: CurrentRightAxisValue = -0.997420 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:083][851]LogTemp: Warning: CurrentRightAxisValue = -0.997678 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:091][852]LogTemp: Warning: CurrentRightAxisValue = -0.997910 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:100][853]LogTemp: Warning: CurrentRightAxisValue = -0.998119 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:109][854]LogTemp: Warning: CurrentRightAxisValue = -0.998308 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:117][855]LogTemp: Warning: CurrentRightAxisValue = -0.998477 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:126][856]LogTemp: Warning: CurrentRightAxisValue = -0.998629 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:134][857]LogTemp: Warning: CurrentRightAxisValue = -0.998766 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:142][858]LogTemp: Warning: CurrentRightAxisValue = -0.998890 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:150][859]LogTemp: Warning: CurrentRightAxisValue = -0.999001 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:159][860]LogTemp: Warning: CurrentRightAxisValue = -0.999101 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:167][861]LogTemp: Warning: CurrentRightAxisValue = -0.999191 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:175][862]LogTemp: Warning: CurrentRightAxisValue = -0.999271 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:184][863]LogTemp: Warning: CurrentRightAxisValue = -0.999344 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:192][864]LogTemp: Warning: CurrentRightAxisValue = -0.999410 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:200][865]LogTemp: Warning: CurrentRightAxisValue = -0.999469 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:208][866]LogTemp: Warning: CurrentRightAxisValue = -0.999522 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:216][867]LogTemp: Warning: CurrentRightAxisValue = -0.999570 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:225][868]LogTemp: Warning: CurrentRightAxisValue = -0.999613 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:233][869]LogTemp: Warning: CurrentRightAxisValue = -0.999652 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:243][870]LogTemp: Warning: CurrentRightAxisValue = -0.999686 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:251][871]LogTemp: Warning: CurrentRightAxisValue = -0.999718 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:259][872]LogTemp: Warning: CurrentRightAxisValue = -0.999746 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:267][873]LogTemp: Warning: CurrentRightAxisValue = -0.999771 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:276][874]LogTemp: Warning: CurrentRightAxisValue = -0.999794 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:284][875]LogTemp: Warning: CurrentRightAxisValue = -0.999815 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:293][876]LogTemp: Warning: CurrentRightAxisValue = -0.999833 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:301][877]LogTemp: Warning: CurrentRightAxisValue = -0.999850 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:309][878]LogTemp: Warning: CurrentRightAxisValue = -0.999865 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:317][879]LogTemp: Warning: CurrentRightAxisValue = -0.999879 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:326][880]LogTemp: Warning: CurrentRightAxisValue = -0.999891 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:334][881]LogTemp: Warning: CurrentRightAxisValue = -0.999902 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:342][882]LogTemp: Warning: CurrentRightAxisValue = -0.999911 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:350][883]LogTemp: Warning: CurrentRightAxisValue = -0.999920 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:358][884]LogTemp: Warning: CurrentRightAxisValue = -0.999928 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:366][885]LogTemp: Warning: CurrentRightAxisValue = -0.999935 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:375][886]LogTemp: Warning: CurrentRightAxisValue = -0.999942 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:383][887]LogTemp: Warning: CurrentRightAxisValue = -0.999948 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:391][888]LogTemp: Warning: CurrentRightAxisValue = -0.999953 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:400][889]LogTemp: Warning: CurrentRightAxisValue = -0.999958 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:408][890]LogTemp: Warning: CurrentRightAxisValue = -0.999962 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:416][891]LogTemp: Warning: CurrentRightAxisValue = -0.999966 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:425][892]LogTemp: Warning: CurrentRightAxisValue = -0.999969 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:433][893]LogTemp: Warning: CurrentRightAxisValue = -0.999972 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:441][894]LogTemp: Warning: CurrentRightAxisValue = -0.999975 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:450][895]LogTemp: Warning: CurrentRightAxisValue = -0.999978 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:458][896]LogTemp: Warning: CurrentRightAxisValue = -0.999980 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:467][897]LogTemp: Warning: CurrentRightAxisValue = -0.999982 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:475][898]LogTemp: Warning: CurrentRightAxisValue = -0.999984 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:483][899]LogTemp: Warning: CurrentRightAxisValue = -0.999985 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:491][900]LogTemp: Warning: CurrentRightAxisValue = -0.999987 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:500][901]LogTemp: Warning: CurrentRightAxisValue = -0.999988 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:508][902]LogTemp: Warning: CurrentRightAxisValue = -0.999989 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:517][903]LogTemp: Warning: CurrentRightAxisValue = -0.999990 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:525][904]LogTemp: Warning: CurrentRightAxisValue = -0.999991 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:534][905]LogTemp: Warning: CurrentRightAxisValue = -0.999992 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:543][906]LogTemp: Warning: CurrentRightAxisValue = -0.999993 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:551][907]LogTemp: Warning: CurrentRightAxisValue = -0.999994 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:559][908]LogTemp: Warning: CurrentRightAxisValue = -0.999994 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:568][909]LogTemp: Warning: CurrentRightAxisValue = -0.999995 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:577][910]LogTemp: Warning: CurrentRightAxisValue = -0.999995 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:585][911]LogTemp: Warning: CurrentRightAxisValue = -0.999996 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:594][912]LogTemp: Warning: CurrentRightAxisValue = -0.999996 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:602][913]LogTemp: Warning: CurrentRightAxisValue = -0.999997 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:610][914]LogTemp: Warning: CurrentRightAxisValue = -0.999997 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:618][915]LogTemp: Warning: CurrentRightAxisValue = -0.999997 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:627][916]LogTemp: Warning: CurrentRightAxisValue = -0.999998 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:635][917]LogTemp: Warning: CurrentRightAxisValue = -0.999998 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:643][918]LogTemp: Warning: CurrentRightAxisValue = -0.999998 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:652][919]LogTemp: Warning: CurrentRightAxisValue = -0.999998 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:659][920]LogTemp: Warning: CurrentRightAxisValue = -0.999998 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:667][921]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:676][922]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:684][923]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:692][924]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:701][925]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:709][926]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:717][927]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:726][928]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:734][929]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:743][930]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:751][931]LogTemp: Warning: CurrentRightAxisValue = -0.999999 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:759][932]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:768][933]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:776][934]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:785][935]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:794][936]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:802][937]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:810][938]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:819][939]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:827][940]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:836][941]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:844][942]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:853][943]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:861][944]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:869][945]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:877][946]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:885][947]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:894][948]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:902][949]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:911][950]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:919][951]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:927][952]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:936][953]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:944][954]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:952][955]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:961][956]LogTemp: Warning: CurrentRightAxisValue = -1.000000 TargetRightAxisValue = -1.000000
+[2022.05.29-09.51.53:969][957]LogTemp: Warning: CurrentRightAxisValue = -0.900000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.53:977][958]LogTemp: Warning: CurrentRightAxisValue = -0.810000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.53:986][959]LogTemp: Warning: CurrentRightAxisValue = -0.729000 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.53:994][960]LogTemp: Warning: CurrentRightAxisValue = -0.656100 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:002][961]LogTemp: Warning: CurrentRightAxisValue = -0.590490 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:011][962]LogTemp: Warning: CurrentRightAxisValue = -0.531441 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:019][963]LogTemp: Warning: CurrentRightAxisValue = -0.478297 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:027][964]LogTemp: Warning: CurrentRightAxisValue = -0.430467 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:036][965]LogTemp: Warning: CurrentRightAxisValue = -0.387420 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:044][966]LogTemp: Warning: CurrentRightAxisValue = -0.348678 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:052][967]LogTemp: Warning: CurrentRightAxisValue = -0.313810 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:061][968]LogTemp: Warning: CurrentRightAxisValue = -0.282429 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:069][969]LogTemp: Warning: CurrentRightAxisValue = -0.254187 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:077][970]LogTemp: Warning: CurrentRightAxisValue = -0.228768 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:086][971]LogTemp: Warning: CurrentRightAxisValue = -0.205891 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:094][972]LogTemp: Warning: CurrentRightAxisValue = -0.185302 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:102][973]LogTemp: Warning: CurrentRightAxisValue = -0.166772 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:110][974]LogTemp: Warning: CurrentRightAxisValue = -0.150095 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:119][975]LogTemp: Warning: CurrentRightAxisValue = -0.135085 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:127][976]LogTemp: Warning: CurrentRightAxisValue = -0.121577 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:135][977]LogTemp: Warning: CurrentRightAxisValue = -0.109419 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:144][978]LogTemp: Warning: CurrentRightAxisValue = -0.098477 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:152][979]LogTemp: Warning: CurrentRightAxisValue = -0.088629 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:160][980]LogTemp: Warning: CurrentRightAxisValue = -0.079766 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:169][981]LogTemp: Warning: CurrentRightAxisValue = -0.071790 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:177][982]LogTemp: Warning: CurrentRightAxisValue = -0.064611 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:185][983]LogTemp: Warning: CurrentRightAxisValue = -0.058150 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:194][984]LogTemp: Warning: CurrentRightAxisValue = -0.052335 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:202][985]LogTemp: Warning: CurrentRightAxisValue = -0.047101 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:211][986]LogTemp: Warning: CurrentRightAxisValue = -0.042391 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:219][987]LogTemp: Warning: CurrentRightAxisValue = -0.038152 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:227][988]LogTemp: Warning: CurrentRightAxisValue = -0.034337 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:236][989]LogTemp: Warning: CurrentRightAxisValue = -0.030903 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:245][990]LogTemp: Warning: CurrentRightAxisValue = -0.027813 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:252][991]LogTemp: Warning: CurrentRightAxisValue = -0.025032 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:261][992]LogTemp: Warning: CurrentRightAxisValue = -0.022528 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:269][993]LogTemp: Warning: CurrentRightAxisValue = -0.020276 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:277][994]LogTemp: Warning: CurrentRightAxisValue = -0.018248 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:286][995]LogTemp: Warning: CurrentRightAxisValue = -0.016423 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:294][996]LogTemp: Warning: CurrentRightAxisValue = -0.014781 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:303][997]LogTemp: Warning: CurrentRightAxisValue = 0.086697 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:311][998]LogTemp: Warning: CurrentRightAxisValue = 0.178027 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:319][999]LogTemp: Warning: CurrentRightAxisValue = 0.260225 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:327][  0]LogTemp: Warning: CurrentRightAxisValue = 0.334202 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:336][  1]LogTemp: Warning: CurrentRightAxisValue = 0.400782 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:344][  2]LogTemp: Warning: CurrentRightAxisValue = 0.460704 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:353][  3]LogTemp: Warning: CurrentRightAxisValue = 0.514633 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:361][  4]LogTemp: Warning: CurrentRightAxisValue = 0.563170 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:369][  5]LogTemp: Warning: CurrentRightAxisValue = 0.606853 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:378][  6]LogTemp: Warning: CurrentRightAxisValue = 0.646168 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:386][  7]LogTemp: Warning: CurrentRightAxisValue = 0.681551 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:394][  8]LogTemp: Warning: CurrentRightAxisValue = 0.713396 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:403][  9]LogTemp: Warning: CurrentRightAxisValue = 0.742056 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:411][ 10]LogTemp: Warning: CurrentRightAxisValue = 0.767851 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:419][ 11]LogTemp: Warning: CurrentRightAxisValue = 0.791066 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:428][ 12]LogTemp: Warning: CurrentRightAxisValue = 0.811959 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:436][ 13]LogTemp: Warning: CurrentRightAxisValue = 0.830763 TargetRightAxisValue =  1.000000
+[2022.05.29-09.51.54:445][ 14]LogTemp: Warning: CurrentRightAxisValue = 0.747687 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:453][ 15]LogTemp: Warning: CurrentRightAxisValue = 0.672918 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:461][ 16]LogTemp: Warning: CurrentRightAxisValue = 0.605626 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:469][ 17]LogTemp: Warning: CurrentRightAxisValue = 0.545064 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:478][ 18]LogTemp: Warning: CurrentRightAxisValue = 0.490557 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:486][ 19]LogTemp: Warning: CurrentRightAxisValue = 0.441502 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:494][ 20]LogTemp: Warning: CurrentRightAxisValue = 0.397351 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:503][ 21]LogTemp: Warning: CurrentRightAxisValue = 0.357616 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:511][ 22]LogTemp: Warning: CurrentRightAxisValue = 0.321855 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:519][ 23]LogTemp: Warning: CurrentRightAxisValue = 0.289669 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:528][ 24]LogTemp: Warning: CurrentRightAxisValue = 0.260702 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:536][ 25]LogTemp: Warning: CurrentRightAxisValue = 0.234632 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:544][ 26]LogTemp: Warning: CurrentRightAxisValue = 0.211169 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:553][ 27]LogTemp: Warning: CurrentRightAxisValue = 0.190052 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:561][ 28]LogTemp: Warning: CurrentRightAxisValue = 0.171047 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:569][ 29]LogTemp: Warning: CurrentRightAxisValue = 0.153942 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:578][ 30]LogTemp: Warning: CurrentRightAxisValue = 0.138548 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:586][ 31]LogTemp: Warning: CurrentRightAxisValue = 0.124693 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:594][ 32]LogTemp: Warning: CurrentRightAxisValue = 0.112224 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:603][ 33]LogTemp: Warning: CurrentRightAxisValue = 0.101001 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:611][ 34]LogTemp: Warning: CurrentRightAxisValue = 0.090901 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:620][ 35]LogTemp: Warning: CurrentRightAxisValue = 0.081811 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:628][ 36]LogTemp: Warning: CurrentRightAxisValue = 0.073630 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:636][ 37]LogTemp: Warning: CurrentRightAxisValue = 0.066267 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:644][ 38]LogTemp: Warning: CurrentRightAxisValue = 0.059640 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:653][ 39]LogTemp: Warning: CurrentRightAxisValue = 0.053676 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:661][ 40]LogTemp: Warning: CurrentRightAxisValue = 0.048309 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:669][ 41]LogTemp: Warning: CurrentRightAxisValue = 0.043478 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:678][ 42]LogTemp: Warning: CurrentRightAxisValue = 0.039130 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:686][ 43]LogTemp: Warning: CurrentRightAxisValue = 0.035217 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:694][ 44]LogTemp: Warning: CurrentRightAxisValue = 0.031695 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:703][ 45]LogTemp: Warning: CurrentRightAxisValue = 0.028526 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:711][ 46]LogTemp: Warning: CurrentRightAxisValue = 0.025673 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:720][ 47]LogTemp: Warning: CurrentRightAxisValue = 0.023106 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:728][ 48]LogTemp: Warning: CurrentRightAxisValue = 0.020795 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:736][ 49]LogTemp: Warning: CurrentRightAxisValue = 0.018716 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:745][ 50]LogTemp: Warning: CurrentRightAxisValue = 0.016844 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:753][ 51]LogTemp: Warning: CurrentRightAxisValue = 0.015160 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:761][ 52]LogTemp: Warning: CurrentRightAxisValue = 0.013644 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:770][ 53]LogTemp: Warning: CurrentRightAxisValue = 0.012279 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:778][ 54]LogTemp: Warning: CurrentRightAxisValue = 0.011051 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:787][ 55]LogTemp: Warning: CurrentRightAxisValue = 0.009946 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:795][ 56]LogTemp: Warning: CurrentRightAxisValue = 0.008952 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:803][ 57]LogTemp: Warning: CurrentRightAxisValue = 0.008057 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:811][ 58]LogTemp: Warning: CurrentRightAxisValue = 0.007251 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:820][ 59]LogTemp: Warning: CurrentRightAxisValue = 0.006526 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:828][ 60]LogTemp: Warning: CurrentRightAxisValue = 0.005873 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:836][ 61]LogTemp: Warning: CurrentRightAxisValue = 0.005286 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:845][ 62]LogTemp: Warning: CurrentRightAxisValue = 0.004757 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:852][ 63]LogTemp: Warning: CurrentRightAxisValue = 0.004282 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:860][ 64]LogTemp: Warning: CurrentRightAxisValue = 0.003853 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:869][ 65]LogTemp: Warning: CurrentRightAxisValue = 0.003468 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:877][ 66]LogTemp: Warning: CurrentRightAxisValue = 0.003121 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:885][ 67]LogTemp: Warning: CurrentRightAxisValue = 0.002809 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:894][ 68]LogTemp: Warning: CurrentRightAxisValue = 0.002528 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:903][ 69]LogTemp: Warning: CurrentRightAxisValue = 0.002275 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:911][ 70]LogTemp: Warning: CurrentRightAxisValue = 0.002048 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:919][ 71]LogTemp: Warning: CurrentRightAxisValue = 0.001843 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:928][ 72]LogTemp: Warning: CurrentRightAxisValue = 0.001659 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:936][ 73]LogTemp: Warning: CurrentRightAxisValue = 0.001493 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:944][ 74]LogTemp: Warning: CurrentRightAxisValue = 0.001344 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:953][ 75]LogTemp: Warning: CurrentRightAxisValue = 0.001209 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:961][ 76]LogTemp: Warning: CurrentRightAxisValue = 0.001088 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:970][ 77]LogTemp: Warning: CurrentRightAxisValue = 0.000979 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:978][ 78]LogTemp: Warning: CurrentRightAxisValue = 0.000882 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:986][ 79]LogTemp: Warning: CurrentRightAxisValue = 0.000793 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.54:995][ 80]LogTemp: Warning: CurrentRightAxisValue = 0.000714 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:002][ 81]LogTemp: Warning: CurrentRightAxisValue = 0.000643 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:011][ 82]LogTemp: Warning: CurrentRightAxisValue = 0.000578 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:019][ 83]LogTemp: Warning: CurrentRightAxisValue = 0.000521 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:027][ 84]LogTemp: Warning: CurrentRightAxisValue = 0.000468 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:036][ 85]LogTemp: Warning: CurrentRightAxisValue = 0.000422 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:044][ 86]LogTemp: Warning: CurrentRightAxisValue = 0.000379 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:053][ 87]LogTemp: Warning: CurrentRightAxisValue = 0.000342 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:061][ 88]LogTemp: Warning: CurrentRightAxisValue = 0.000307 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:069][ 89]LogTemp: Warning: CurrentRightAxisValue = 0.000277 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:078][ 90]LogTemp: Warning: CurrentRightAxisValue = 0.000249 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:086][ 91]LogTemp: Warning: CurrentRightAxisValue = 0.000224 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:094][ 92]LogTemp: Warning: CurrentRightAxisValue = 0.000202 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:103][ 93]LogTemp: Warning: CurrentRightAxisValue = 0.000182 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:111][ 94]LogTemp: Warning: CurrentRightAxisValue = 0.000163 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:119][ 95]LogTemp: Warning: CurrentRightAxisValue = 0.000147 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:128][ 96]LogTemp: Warning: CurrentRightAxisValue = 0.000132 TargetRightAxisValue =  0.000000
+[2022.05.29-09.51.55:136][ 97]LogTemp: Warning: CurrentRightAxisValue = 0.000119 TargetRightAxisValue =  0.000000

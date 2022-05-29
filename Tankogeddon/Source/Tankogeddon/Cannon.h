@@ -1,10 +1,13 @@
 #pragma once
+
+
 #include "CoreMinimal.h"
 #include "GameStructs.h"
 #include "GameFramework/Actor.h"
 #include "Cannon.generated.h"
 
 class UArrowComponent;
+class ASpellBox; 
 
 UCLASS()
 class TANKOGEDDON_API ACannon : public AActor
@@ -32,7 +35,9 @@ protected:
 	ECannonType Type = ECannonType::FireProjectile;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire params")
-	int AmountShells = 10;
+	TSubclassOf<class AProjectile> ProjectileClass;
+
+
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire params")
 	int AmountShellsSpecial = 10;
@@ -41,6 +46,8 @@ protected:
 	int Shells = 3;
 
 	FTimerHandle ReloadTimerHandle;
+
+	void LineTrace();
 
 	bool ReadyToFire = false;
 
@@ -51,9 +58,21 @@ public:
 	void FireSpecial();
 	bool IsReadyToFire();
 
+	UFUNCTION()
+	void AddStocks(int amount);
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire params")
+	int AmountShells = 10;
+
 protected:
 
 	virtual void BeginPlay() override;
 	void Reload();
+
+	UPROPERTY()
+	ASpellBox* SpellBox;
+
+	UPROPERTY()
+	class AActor* other;
 
 };

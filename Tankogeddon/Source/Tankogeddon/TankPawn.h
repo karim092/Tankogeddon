@@ -28,6 +28,22 @@ public:
 	UFUNCTION()
 	void RotateRight(float AxisValue);
 
+	// Called every frame
+	virtual void Tick(float DeltaTime) override;
+
+	// Called to bind functionality to input
+	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	UFUNCTION()
+	void Fire();
+
+	UFUNCTION()
+	void FireSpecial();
+
+	void SetupCannon(TSubclassOf<ACannon> cannonClass);
+
+	void ChangeWeapon(TSubclassOf<ACannon> cannonClass);
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -71,25 +87,5 @@ protected:
 
 	UPROPERTY()
 	ACannon* Cannon;
-
-
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
-
-	// Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-
-public:
-
-	UFUNCTION()
-	void Fire();
-
-	UFUNCTION()
-	void FireSpecial();
-
-protected:
-
-	void SetupCannon();
 
 };

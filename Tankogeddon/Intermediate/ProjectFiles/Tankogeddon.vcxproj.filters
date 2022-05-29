@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Tankogeddon.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D142246F-8779-469B-A01D-33F4DD937D2E}</UniqueIdentifier>
+      <UniqueIdentifier>{D81F971A-EF08-456D-8A29-D24847511CBD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Tankogeddon.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{364954B6-3E69-42DB-B6AF-1E64DE5A7E19}</UniqueIdentifier>
+      <UniqueIdentifier>{5AD4869C-7CD2-4D8F-B922-FD4B8EA59561}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,8 +27,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Tankogeddon">
-      <UniqueIdentifier>{C97E0AFF-A560-4847-99C1-E580D9D6E741}</UniqueIdentifier>
+      <UniqueIdentifier>{48E52AC0-FCF8-40D0-A9F4-3D8DAD994D30}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Tankogeddon\AmmoBox.cpp">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankogeddon\AmmoBox.h">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Tankogeddon\Cannon.cpp">
       <Filter>Source\Tankogeddon</Filter>
     </ClCompile>
@@ -39,6 +45,18 @@
       <Filter>Source\Tankogeddon</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Tankogeddon\GameStructs.h">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tankogeddon\Projectile.cpp">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankogeddon\Projectile.h">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tankogeddon\SpellBox.cpp">
+      <Filter>Source\Tankogeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankogeddon\SpellBox.h">
       <Filter>Source\Tankogeddon</Filter>
     </ClInclude>
     <None Include="..\..\Source\Tankogeddon\Tankogeddon.Build.cs">

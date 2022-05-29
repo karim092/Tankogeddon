@@ -5,6 +5,7 @@
 #include "DrawDebugHelpers.h"
 #include "TankPawn.h"
 
+
 ATankPlayerController::ATankPlayerController()
 {
 
@@ -20,6 +21,7 @@ void ATankPlayerController::SetupInputComponent()
 	InputComponent->BindAxis("RotateRight", this, &ATankPlayerController::RotateRight);
 	InputComponent->BindAction("Fire", IE_Pressed, this, &ATankPlayerController::Fire);
 	InputComponent->BindAction("FireSpecial", IE_Pressed, this, &ATankPlayerController::FireSpecial);
+	InputComponent->BindAction("WeaponChange", IE_Pressed, this, & ATankPlayerController::WeaponChange);
 
 }
 
@@ -71,6 +73,13 @@ void ATankPlayerController::FireSpecial()
 {
 
 	TankPawn->FireSpecial();
+
+}
+
+void ATankPlayerController::WeaponChange()
+{
+
+	TankPawn->ChangeWeapon(CannonClass);
 
 }
 
