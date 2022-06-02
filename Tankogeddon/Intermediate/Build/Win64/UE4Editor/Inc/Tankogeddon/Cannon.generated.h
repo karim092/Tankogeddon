@@ -76,6 +76,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ACannon); \
 	FORCEINLINE static uint32 __PPO__ProjectileClass() { return STRUCT_OFFSET(ACannon, ProjectileClass); } \
 	FORCEINLINE static uint32 __PPO__AmountShellsSpecial() { return STRUCT_OFFSET(ACannon, AmountShellsSpecial); } \
 	FORCEINLINE static uint32 __PPO__Shells() { return STRUCT_OFFSET(ACannon, Shells); } \
+	FORCEINLINE static uint32 __PPO__Damage() { return STRUCT_OFFSET(ACannon, Damage); } \
 	FORCEINLINE static uint32 __PPO__SpellBox() { return STRUCT_OFFSET(ACannon, SpellBox); } \
 	FORCEINLINE static uint32 __PPO__other() { return STRUCT_OFFSET(ACannon, other); }
 

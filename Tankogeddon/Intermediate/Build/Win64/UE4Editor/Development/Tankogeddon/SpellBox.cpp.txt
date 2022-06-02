@@ -8,4 +8,6 @@ D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tanko
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\Cannon.generated.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\SpellBox.generated.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\DamageTaker.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\DamageTaker.generated.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\TankPawn.generated.h

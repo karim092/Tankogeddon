@@ -8,6 +8,8 @@
 #include <CollisionQueryParams.h>
 #include <DrawDebugHelpers.h>
 #include "SpellBox.h"
+#include "DamageTaker.h"
+#include "HealthComponent.h"
 
 class ASpellBox;
 
@@ -147,7 +149,6 @@ void ACannon::BeginPlay()
 
 void ACannon::LineTrace()
 {
-
 	FHitResult hitResult;
 	FCollisionQueryParams traceParams = FCollisionQueryParams(FName(TEXT("FireTrace")), true, this);
 	traceParams.bTraceComplex = true;
@@ -156,25 +157,42 @@ void ACannon::LineTrace()
 	FVector start = ProjectileSpawnPoint->GetComponentLocation();
 	FVector end = ProjectileSpawnPoint->GetForwardVector() * FireRange + start;
 
+	AActor* owner = GetOwner();
+	AActor* ownerByOwner = owner != nullptr ? owner->GetOwner() : nullptr;
+
 	if (GetWorld()->LineTraceSingleByChannel(hitResult, start, end, ECollisionChannel::ECC_Visibility, traceParams))
 	{
 
 		DrawDebugLine(GetWorld(), start, hitResult.Location, FColor::Red, false, 0.5f, 0, 5);
 
-		if (hitResult.Actor.Get())
+		if (hitResult.Actor != owner && hitResult.Actor != ownerByOwner)
+		{
+			IDamageTaker* damageTakerActor = Cast<IDamageTaker>(hitResult.Actor);
+			if (damageTakerActor)
+			{
+				FDamageData damageData;
+				damageData.DamageValue = Damage;
+				damageData.Instigator = owner;
+				damageData.DamageMaker = this;
+
+				damageTakerActor->TakeDamage(damageData);
+			}
+			else
+			{
+				if (!owner)
+				{
+					hitResult.Actor.Get()->Destroy();
+				}
+			}
+
+		}
+		else
 		{
 
-			hitResult.Actor.Get()->Destroy();
+			DrawDebugLine(GetWorld(), start, end, FColor::Red, false, 0.5f, 0, 5);
 
 		}
 
 	}
-	else
-	{
-
-		DrawDebugLine(GetWorld(), start, end, FColor::Red, false, 0.5f, 0, 5);
-
-	}
-
 }
-
+//hitResult.Actor.Get() && 

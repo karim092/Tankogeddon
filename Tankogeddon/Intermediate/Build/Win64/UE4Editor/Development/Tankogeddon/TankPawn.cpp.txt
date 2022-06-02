@@ -1,10 +1,12 @@
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\Definitions.Tankogeddon.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.h
-D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\Cannon.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\DamageTaker.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\GameStructs.h
 D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
 D:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedStruct.generated.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\GameStructs.generated.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\DamageTaker.generated.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\Cannon.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\Cannon.generated.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\TankPawn.generated.h
 D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
@@ -18,3 +20,9 @@ D:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLi
 D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
 D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
 D:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ArrowComponent.generated.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\HealthComponent.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\HealthComponent.generated.h
+D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h

@@ -46,3 +46,7 @@ D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tanko
 D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\SpellBox.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\SpellBox.generated.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\DamageTaker.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\DamageTaker.generated.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\HealthComponent.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\HealthComponent.generated.h

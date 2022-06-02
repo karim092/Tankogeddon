@@ -122,6 +122,10 @@ void EmptyLinkFunctionForGeneratedCodeCannon() {}
 #endif
 		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_Shells;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Damage_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Damage;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_AmountShells_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_AmountShells;
@@ -217,6 +221,13 @@ void EmptyLinkFunctionForGeneratedCodeCannon() {}
 #endif
 	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_ACannon_Statics::NewProp_Shells = { "Shells", nullptr, (EPropertyFlags)0x0020080000010005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACannon, Shells), METADATA_PARAMS(Z_Construct_UClass_ACannon_Statics::NewProp_Shells_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACannon_Statics::NewProp_Shells_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACannon_Statics::NewProp_Damage_MetaData[] = {
+		{ "Category", "Fire | Components" },
+		{ "ModuleRelativePath", "Cannon.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ACannon_Statics::NewProp_Damage = { "Damage", nullptr, (EPropertyFlags)0x0020080000010005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACannon, Damage), METADATA_PARAMS(Z_Construct_UClass_ACannon_Statics::NewProp_Damage_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACannon_Statics::NewProp_Damage_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACannon_Statics::NewProp_AmountShells_MetaData[] = {
 		{ "Category", "Fire params" },
 		{ "ModuleRelativePath", "Cannon.h" },
@@ -246,6 +257,7 @@ void EmptyLinkFunctionForGeneratedCodeCannon() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACannon_Statics::NewProp_ProjectileClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACannon_Statics::NewProp_AmountShellsSpecial,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACannon_Statics::NewProp_Shells,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACannon_Statics::NewProp_Damage,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACannon_Statics::NewProp_AmountShells,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACannon_Statics::NewProp_SpellBox,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACannon_Statics::NewProp_other,
@@ -277,7 +289,7 @@ void EmptyLinkFunctionForGeneratedCodeCannon() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACannon, 1904523946);
+	IMPLEMENT_CLASS(ACannon, 73444582);
 	template<> TANKOGEDDON_API UClass* StaticClass<ACannon>()
 	{
 		return ACannon::StaticClass();

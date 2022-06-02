@@ -8,6 +8,8 @@
 #include "TankPlayerController.h"
 #include "Kismet/KismetMathLibrary.h"
 #include "Components/ArrowComponent.h"
+#include "HealthComponent.h"
+#include "Components/BoxComponent.h"
 
 
 DECLARE_LOG_CATEGORY_EXTERN(TankLog, All, All);
@@ -38,6 +40,12 @@ ATankPawn::ATankPawn()
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
 	Camera->SetupAttachment(SpringArm);
 
+	HealthComponent = CreateDefaultSubobject<UHealthComponent>(TEXT("HealthComponent"));
+	HealthComponent->OnDie.AddUObject(this, &ATankPawn::OnDie);
+	HealthComponent->OnHealthChange.AddUObject(this, &ATankPawn::DamageTaked);
+
+	BoxCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("BoxCollision"));
+	BoxCollision->SetupAttachment(BodyMesh);
 }
 
 void ATankPawn::MoveForward(float AxisValue)
@@ -80,7 +88,7 @@ void ATankPawn::Tick(float DeltaTime)
 
 	// Tank Rotation
 	CurrentRightAxisValue = FMath::Lerp(CurrentRightAxisValue, TargetRightAxisValue, InterpolationKey);
-	UE_LOG(LogTemp, Warning, TEXT("CurrentRightAxisValue = %f TargetRightAxisValue = % f"), CurrentRightAxisValue, TargetRightAxisValue);
+	//UE_LOG(LogTemp, Warning, TEXT("CurrentRightAxisValue = %f TargetRightAxisValue = % f"), CurrentRightAxisValue, TargetRightAxisValue);
 
 	float yawRotation = RotationSpeed * TargetRightAxisValue * DeltaTime;
 	FRotator currentRotation = GetActorRotation();
@@ -168,6 +176,21 @@ void ATankPawn::ChangeWeapon(TSubclassOf<ACannon> cannonClass)
 	Cannon = GetWorld()->SpawnActor<ACannon>(CannonClass, params);
 	Cannon->AttachToComponent(CannonSetupPoint, FAttachmentTransformRules::SnapToTargetNotIncludingScale);
 
+}
+
+void ATankPawn::TakeDamage(FDamageData DamageData)
+{
+	HealthComponent->TakeDamage(DamageData);
+}
+
+void ATankPawn::OnDie()
+{
+	Destroy();
+}
+
+void ATankPawn::DamageTaked(float DamageValue)
+{
+	UE_LOG(LogTemp, Warning, TEXT("Turret %s taked damage : %f Health : %f"), *GetName(), DamageValue, HealthComponent->GetHealth());
 }
 
 

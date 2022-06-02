@@ -2,10 +2,12 @@ D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Developme
 D:\UE4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\UE4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon/TankPawn.h
-D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\Cannon.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\DamageTaker.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\GameStructs.h
 D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
 D:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedStruct.generated.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\GameStructs.generated.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\DamageTaker.generated.h
+D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\Cannon.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\Cannon.generated.h
 D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Inc\Tankogeddon\TankPawn.generated.h

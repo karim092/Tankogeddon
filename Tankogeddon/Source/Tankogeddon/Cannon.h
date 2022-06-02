@@ -45,6 +45,9 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire params")
 	int Shells = 3;
 
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire | Components")
+	float Damage = 1.0f;
+
 	FTimerHandle ReloadTimerHandle;
 
 	void LineTrace();
