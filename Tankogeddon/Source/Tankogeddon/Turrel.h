@@ -5,11 +5,14 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "DamageTaker.h"
+#include "Particles/ParticleSystemComponent.h"
 #include "GameStructs.h"
+#include "TankPawn.h"
 #include "Turrel.generated.h"
 
 class UStaticMeshComponent;
 class ACannon;
+class ATankPawn;
 
 UCLASS()
 class TANKOGEDDON_API ATurrel : public AActor, public IDamageTaker
@@ -29,8 +32,16 @@ public:
 	UFUNCTION()
 	void DamageTaked(float Damage);
 
+	FVector GetEyesPosition();
+
 protected:
 	
+	UPROPERTY()
+	ATankPawn* TankPawn;
+
+	UPROPERTY()
+	ATurrel* Turrel;
+
 	virtual void BeginPlay() override;
 	virtual void Destroyed() override;
 
@@ -77,7 +88,15 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Targeting")
 	float Accurency = 10.0f;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Effects")
+	UParticleSystemComponent* DeadEffect;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Effects")
+	UParticleSystem* DEffect;
+
 	const FString BodyMeshPath = "StaticMesh'/Game/CSC/Meshes/SM_CSC_Tower1.SM_CSC_Tower1'";
 	const FString TurretMeshPath = "StaticMesh'/Game/CSC/Meshes/SM_CSC_Gun1.SM_CSC_Gun1'";
+
+	bool IsPlayerSeen();
 
 };

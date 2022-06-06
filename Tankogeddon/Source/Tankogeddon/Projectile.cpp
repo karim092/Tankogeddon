@@ -6,6 +6,9 @@
 #include "Components/StaticMeshComponent.h"
 #include "DamageTaker.h"
 #include "GameStructs.h"
+#include "Kismet/GameplayStatics.h"
+#include "DrawDebugHelpers.h"
+#include "Particles/ParticleSystemComponent.h"
 
 // Sets default values
 AProjectile::AProjectile()
@@ -20,6 +23,9 @@ AProjectile::AProjectile()
 	Mesh->SetupAttachment(RootComponent);
 	Mesh->OnComponentBeginOverlap.AddDynamic(this, &AProjectile::OnMeshOverlapBegin);
 	Mesh->SetCollisionObjectType(ECollisionChannel::ECC_GameTraceChannel1);
+
+	static ConstructorHelpers::FObjectFinder<UParticleSystem>Particle(TEXT("ParticleSystem'/Game/CSC/Demo/Particles/P_Explosion.P_Explosion'"));
+	HitEffect = Particle.Object;
 
 }
 
@@ -74,6 +80,7 @@ void AProjectile::OnMeshOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor
 				OtherActor->Destroy();
 			}
 		}
+		UParticleSystemComponent* MyParticles = UGameplayStatics::SpawnEmitterAtLocation(this->GetWorld(), HitEffect, this->GetActorLocation(), this->GetActorRotation(), this->GetActorScale(), true);
 		Destroy();
 	}
 

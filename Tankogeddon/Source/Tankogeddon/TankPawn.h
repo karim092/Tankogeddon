@@ -55,6 +55,23 @@ public:
 	UFUNCTION()
 	void DamageTaked(float DamageValue);
 
+	UFUNCTION()
+	TArray<FVector> GetPatrollingPoints() { return PatrollingPoints; };
+
+	UFUNCTION()
+	float GetMovementAccurency() { return MovementAccurency; };
+
+	UFUNCTION()
+	FVector GetTurretForwardVector();
+
+	UFUNCTION()
+	void RotateTurretTo(FVector TargetPosition);
+
+	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = "Components")
+	UArrowComponent* CannonSetupPoint;
+
+	FVector GetEyesPosition();
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -89,6 +106,12 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Turret|Speed")
 	float TurretRotationInterpolationKey = 0.5f;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Move params|Patrolpoints" , Meta = (MakeEditWidget = true))
+	TArray<FVector> PatrollingPoints;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Moveparams | Accurency")
+	float MovementAccurency = 50;
+
 	float TargetForwardAxisValue;
 	float TargetRightAxisValue;
 	float CurrentRightAxisValue;
@@ -96,13 +119,13 @@ protected:
 	UPROPERTY()
 	ATankPlayerController* TankController;
 
-	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = "Components")
-	UArrowComponent* CannonSetupPoint;
-
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Turret|Cannon")
 	TSubclassOf<ACannon> CannonClass;
 
 	UPROPERTY()
 	ACannon* Cannon;
+
+	UPROPERTY()
+	ATankPawn* YankPawn;
 
 };

@@ -10,6 +10,8 @@
 #include "SpellBox.h"
 #include "DamageTaker.h"
 #include "HealthComponent.h"
+#include "Components/AudioComponent.h"
+#include "Particles/ParticleSystemComponent.h"
 
 class ASpellBox;
 
@@ -18,10 +20,18 @@ ACannon::ACannon()
 	PrimaryActorTick.bCanEverTick = false;
 	USceneComponent* sceeneCpm = CreateDefaultSubobject<USceneComponent>(TEXT("Root"));
 	RootComponent = sceeneCpm;
+
 	Mesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Cannon mesh"));
 	Mesh->SetupAttachment(RootComponent);
+
 	ProjectileSpawnPoint = CreateDefaultSubobject<UArrowComponent>(TEXT("Spawnpoint"));
 	ProjectileSpawnPoint->SetupAttachment(Mesh);
+
+	ShootEffect = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("ShootEffect"));
+	ShootEffect->SetupAttachment(ProjectileSpawnPoint);
+
+	AudioEffect = CreateDefaultSubobject<UAudioComponent>(TEXT("AudioEffect"));
+	AudioEffect->SetupAttachment(Mesh);
 }
 
 void ACannon::Fire()
@@ -43,6 +53,26 @@ void ACannon::Fire()
 		}
 
 		AmountShells = AmountShells - 1;
+
+		ReadyToFire = false;
+		ShootEffect->ActivateSystem();
+		AudioEffect->Play();
+
+		if (GetOwner() && GetOwner() == GetWorld()->GetFirstPlayerController()->GetPawn())
+		{
+			if (ShootForceEffect)
+			{
+				FForceFeedbackParameters shootForceEffectParams;
+				shootForceEffectParams.bLooping = false;
+				shootForceEffectParams.Tag = "shootForceEffectParams";
+				GetWorld()->GetFirstPlayerController()->ClientPlayForceFeedback(ShootForceEffect, shootForceEffectParams);
+			}
+			if (ShootShake)
+			{
+				GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(ShootShake);
+			}
+		}
+
 	}
 
 

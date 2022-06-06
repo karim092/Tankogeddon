@@ -9,12 +9,12 @@
   
   -------------------------------------------------------------------------------
   --------------------Project: Default-------------------------------------------
-  Cannon.cpp (0:04.98 at +0:00)
-  UE4Editor-Tankogeddon.dll (0:00.87 at +0:05)
+  Turrel.cpp (0:02.29 at +0:00)
+  UE4Editor-Tankogeddon.dll (0:00.78 at +0:02)
      Создается библиотека D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon.suppressed.lib и объект D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon.suppressed.exp
-  UE4Editor-Tankogeddon.lib (0:00.25 at +0:05)
+  UE4Editor-Tankogeddon.lib (0:00.18 at +0:03)
      Создается библиотека D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon.lib и объект D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon.exp
-  TankogeddonEditor.target (0:00.26 at +0:06)
+  TankogeddonEditor.target (0:00.26 at +0:03)
   ---------------------- Done ----------------------
   
       Rebuild All: 1 succeeded, 0 failed, 0 skipped
@@ -22,5 +22,5 @@
   1 build system warning(s):
      - License is invalid
   
-  Total time in XGE executor: 6,49 seconds
-  Total execution time: 7,10 seconds
+  Total time in XGE executor: 3,78 seconds
+  Total execution time: 4,41 seconds

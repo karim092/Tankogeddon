@@ -1,0 +1,1722 @@
+﻿Log file open, 06/05/22 21:52:08
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Tankogeddon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.350056
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:       Intel(R) Xeon(R) CPU E3-1270 V2 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.05-18.52.09:429][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.05-18.52.09:429][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.05-18.52.09:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.05-18.52.09:429][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.05-18.52.09:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.05-18.52.09:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.05-18.52.09:429][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.05-18.52.09:429][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.05-18.52.09:429][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.05-18.52.09:430][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.05-18.52.09:431][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.05-18.52.09:431][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.05-18.52.09:431][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.05-18.52.09:431][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.05-18.52.09:431][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.05-18.52.09:431][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.05-18.52.09:431][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.05-18.52.09:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.05-18.52.09:431][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.05-18.52.09:440][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:440][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.05-18.52.09:440][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.05-18.52.09:440][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:440][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.05-18.52.09:440][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:440][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.05-18.52.09:440][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.05-18.52.09:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.05-18.52.09:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.05-18.52.09:442][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.05-18.52.09:443][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.05-18.52.09:444][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.05-18.52.09:445][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.05-18.52.09:445][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.05-18.52.09:445][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.05-18.52.09:445][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.05-18.52.09:445][  0]LogHAL: Display: Platform has ~ 16 GB [17145421824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.05-18.52.09:445][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.05-18.52.09:445][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.05-18.52.09:445][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.05-18.52.09:446][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.05-18.52.09:447][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.05-18.52.09:448][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.05-18.52.09:449][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.05-18.52.09:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.05-18.52.09:451][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.05-18.52.09:452][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.05-18.52.09:452][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.05-18.52.09:452][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.05-18.52.09:452][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.05-18.52.09:452][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Editor.ini]
+[2022.06.05-18.52.09:452][  0]LogInit: Computer: WIN-UKE6JSO0UCB
+[2022.06.05-18.52.09:452][  0]LogInit: User: user
+[2022.06.05-18.52.09:453][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.05-18.52.09:453][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.05-18.52.09:453][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.06.05-18.52.09:453][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.05-18.52.09:453][  0]LogMemory: Process Physical Memory: 132.02 MB used, 132.02 MB peak
+[2022.06.05-18.52.09:453][  0]LogMemory: Process Virtual Memory: 111.72 MB used, 111.72 MB peak
+[2022.06.05-18.52.09:453][  0]LogMemory: Physical Memory: 9977.29 MB used,  6373.86 MB free, 16351.15 MB total
+[2022.06.05-18.52.09:453][  0]LogMemory: Virtual Memory: 134205168.00 MB used,  12563.42 MB free, 134217728.00 MB total
+[2022.06.05-18.52.09:469][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.05-18.52.09:723][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.05-18.52.09:725][  0]LogInit: Using OS detected language (ru-RU).
+[2022.06.05-18.52.09:725][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.06.05-18.52.09:728][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.06.05-18.52.09:729][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.06.05-18.52.09:729][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.06.05-18.52.09:729][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.06.05-18.52.09:729][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.06.05-18.52.09:729][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.06.05-18.52.09:730][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.06.05-18.52.09:730][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.06.05-18.52.09:731][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.05-18.52.09:761][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-18.52.09:780][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.05-18.52.09:780][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.05-18.52.10:049][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.05-18.52.10:049][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.05-18.52.10:050][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.05-18.52.10:050][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.05-18.52.10:191][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2022.06.05-18.52.10:191][  0]LogD3D11RHI:       2988/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.05-18.52.10:196][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.05-18.52.10:196][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.05-18.52.10:196][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.05-18.52.10:202][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.05-18.52.10:203][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.05-18.52.10:203][  0]LogWindows: EnumDisplayDevices:
+[2022.06.05-18.52.10:203][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2022.06.05-18.52.10:203][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.06.05-18.52.10:204][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.06.05-18.52.10:204][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.06.05-18.52.10:204][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.05-18.52.10:204][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2022.06.05-18.52.10:204][  0]LogD3D11RHI:   Driver Version: 512.96 (internal:30.0.15.1296, unified:512.96)
+[2022.06.05-18.52.10:204][  0]LogD3D11RHI:      Driver Date: 5-19-2022
+[2022.06.05-18.52.10:204][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2022.06.05-18.52.10:282][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.05-18.52.10:283][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.05-18.52.10:283][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.05-18.52.10:308][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.05-18.52.10:313][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.05-18.52.10:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.05-18.52.10:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.05-18.52.10:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.05-18.52.10:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.05-18.52.10:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.05-18.52.10:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.05-18.52.10:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.05-18.52.10:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.05-18.52.10:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.05-18.52.10:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.05-18.52.10:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.05-18.52.10:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.05-18.52.10:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.05-18.52.10:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.05-18.52.10:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.05-18.52.10:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.05-18.52.10:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.05-18.52.10:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.05-18.52.10:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.05-18.52.10:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.05-18.52.10:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.05-18.52.10:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.05-18.52.10:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.05-18.52.10:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.05-18.52.10:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.05-18.52.10:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.05-18.52.10:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.05-18.52.10:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.05-18.52.10:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.05-18.52.10:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.05-18.52.10:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.05-18.52.10:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.05-18.52.10:928][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.05-18.52.10:949][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.05-18.52.11:088][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.05-18.52.11:089][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Intermediate/Shaders/WorkingDirectory/20224/).
+[2022.06.05-18.52.11:089][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/0C347AC04D8139862981598E8424F9AE/'.
+[2022.06.05-18.52.11:089][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.06.05-18.52.11:979][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.05-18.52.12:034][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.05-18.52.12:034][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.06.05-18.52.12:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE4_Curs/Tankogeddon/Tankogeddon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.05-18.52.12:035][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.05-18.52.12:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE4_Curs/Tankogeddon/Tankogeddon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.05-18.52.12:035][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.05-18.52.12:048][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.05-18.52.12:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.05-18.52.12:048][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.05-18.52.12:060][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.05-18.52.12:060][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=455.42MBs, RandomWriteSpeed=99.96MBs. Assigned SpeedClass 'Local'
+[2022.06.05-18.52.12:062][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.05-18.52.12:062][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.05-18.52.12:063][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.05-18.52.12:116][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.05-18.52.12:117][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.05-18.52.12:151][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2022.06.05-18.52.12:462][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.05-18.52.12:463][  0]LogInit: Active device profile: [0000026D96907700][0000026D95A49840 49] Windows
+[2022.06.05-18.52.12:463][  0]LogInit: Profiles: [0000026D96907700][0000026D95A49840 49] Windows, [0000026D968D8A00][0000026D95A4D980 49] WindowsNoEditor, [0000026D96904B00][0000026D95A55B00 49] WindowsServer, [0000026D968DB000][0000026D95A59C80 49] WindowsClient, [0000026D96906F00][0000026D95A5C140 49] IOS, [0000026D968D9300][0000026D95A602C0 49] iPadAir, [0000026D96905200][0000026D95A64440 49] iPadAir2, [0000026D96890A00][0000026D95A6C700 49] IPadPro, [0000026D96890B00][0000026D95A68740 49] iPadAir3, [0000026D96906A00][0000026D95A708C0 49] iPadAir4, [0000026D96893900][0000026D95A74A40 49] iPadMini2, [0000026D96905600][0000026D95A78BC0 49] iPadMini3, [0000026D96891F00][0000026D95A7CD40 49] iPadMini4, [0000026D96907B00][0000026D95A80EC0 49] iPadMini5, [0000026D968D8600][0000026D95A89180 49] iPhone6, [0000026D968D9C00][0000026D95A851C0 49] iPodTouch6, [0000026D96893200][0000026D95A91480 49] iPhone7, [0000026D9687FF00][0000026D95A8D4C0 49] iPodTouch7, [0000026D968DB900][0000026D95A95640 49] iPhone5S, [0000026D9687D000][0000026D95A51780 49] iPhone6Plus, [0000026D968D9000][0000026D95A998C0 49] iPhone6S, [0000026D9687EB00][0000026D95A9DA00 49] iPhone6SPlus, [0000026D968D8400][0000026D95AA5B80 49] iPhone7Plus, [0000026D9687D700][0000026D95AA9D00 49] iPhoneSE, [0000026D968DBC00][0000026D95AAC1C0 49] iPhone8, [0000026D9687FB00][0000026D95AB0340 49] iPhone8Plus, [0000026D968D9D00][0000026D95AB44C0 49] iPhoneX, [0000026D9687CA00][0000026D95AB8640 49] iPhoneXS, [0000026D968DB400][0000026D95ABC7C0 49] iPhoneXSMax, [0000026D9687EE00][0000026D96AD0940 49] iPhoneXR, [0000026D968DA900][0000026D96AD4AC0 49] iPhone11, [0000026D9687F700][0000026D96AD8C40 49] iPhone11Pro, [0000026D968DB100][0000026D96ADCDC0 49] iPhone11ProMax, [0000026D9687FE00][0000026D96AE0F40 49] iPhoneSE2, [0000026D968D8D00][0000026D96AE50C0 49] iPhone12Mini, [0000026D9687C800][0000026D96AE9240 49] iPhone12, [0000026D968D9700][0000026D96AED3C0 49] iPhone12Pro, [0000026D9687E300][0000026D96AF1540 49] iPhone12ProMax, [0000026D968D8800][0000026D96AF56C0 49] iPadPro105, [0000026D9687F000][0000026D95AA1800 49] iPadPro129, [0000026D968DBD00][0000026D96AF9940 49] iPadPro97, [0000026D9687E500][0000026D96AFDA80 49] iPadPro2_129, [0000026D968D9200][0000026D96B05C00 49] iPad5, [0000026D9687CC00][0000026D96B080C0 49] iPad6, [0000026D968D9B00][0000026D96B0C240 49] iPad7, [0000026D9687FC00][0000026D96B103C0 49] iPad8, [0000026D968D9500][0000026D96B14540 49] iPadPro11, [0000026D9687F100][0000026D96B186C0 49] iPadPro2_11, [0000026D968DA600][0000026D96B1C840 49] iPadPro3_129, [0000026D9687DF00][0000026D96B209C0 49] iPadPro4_129, [0000026D968D8200][0000026D96B24B40 49] AppleTV, [0000026D9687F600][0000026D96B28CC0 49] AppleTV4K, [0000026D968D8C00][0000026D96B2CE40 49] TVOS, [0000026D9687EA00][0000026D96B30FC0 49] Mac, [0000026D968D9600][0000026D96B35140 49] MacClient, [0000026D9687F900][0000026D96B392C0 49] MacNoEditor, [0000026D968D8B00][0000026D96B3D440 49] MacServer, [0000026D9687E900][0000026D96B415C0 49] Linux, [0000026D968DAA00][0000026D96B45740 49] LinuxAArch64, [0000026D9687C700][0000026D96B01880 49] LinuxNoEditor, [0000026D968DB500][0000026D96B499C0 49] LinuxAArch64NoEditor, [0000026D9687CB00][0000026D96B4DB00 49] LinuxClient, [0000026D968DA500][0000026D96B51C40 49] LinuxAArch64Client, [0000026D9687D500][0000026D96B58100 49] LinuxServer, [0000026D968D8E00][0000026D96B5C280 49] LinuxAArch64Server, [0000026D96954700][0000026D96B60400 49] Android, [0000026D96890E00][0000026D96B64580 49] Android_Low, [0000026D96954100][0000026D96B68700 49] Android_Mid, [0000026D96892600][0000026D96B6C880 49] Android_High, [0000026D96954500][0000026D96B70A00 49] Android_Default, [0000026D96893000][0000026D96B74B80 49] Android_Adreno4xx, [0000026D96955F00][0000026D96B78D00 49] Android_Adreno5xx_Low, [0000026D96891500][0000026D96B7CE80 49] Android_Adreno5xx, [0000026D96955B00][0000026D96B81000 49] Android_Adreno6xx, [0000026D96891800][0000026D96B85180 49] Android_Adreno6xx_Vulkan, [0000026D96954C00][0000026D96B89300 49] Android_Mali_T6xx, [0000026D96892B00][0000026D96B8D480 49] Android_Mali_T7xx, [0000026D96954A00][0000026D96B91600 49] Android_Mali_T8xx, [0000026D96891100][0000026D96B95780 49] Android_Mali_G71, [0000026D96955800][0000026D96B558C0 49] Android_Mali_G72, [0000026D96893300][0000026D96B99A00 49] Android_Mali_G72_Vulkan, [0000026D96954800][0000026D96B9DB40 49] Android_Mali_G76, [0000026D9687F400][0000026D96BA1C80 49] Android_Mali_G76_Vulkan, [0000026D968D9400][0000026D96BA8140 49] Android_Mali_G77, [0000026D9687E600][0000026D96BAC2C0 49] Android_Mali_G77_Vulkan, [0000026D968D8900][0000026D96BB0440 49] Android_Vulkan_SM5, [0000026D9687EF00][0000026D96BB45C0 49] Android_PowerVR_G6xxx, [0000026D968DAD00][0000026D96BB8740 49] Android_PowerVR_GT7xxx, [0000026D9687D400][0000026D96BBC8C0 49] Android_PowerVR_GE8xxx, [0000026D968DA000][0000026D96BC0A40 49] Android_PowerVR_GM9xxx, [0000026D9687CD00][0000026D96BC4BC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000026D968DAF00][0000026D96BC8D40 49] Android_TegraK1, [0000026D9687D900][0000026D96BCCEC0 49] Android_Unknown_Vulkan, [0000026D968D9800][0000026D96BD1040 49] Lumin, [0000026D9687FA00][0000026D96BD51C0 49] Lumin_Desktop, [0000026D968DAB00][0000026D96BD9340 49] HoloLens, 
+[2022.06.05-18.52.12:625][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.05-18.52.12:625][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.05-18.52.12:625][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.05-18.52.12:625][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.05-18.52.12:625][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.05-18.52.12:644][  0]LogNetVersion: Tankogeddon 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1156881733)
+[2022.06.05-18.52.13:142][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.05-18.52.13:195][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.052839 seconds
+[2022.06.05-18.52.13:201][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.06.05-18.52.13:201][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.06.05-18.52.13:201][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.05-18.52.13:816][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.05-18.52.13:827][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.05-18.52.14:215][  0]SourceControl: Source control is disabled
+[2022.06.05-18.52.14:215][  0]SourceControl: Source control is disabled
+[2022.06.05-18.52.14:222][  0]SourceControl: Source control is disabled
+[2022.06.05-18.52.14:228][  0]SourceControl: Source control is disabled
+[2022.06.05-18.52.14:321][  0]SourceControl: Source control is disabled
+[2022.06.05-18.52.14:387][  0]LogUProjectInfo: Found projects:
+[2022.06.05-18.52.14:509][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.05-18.52.14:548][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.05-18.52.14:548][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.05-18.52.14:644][  0]LogCollectionManager: Loaded 0 collections in 0.000805 seconds
+[2022.06.05-18.52.14:679][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Collections/' took 0.00s
+[2022.06.05-18.52.14:679][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/Developers/user/Collections/' took 0.00s
+[2022.06.05-18.52.14:679][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/Collections/' took 0.00s
+[2022.06.05-18.52.14:679][  0]LogOcInput: OculusInput pre-init called
+[2022.06.05-18.52.14:695][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.06.05-18.52.14:695][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.06.05-18.52.14:762][  0]LogEngine: Initializing Engine...
+[2022.06.05-18.52.14:763][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.05-18.52.14:763][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.05-18.52.14:765][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.05-18.52.14:886][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.05-18.52.14:897][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.05-18.52.14:907][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.05-18.52.14:914][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.05-18.52.14:914][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.05-18.52.14:914][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-18.52.14:914][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-18.52.14:914][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-18.52.14:914][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-18.52.14:914][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-18.52.14:914][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-18.52.14:914][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-18.52.14:915][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-18.52.14:915][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-18.52.14:915][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-18.52.14:938][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-18.52.14:938][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-18.52.15:003][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-18.52.15:006][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-18.52.15:008][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-18.52.15:009][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-18.52.15:010][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-18.52.15:010][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-18.52.15:010][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-18.52.15:012][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-18.52.15:012][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-18.52.15:012][  0]LogInit: FAudioDevice initialized.
+[2022.06.05-18.52.15:012][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.05-18.52.15:012][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.05-18.52.15:287][  0]LogDerivedDataCache: Saved boot cache 0.27s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.05-18.52.15:292][  0]LogInit: Texture streaming: Enabled
+[2022.06.05-18.52.15:329][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.06.05-18.52.15:338][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.05-18.52.15:338][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.05-18.52.15:341][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.05-18.52.15:384][  0]LogInit: Transaction tracking system initialized
+[2022.06.05-18.52.15:424][  0]BlueprintLog: New page: Editor Load
+[2022.06.05-18.52.15:556][  0]LocalizationService: Localization service is disabled
+[2022.06.05-18.52.15:600][  0]TimingProfiler: Initialize
+[2022.06.05-18.52.15:600][  0]TimingProfiler: OnSessionChanged
+[2022.06.05-18.52.15:600][  0]LoadingProfiler: Initialize
+[2022.06.05-18.52.15:600][  0]LoadingProfiler: OnSessionChanged
+[2022.06.05-18.52.15:600][  0]NetworkingProfiler: Initialize
+[2022.06.05-18.52.15:600][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.05-18.52.15:601][  0]MemoryProfiler: Initialize
+[2022.06.05-18.52.15:601][  0]MemoryProfiler: OnSessionChanged
+[2022.06.05-18.52.16:107][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.05-18.52.16:108][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.05-18.52.16:374][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/' took 0.01s
+[2022.06.05-18.52.16:596][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.05-18.52.16:599][  0]SourceControl: Source control is disabled
+[2022.06.05-18.52.16:600][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.697
+[2022.06.05-18.52.16:600][  0]Cmd: MAP LOAD FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.05-18.52.16:600][  0]LogEditorServer: Warning: Can't find file '../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/TestLevel.umap'
+[2022.06.05-18.52.16:600][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.05-18.52.16:600][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,128ms to complete.
+[2022.06.05-18.52.16:600][  0]LogFileHelpers: Loading map 'TestLevel' took 0.001
+[2022.06.05-18.52.16:603][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.701
+[2022.06.05-18.52.16:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.52.16:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.52.16:807][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.52.16:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.52.16:829][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3613 classes and 861 folders.
+[2022.06.05-18.52.16:834][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.05-18.52.16:836][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.05-18.52.16:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-18.52.16:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.06.05-18.52.16:837][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.05-18.52.16:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.05-18.52.16:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.06.05-18.52.16:838][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.05-18.52.16:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.05-18.52.16:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.06.05-18.52.16:839][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-18.52.16:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-18.52.16:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.06.05-18.52.16:840][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.05-18.52.16:840][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:840][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.05-18.52.16:840][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.06.05-18.52.16:841][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.05-18.52.16:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.05-18.52.16:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.06.05-18.52.16:842][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.05-18.52.16:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.05-18.52.16:842][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.05-18.52.16:843][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.05-18.52.16:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.05-18.52.16:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.05-18.52.16:844][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.05-18.52.16:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.05-18.52.16:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.06.05-18.52.16:845][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.05-18.52.16:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.05-18.52.16:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.06.05-18.52.16:845][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.05-18.52.16:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.05-18.52.16:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.05-18.52.16:846][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.05-18.52.16:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.05-18.52.16:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.05-18.52.16:847][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-18.52.16:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.05-18.52.16:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-18.52.16:848][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.05-18.52.16:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.05-18.52.16:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.06.05-18.52.16:849][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.05-18.52.16:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.05-18.52.16:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.05-18.52.16:850][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.05-18.52.16:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-18.52.16:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.06.05-18.52.16:851][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.05-18.52.16:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.05-18.52.16:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.06.05-18.52.16:852][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.05-18.52.16:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.05-18.52.16:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.06.05-18.52.16:853][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-18.52.16:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.05-18.52.16:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.06.05-18.52.16:854][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-18.52.16:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.05-18.52.16:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.05-18.52.16:855][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.05-18.52.16:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-18.52.16:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.06.05-18.52.16:856][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.05-18.52.16:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.05-18.52.16:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.06.05-18.52.16:857][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.05-18.52.16:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.05-18.52.16:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.06.05-18.52.16:858][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.05-18.52.16:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.05-18.52.16:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.06.05-18.52.16:859][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-18.52.16:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.05-18.52.16:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.06.05-18.52.16:860][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.05-18.52.16:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-18.52.16:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.05-18.52.16:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.06.05-18.52.16:910][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.05-18.52.16:914][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.06.05-18.52.17:010][  0]LogSlate: Took 0.000504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.05-18.52.17:012][  0]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.05-18.52.17:018][  0]LogSlate: Took 0.000424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.05-18.52.17:118][  0]LogRenderer: Reallocating scene render targets to support 1208x524 Format 10 NumSamples 1 (Frame:1).
+[2022.06.05-18.52.17:819][  0]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.05-18.52.17:942][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.06.05-18.52.17:942][  0]LogLoad: (Engine Initialization) Total time: 10.04 seconds
+[2022.06.05-18.52.17:942][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.05-18.52.17:942][  0]LogInit: First time updating LLM stats...
+[2022.06.05-18.52.18:007][  0]LogAssetRegistry: Asset discovery search completed in 5.8579 seconds
+[2022.06.05-18.52.18:008][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.06.05-18.52.18:009][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.05-18.52.21:621][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.05-18.52.21:627][409]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.05-18.52.21:815][409]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.06.05-18.52.21:816][409]Cmd: MAP LOAD FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.05-18.52.21:816][409]LightingResults: New page: Lighting Build
+[2022.06.05-18.52.21:817][409]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2022.06.05-18.52.21:817][409]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.06.05-18.52.21:857][409]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-18.52.21:857][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.52.21:858][409]MapCheck: New page: Map Check
+[2022.06.05-18.52.21:858][409]LightingResults: New page: Lighting Build
+[2022.06.05-18.52.21:872][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.06.05-18.52.21:874][409]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.06.05-18.52.21:878][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:879][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:879][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:879][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:880][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:880][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:880][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:881][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:881][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:882][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:882][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:882][409]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.21:976][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.05-18.52.21:976][409]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-18.52.21:984][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.05-18.52.21:995][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.05-18.52.21:995][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,115ms to complete.
+[2022.06.05-18.52.21:995][409]LogFileHelpers: Loading map 'TestLevel' took 0.180
+[2022.06.05-18.52.22:818][492]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.05-18.52.22:824][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-18.52.22:824][492]PIE: New page: PIE session: TestLevel (6 июн. 2022 г., 00:52:22)
+[2022.06.05-18.52.22:826][492]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.05-18.52.22:828][492]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.05-18.52.22:828][492]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.52.22:833][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004873s)
+[2022.06.05-18.52.22:835][492]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-18.52.22:835][492]LogPlayLevel: PIE: World Init took: (0.001659s)
+[2022.06.05-18.52.22:835][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.006934s)
+[2022.06.05-18.52.22:841][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.05-18.52.22:841][492]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.05-18.52.22:842][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-18.52.22:842][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-18.52.22:842][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-18.52.22:842][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-18.52.22:842][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-18.52.22:842][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-18.52.22:842][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-18.52.22:842][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-18.52.22:843][492]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-18.52.22:843][492]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-18.52.22:847][492]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-18.52.22:847][492]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-18.52.22:880][492]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-18.52.22:880][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-18.52.22:880][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-18.52.22:880][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-18.52.22:881][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-18.52.22:881][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-18.52.22:881][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-18.52.22:896][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-18.52.22:896][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-18.52.22:896][492]LogInit: FAudioDevice initialized.
+[2022.06.05-18.52.22:897][492]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestLevel'.
+[2022.06.05-18.52.22:941][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.52.22:941][492]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.06.05-18.52.22:945][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:946][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:946][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:947][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:947][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:948][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:948][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:948][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:949][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:949][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:949][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:950][492]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.52.22:952][492]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.06.05-21.52.22
+[2022.06.05-18.52.22:953][492]LogWorld: Bringing up level for play took: 0.008533
+[2022.06.05-18.52.22:953][492]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.06.05-18.52.22:962][492]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.06.05-18.52.22:968][492]PIE: Server logged in
+[2022.06.05-18.52.22:969][492]PIE: Play in editor total start time 0,146 seconds.
+[2022.06.05-18.52.23:034][494]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2022.06.05-18.52.27:200][979]LogTemp: Warning: Projectile BP_Projectile_C_0 collided with Cube11. 
+[2022.06.05-18.52.34:806][869]LogTemp: Warning: Projectile BP_Projectile_C_1 collided with Cube2. 
+[2022.06.05-18.52.35:346][933]LogTemp: Warning: Projectile BP_Projectile_C_2 collided with BP_Turret_2. 
+[2022.06.05-18.52.35:347][933]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 2.000000
+[2022.06.05-18.52.36:293][ 46]LogTemp: Warning: Projectile BP_Projectile_C_3 collided with Cube3. 
+[2022.06.05-18.52.36:319][ 49]LogTemp: Warning: Projectile BP_Projectile_C_4 collided with BP_Turret_2. 
+[2022.06.05-18.52.36:319][ 49]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 1.000000
+[2022.06.05-18.52.37:293][165]LogTemp: Warning: Projectile BP_Projectile_C_5 collided with Cube3. 
+[2022.06.05-18.52.37:778][223]LogTemp: Warning: Projectile BP_Projectile_C_6 collided with BP_Turret_2. 
+[2022.06.05-18.52.38:299][285]LogTemp: Warning: Projectile BP_Projectile_C_7 collided with Cube3. 
+[2022.06.05-18.52.39:315][406]LogTemp: Warning: Projectile BP_Projectile_C_8 collided with Cube3. 
+[2022.06.05-18.52.39:316][406]LogTemp: Warning: Projectile BP_Projectile_C_9 collided with BP_Turret_2. 
+[2022.06.05-18.52.40:320][526]LogTemp: Warning: Projectile BP_Projectile_C_10 collided with Cube3. 
+[2022.06.05-18.52.40:555][554]LogTemp: Warning: Projectile BP_Projectile_C_11 collided with BP_Turret_2. 
+[2022.06.05-18.52.41:328][646]LogTemp: Warning: Projectile BP_Projectile_C_12 collided with Cube3. 
+[2022.06.05-18.52.41:599][678]LogTemp: Warning: Projectile BP_Projectile_C_13 collided with BP_Turret_2. 
+[2022.06.05-18.52.42:333][765]LogTemp: Warning: Projectile BP_Projectile_C_14 collided with Cube3. 
+[2022.06.05-18.52.42:634][801]LogTemp: Warning: Projectile BP_Projectile_C_15 collided with BP_Turret_2. 
+[2022.06.05-18.52.43:341][885]LogTemp: Warning: Projectile BP_Projectile_C_16 collided with Cube3. 
+[2022.06.05-18.52.43:694][927]LogTemp: Warning: Projectile BP_Projectile_C_17 collided with BP_Turret_2. 
+[2022.06.05-18.52.44:356][  6]LogTemp: Warning: Projectile BP_Projectile_C_18 collided with Cube3. 
+[2022.06.05-18.52.45:005][ 83]LogTemp: Warning: Projectile BP_Projectile_C_19 collided with BP_Turret_2. 
+[2022.06.05-18.52.47:938][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.52.47:938][430]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.52.47:938][430]LogSlate: Window 'Tankogeddon Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-18.52.47:942][430]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-18.52.47:943][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.52.47:954][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-18.52.47:956][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.52.47:962][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.52.47:964][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.52.48:000][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.06.05-18.52.48:107][430]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.05-18.52.48:122][431]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.06.05-18.52.49:656][588]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.52.49:660][588]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.53.10:501][912]Candidate modules for hot reload:
+[2022.06.05-18.53.10:501][912]  Tankogeddon
+[2022.06.05-18.53.10:501][912]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,112 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.05-18.53.10:503][912]Warning: Starting HotReload took  0.0s.
+[2022.06.05-18.53.16:248][542]CompilerResultsLog: New page: Compilation - 6 июн. 2022 г., 00:53:16
+[2022.06.05-18.53.16:248][542]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.05-18.53.16:248][542]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.05-18.53.16:249][542]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.05-18.53.16:249][542]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.05-18.53.16:249][542]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.05-18.53.16:249][542]CompilerResultsLog: License is invalid:
+[2022.06.05-18.53.16:249][542]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.05-18.53.16:249][542]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.05-18.53.16:249][542]CompilerResultsLog: 
+[2022.06.05-18.53.16:249][542]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: Turrel.cpp (0:03.20 at +0:00)
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: UE4Editor-Tankogeddon-0112.lib (0:00.20 at +0:03)
+[2022.06.05-18.53.16:250][542]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0112.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0112.exp
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: UE4Editor-Tankogeddon-0112.dll (0:01.03 at +0:03)
+[2022.06.05-18.53.16:250][542]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0112.suppressed.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0112.suppressed.exp
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: TankogeddonEditor.target (0:00.25 at +0:04)
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: 
+[2022.06.05-18.53.16:250][542]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: 
+[2022.06.05-18.53.16:250][542]CompilerResultsLog: 1 build system warning(s):
+[2022.06.05-18.53.16:251][542]CompilerResultsLog:    - License is invalid
+[2022.06.05-18.53.16:251][542]CompilerResultsLog: 
+[2022.06.05-18.53.16:251][542]CompilerResultsLog: Total time in XGE executor: 4,84 seconds
+[2022.06.05-18.53.16:251][542]CompilerResultsLog: Total execution time: 5,65 seconds
+[2022.06.05-18.53.16:251][542]LogMainFrame: MainFrame: Module compiling took 5.758 seconds
+[2022.06.05-18.53.16:266][542]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0130 seconds. Added 3613 classes and 861 folders.
+[2022.06.05-18.53.16:269][542]Display: HotReload took  5.8s.
+[2022.06.05-18.53.17:155][646]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.05-18.53.17:161][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-18.53.17:161][646]PIE: New page: PIE session: TestLevel (6 июн. 2022 г., 00:53:17)
+[2022.06.05-18.53.17:161][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.53.17:166][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004916s)
+[2022.06.05-18.53.17:168][646]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-18.53.17:168][646]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2022.06.05-18.53.17:168][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.006690s)
+[2022.06.05-18.53.17:173][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.06.05-18.53.17:174][646]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.05-18.53.17:174][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-18.53.17:174][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-18.53.17:174][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-18.53.17:174][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-18.53.17:175][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-18.53.17:175][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-18.53.17:175][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-18.53.17:175][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-18.53.17:175][646]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-18.53.17:176][646]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-18.53.17:180][646]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-18.53.17:180][646]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-18.53.17:209][646]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-18.53.17:209][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-18.53.17:209][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-18.53.17:209][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-18.53.17:210][646]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-18.53.17:210][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-18.53.17:210][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-18.53.17:226][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-18.53.17:226][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-18.53.17:226][646]LogInit: FAudioDevice initialized.
+[2022.06.05-18.53.17:226][646]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestLevel'.
+[2022.06.05-18.53.17:266][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.53.17:267][646]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.06.05-18.53.17:269][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:270][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:270][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:271][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:271][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:272][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:272][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:272][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:273][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:273][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:274][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:274][646]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.53.17:276][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.06.05-21.53.17
+[2022.06.05-18.53.17:277][646]LogWorld: Bringing up level for play took: 0.008632
+[2022.06.05-18.53.17:278][646]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.06.05-18.53.17:292][646]PIE: Server logged in
+[2022.06.05-18.53.17:294][646]PIE: Play in editor total start time 0,134 seconds.
+[2022.06.05-18.53.18:246][749]LogTemp: Warning: Projectile BP_Projectile_C_0 collided with Cube3. 
+[2022.06.05-18.53.26:822][765]LogTemp: Warning: Projectile BP_Projectile_C_1 collided with Cube2. 
+[2022.06.05-18.53.27:487][844]LogTemp: Warning: Projectile BP_Projectile_C_2 collided with BP_Turret_2. 
+[2022.06.05-18.53.27:488][844]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 2.000000
+[2022.06.05-18.53.28:304][941]LogTemp: Warning: Projectile BP_Projectile_C_3 collided with Cube3. 
+[2022.06.05-18.53.28:548][970]LogTemp: Warning: Projectile BP_Projectile_C_4 collided with BP_Turret_2. 
+[2022.06.05-18.53.28:548][970]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 1.000000
+[2022.06.05-18.53.29:310][ 61]LogTemp: Warning: Projectile BP_Projectile_C_5 collided with Cube3. 
+[2022.06.05-18.53.29:823][121]LogTemp: Warning: Projectile BP_Projectile_C_6 collided with BP_Turret_2. 
+[2022.06.05-18.53.30:316][180]LogTemp: Warning: Projectile BP_Projectile_C_7 collided with Cube3. 
+[2022.06.05-18.53.31:329][301]LogTemp: Warning: Projectile BP_Projectile_C_8 collided with Cube3. 
+[2022.06.05-18.53.32:041][386]LogTemp: Warning: Projectile BP_Projectile_C_10 collided with BP_Turret_2. 
+[2022.06.05-18.53.32:342][422]LogTemp: Warning: Projectile BP_Projectile_C_9 collided with Cube3. 
+[2022.06.05-18.53.33:348][542]LogTemp: Warning: Projectile BP_Projectile_C_11 collided with Cube3. 
+[2022.06.05-18.53.34:355][662]LogTemp: Warning: Projectile BP_Projectile_C_12 collided with Cube3. 
+[2022.06.05-18.53.34:380][665]LogTemp: Warning: Projectile BP_Projectile_C_13 collided with BP_Turret_2. 
+[2022.06.05-18.53.35:359][782]LogTemp: Warning: Projectile BP_Projectile_C_14 collided with Cube3. 
+[2022.06.05-18.53.35:970][854]LogTemp: Warning: Projectile BP_Projectile_C_15 collided with BP_Turret_2. 
+[2022.06.05-18.53.36:372][902]LogTemp: Warning: Projectile BP_Projectile_C_16 collided with Cube3. 
+[2022.06.05-18.53.37:929][ 88]LogTemp: Warning: Projectile BP_Projectile_C_17 collided with BP_Turret_2. 
+[2022.06.05-18.53.39:590][286]LogTemp: Warning: Projectile BP_Projectile_C_18 collided with BP_Turret_2. 
+[2022.06.05-18.53.40:918][445]LogTemp: Warning: Projectile BP_Projectile_C_19 collided with BP_Turret_2. 
+[2022.06.05-18.53.43:066][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.53.43:067][698]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.53.43:067][698]LogSlate: Window 'Tankogeddon Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-18.53.43:070][698]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-18.53.43:071][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.53.43:088][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-18.53.43:090][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.53.43:096][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-18.53.43:096][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.53.43:098][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.53.43:129][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.06.05-18.53.43:221][699]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.06.05-18.53.44:439][817]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.53.44:443][817]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.54.20:240][504]Candidate modules for hot reload:
+[2022.06.05-18.54.20:240][504]  Tankogeddon
+[2022.06.05-18.54.20:240][504]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,3124 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.05-18.54.20:242][504]Warning: Starting HotReload took  0.0s.
+[2022.06.05-18.54.25:074][ 20]CompilerResultsLog: New page: Compilation - 6 июн. 2022 г., 00:54:25
+[2022.06.05-18.54.25:074][ 20]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.05-18.54.25:074][ 20]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: License is invalid:
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: 
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: Turrel.cpp (0:02.18 at +0:00)
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog: UE4Editor-Tankogeddon-3124.lib (0:00.20 at +0:02)
+[2022.06.05-18.54.25:075][ 20]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-3124.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-3124.exp
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog: UE4Editor-Tankogeddon-3124.dll (0:01.04 at +0:02)
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-3124.suppressed.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-3124.suppressed.exp
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog: TankogeddonEditor.target (0:00.25 at +0:03)
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog: 
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog: 
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog: 1 build system warning(s):
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog:    - License is invalid
+[2022.06.05-18.54.25:076][ 20]CompilerResultsLog: 
+[2022.06.05-18.54.25:077][ 20]CompilerResultsLog: Total time in XGE executor: 3,94 seconds
+[2022.06.05-18.54.25:077][ 20]CompilerResultsLog: Total execution time: 4,74 seconds
+[2022.06.05-18.54.25:077][ 20]LogMainFrame: MainFrame: Module compiling took 4.841 seconds
+[2022.06.05-18.54.25:097][ 20]LogClass: ECannonType HotReload.
+[2022.06.05-18.54.25:097][ 20]LogClass: DamageData HotReload.
+[2022.06.05-18.54.25:108][ 20]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Tankogeddon' in 0.0003 seconds. Added 12 classes and 2 folders.
+[2022.06.05-18.54.25:110][ 20]Display: HotReload successful (19 functions remapped  1 scriptstructs remapped)
+[2022.06.05-18.54.25:162][ 20]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3613 classes and 861 folders.
+[2022.06.05-18.54.25:166][ 20]Display: HotReload took  4.9s.
+[2022.06.05-18.54.25:939][111]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.05-18.54.25:952][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-18.54.25:952][111]PIE: New page: PIE session: TestLevel (6 июн. 2022 г., 00:54:25)
+[2022.06.05-18.54.25:952][111]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.54.25:957][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004560s)
+[2022.06.05-18.54.25:958][111]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-18.54.25:959][111]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2022.06.05-18.54.25:959][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.006667s)
+[2022.06.05-18.54.25:965][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.06.05-18.54.25:966][111]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.05-18.54.25:966][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-18.54.25:966][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-18.54.25:966][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-18.54.25:966][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-18.54.25:966][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-18.54.25:966][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-18.54.25:967][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-18.54.25:967][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-18.54.25:967][111]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-18.54.25:967][111]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-18.54.25:971][111]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-18.54.25:971][111]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-18.54.26:000][111]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-18.54.26:001][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-18.54.26:001][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-18.54.26:001][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-18.54.26:001][111]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-18.54.26:001][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-18.54.26:001][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-18.54.26:017][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-18.54.26:017][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-18.54.26:017][111]LogInit: FAudioDevice initialized.
+[2022.06.05-18.54.26:017][111]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestLevel'.
+[2022.06.05-18.54.26:050][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.54.26:050][111]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.06.05-18.54.26:052][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:052][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:052][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:053][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:053][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:053][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:053][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:053][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:053][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:054][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:054][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:054][111]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.54.26:055][111]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.06.05-21.54.26
+[2022.06.05-18.54.26:055][111]LogWorld: Bringing up level for play took: 0.003902
+[2022.06.05-18.54.26:055][111]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.06.05-18.54.26:063][111]PIE: Server logged in
+[2022.06.05-18.54.26:064][111]PIE: Play in editor total start time 0,115 seconds.
+[2022.06.05-18.54.27:352][256]LogTemp: Warning: Projectile BP_Projectile_C_0 collided with Cube4. 
+[2022.06.05-18.54.35:409][214]LogTemp: Warning: Projectile BP_Projectile_C_1 collided with Cube2. 
+[2022.06.05-18.54.35:866][268]LogTemp: Warning: Projectile BP_Projectile_C_2 collided with BP_Turret_2. 
+[2022.06.05-18.54.35:866][268]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 2.000000
+[2022.06.05-18.54.36:893][389]LogTemp: Warning: Projectile BP_Projectile_C_3 collided with Cube3. 
+[2022.06.05-18.54.37:048][407]LogTemp: Warning: Projectile BP_Projectile_C_4 collided with BP_Turret_2. 
+[2022.06.05-18.54.37:048][407]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 1.000000
+[2022.06.05-18.54.37:862][504]LogTemp: Warning: Projectile BP_Projectile_C_5 collided with Cube3. 
+[2022.06.05-18.54.38:119][535]LogTemp: Warning: Projectile BP_Projectile_C_6 collided with BP_Turret_2. 
+[2022.06.05-18.54.38:864][624]LogTemp: Warning: Projectile BP_Projectile_C_7 collided with Cube3. 
+[2022.06.05-18.54.44:687][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.54.44:688][317]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.54.44:688][317]LogSlate: Window 'Tankogeddon Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-18.54.44:696][317]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-18.54.44:698][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.54.44:718][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-18.54.44:721][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.54.44:727][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-18.54.44:727][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.54.44:729][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.54.44:783][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.05-18.54.44:893][318]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.05-18.54.46:824][526]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.54.46:828][526]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.55.15:137][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_Turret.BP_Turret
+[2022.06.05-18.55.15:441][665]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.06.05-18.55.16:804][665]LogSlate: Took 0.000445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.05-18.55.16:860][666]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.05-18.55.38:460][110]LogSlate: Window 'BP_Turret' being destroyed
+[2022.06.05-18.55.38:462][110]LogSlate: Window 'BP_Turret' being destroyed
+[2022.06.05-18.55.38:466][110]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-18.55.38:466][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.55.39:989][218]Candidate modules for hot reload:
+[2022.06.05-18.55.39:989][218]  Tankogeddon
+[2022.06.05-18.55.39:989][218]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,3499 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.05-18.55.39:991][218]Warning: Starting HotReload took  0.0s.
+[2022.06.05-18.55.45:655][771]CompilerResultsLog: New page: Compilation - 6 июн. 2022 г., 00:55:45
+[2022.06.05-18.55.45:655][771]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.05-18.55.45:655][771]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.05-18.55.45:655][771]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.05-18.55.45:655][771]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.05-18.55.45:655][771]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.05-18.55.45:655][771]CompilerResultsLog: License is invalid:
+[2022.06.05-18.55.45:655][771]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.05-18.55.45:656][771]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.05-18.55.45:656][771]CompilerResultsLog: 
+[2022.06.05-18.55.45:656][771]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.05-18.55.45:656][771]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.05-18.55.45:656][771]CompilerResultsLog: Turrel.cpp (0:02.54 at +0:00)
+[2022.06.05-18.55.45:656][771]CompilerResultsLog: UE4Editor-Tankogeddon-3499.lib (0:00.31 at +0:02)
+[2022.06.05-18.55.45:656][771]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-3499.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-3499.exp
+[2022.06.05-18.55.45:656][771]CompilerResultsLog: UE4Editor-Tankogeddon-3499.dll (0:01.17 at +0:02)
+[2022.06.05-18.55.45:656][771]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-3499.suppressed.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-3499.suppressed.exp
+[2022.06.05-18.55.45:656][771]CompilerResultsLog: TankogeddonEditor.target (0:00.34 at +0:04)
+[2022.06.05-18.55.45:656][771]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.05-18.55.45:657][771]CompilerResultsLog: 
+[2022.06.05-18.55.45:657][771]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.06.05-18.55.45:657][771]CompilerResultsLog: 
+[2022.06.05-18.55.45:657][771]CompilerResultsLog: 1 build system warning(s):
+[2022.06.05-18.55.45:657][771]CompilerResultsLog:    - License is invalid
+[2022.06.05-18.55.45:657][771]CompilerResultsLog: 
+[2022.06.05-18.55.45:657][771]CompilerResultsLog: Total time in XGE executor: 4,64 seconds
+[2022.06.05-18.55.45:657][771]CompilerResultsLog: Total execution time: 5,57 seconds
+[2022.06.05-18.55.45:657][771]LogMainFrame: MainFrame: Module compiling took 5.674 seconds
+[2022.06.05-18.55.45:692][771]LogClass: ECannonType HotReload.
+[2022.06.05-18.55.45:692][771]LogClass: DamageData HotReload.
+[2022.06.05-18.55.45:704][771]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Tankogeddon' in 0.0003 seconds. Added 12 classes and 2 folders.
+[2022.06.05-18.55.45:707][771]Display: HotReload successful (19 functions remapped  1 scriptstructs remapped)
+[2022.06.05-18.55.45:793][771]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0111 seconds. Added 3613 classes and 861 folders.
+[2022.06.05-18.55.45:800][771]Display: HotReload took  5.8s.
+[2022.06.05-18.55.46:935][852]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.05-18.55.46:942][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-18.55.46:943][852]PIE: New page: PIE session: TestLevel (6 июн. 2022 г., 00:55:46)
+[2022.06.05-18.55.46:943][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.55.46:947][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004620s)
+[2022.06.05-18.55.46:952][852]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-18.55.46:952][852]LogPlayLevel: PIE: World Init took: (0.004356s)
+[2022.06.05-18.55.46:952][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.009367s)
+[2022.06.05-18.55.47:030][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.06.05-18.55.47:035][852]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.05-18.55.47:035][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-18.55.47:035][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-18.55.47:035][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-18.55.47:035][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-18.55.47:035][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-18.55.47:036][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-18.55.47:036][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-18.55.47:036][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-18.55.47:036][852]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-18.55.47:036][852]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-18.55.47:041][852]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-18.55.47:041][852]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-18.55.47:071][852]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-18.55.47:071][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-18.55.47:072][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-18.55.47:072][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-18.55.47:072][852]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-18.55.47:072][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-18.55.47:072][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-18.55.47:087][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-18.55.47:088][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-18.55.47:088][852]LogInit: FAudioDevice initialized.
+[2022.06.05-18.55.47:088][852]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestLevel'.
+[2022.06.05-18.55.47:134][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.55.47:134][852]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.06.05-18.55.47:136][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:136][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:136][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:136][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:137][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:137][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:137][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:137][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:137][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:138][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:138][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:138][852]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.55.47:139][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.06.05-21.55.47
+[2022.06.05-18.55.47:139][852]LogWorld: Bringing up level for play took: 0.004183
+[2022.06.05-18.55.47:140][852]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.06.05-18.55.47:148][852]PIE: Server logged in
+[2022.06.05-18.55.47:149][852]PIE: Play in editor total start time 0,208 seconds.
+[2022.06.05-18.55.48:019][945]LogTemp: Warning: Projectile BP_Projectile_C_0 collided with Cube3. 
+[2022.06.05-18.55.57:823][ 92]LogTemp: Warning: Projectile BP_Projectile_C_1 collided with Cube2. 
+[2022.06.05-18.55.58:728][199]LogTemp: Warning: Projectile BP_Projectile_C_2 collided with BP_Turret_2. 
+[2022.06.05-18.55.58:728][199]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 2.000000
+[2022.06.05-18.55.59:317][269]LogTemp: Warning: Projectile BP_Projectile_C_3 collided with Cube3. 
+[2022.06.05-18.55.59:795][326]LogTemp: Warning: Projectile BP_Projectile_C_4 collided with BP_Turret_2. 
+[2022.06.05-18.55.59:795][326]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 1.000000
+[2022.06.05-18.56.00:311][387]LogTemp: Warning: Projectile BP_Projectile_C_5 collided with Cube3. 
+[2022.06.05-18.56.00:932][461]LogTemp: Warning: Projectile BP_Projectile_C_6 collided with BP_Turret_2. 
+[2022.06.05-18.56.01:326][508]LogTemp: Warning: Projectile BP_Projectile_C_7 collided with Cube3. 
+[2022.06.05-18.56.02:601][660]LogTemp: Warning: Projectile BP_Projectile_C_8 collided with BP_Turret_2. 
+[2022.06.05-18.56.04:075][836]LogTemp: Warning: Projectile BP_Projectile_C_9 collided with BP_Turret_2. 
+[2022.06.05-18.56.06:497][119]LogTemp: Warning: Projectile BP_Projectile_C_10 collided with BP_Turret_2. 
+[2022.06.05-18.56.07:966][290]LogTemp: Warning: Projectile BP_Projectile_C_11 collided with BP_Turret_2. 
+[2022.06.05-18.56.09:189][433]LogTemp: Warning: Projectile BP_Projectile_C_12 collided with BP_Turret_2. 
+[2022.06.05-18.56.11:006][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.56.11:006][646]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.56.11:006][646]LogSlate: Window 'Tankogeddon Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-18.56.11:010][646]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-18.56.11:011][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.56.11:026][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-18.56.11:031][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.56.11:047][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.56.11:048][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.56.11:120][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.06.05-18.56.11:235][647]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.06.05-18.56.13:039][831]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.56.13:043][831]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.56.22:351][144]Candidate modules for hot reload:
+[2022.06.05-18.56.22:351][144]  Tankogeddon
+[2022.06.05-18.56.22:351][144]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,6410 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.05-18.56.22:353][144]Warning: Starting HotReload took  0.0s.
+[2022.06.05-18.56.27:484][695]CompilerResultsLog: New page: Compilation - 6 июн. 2022 г., 00:56:27
+[2022.06.05-18.56.27:484][695]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.05-18.56.27:484][695]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.05-18.56.27:484][695]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.05-18.56.27:484][695]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.05-18.56.27:484][695]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.05-18.56.27:484][695]CompilerResultsLog: License is invalid:
+[2022.06.05-18.56.27:484][695]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.05-18.56.27:485][695]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.05-18.56.27:485][695]CompilerResultsLog: 
+[2022.06.05-18.56.27:485][695]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.05-18.56.27:485][695]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.05-18.56.27:485][695]CompilerResultsLog: Turrel.cpp (0:02.25 at +0:00)
+[2022.06.05-18.56.27:485][695]CompilerResultsLog: UE4Editor-Tankogeddon-6410.lib (0:00.28 at +0:02)
+[2022.06.05-18.56.27:485][695]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-6410.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-6410.exp
+[2022.06.05-18.56.27:485][695]CompilerResultsLog: UE4Editor-Tankogeddon-6410.dll (0:01.09 at +0:02)
+[2022.06.05-18.56.27:485][695]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-6410.suppressed.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-6410.suppressed.exp
+[2022.06.05-18.56.27:486][695]CompilerResultsLog: TankogeddonEditor.target (0:00.34 at +0:03)
+[2022.06.05-18.56.27:486][695]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.05-18.56.27:486][695]CompilerResultsLog: 
+[2022.06.05-18.56.27:486][695]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.06.05-18.56.27:486][695]CompilerResultsLog: 
+[2022.06.05-18.56.27:486][695]CompilerResultsLog: 1 build system warning(s):
+[2022.06.05-18.56.27:486][695]CompilerResultsLog:    - License is invalid
+[2022.06.05-18.56.27:486][695]CompilerResultsLog: 
+[2022.06.05-18.56.27:486][695]CompilerResultsLog: Total time in XGE executor: 4,24 seconds
+[2022.06.05-18.56.27:486][695]CompilerResultsLog: Total execution time: 5,04 seconds
+[2022.06.05-18.56.27:486][695]LogMainFrame: MainFrame: Module compiling took 5.139 seconds
+[2022.06.05-18.56.27:520][695]LogClass: ECannonType HotReload.
+[2022.06.05-18.56.27:520][695]LogClass: DamageData HotReload.
+[2022.06.05-18.56.27:533][695]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Tankogeddon' in 0.0003 seconds. Added 12 classes and 2 folders.
+[2022.06.05-18.56.27:536][695]Display: HotReload successful (19 functions remapped  1 scriptstructs remapped)
+[2022.06.05-18.56.27:617][695]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3613 classes and 861 folders.
+[2022.06.05-18.56.27:624][695]Display: HotReload took  5.3s.
+[2022.06.05-18.56.29:607][865]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.05-18.56.29:614][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-18.56.29:614][865]PIE: New page: PIE session: TestLevel (6 июн. 2022 г., 00:56:29)
+[2022.06.05-18.56.29:614][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.56.29:618][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004175s)
+[2022.06.05-18.56.29:620][865]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-18.56.29:620][865]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2022.06.05-18.56.29:620][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.006187s)
+[2022.06.05-18.56.29:686][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.06.05-18.56.29:687][865]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.06.05-18.56.29:688][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-18.56.29:688][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-18.56.29:688][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-18.56.29:688][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-18.56.29:688][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-18.56.29:688][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-18.56.29:688][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-18.56.29:688][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-18.56.29:689][865]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-18.56.29:689][865]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-18.56.29:693][865]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-18.56.29:693][865]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-18.56.29:728][865]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-18.56.29:728][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-18.56.29:728][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-18.56.29:728][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-18.56.29:729][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-18.56.29:729][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-18.56.29:729][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-18.56.29:744][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-18.56.29:745][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-18.56.29:745][865]LogInit: FAudioDevice initialized.
+[2022.06.05-18.56.29:745][865]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestLevel'.
+[2022.06.05-18.56.29:795][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.56.29:796][865]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.06.05-18.56.29:799][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:800][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:800][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:801][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:801][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:802][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:802][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:803][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:803][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:803][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:804][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:804][865]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-18.56.29:806][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.06.05-21.56.29
+[2022.06.05-18.56.29:807][865]LogWorld: Bringing up level for play took: 0.009595
+[2022.06.05-18.56.29:807][865]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.06.05-18.56.29:821][865]PIE: Server logged in
+[2022.06.05-18.56.29:824][865]PIE: Play in editor total start time 0,212 seconds.
+[2022.06.05-18.56.32:357][159]LogTemp: Warning: Projectile BP_Projectile_C_0 collided with Cube3. 
+[2022.06.05-18.56.40:709][134]LogTemp: Warning: Projectile BP_Projectile_C_2 collided with Cube2. 
+[2022.06.05-18.56.41:089][178]LogTemp: Warning: Projectile BP_Projectile_C_1 collided with Cube2. 
+[2022.06.05-18.56.42:573][355]LogTemp: Warning: Projectile BP_Projectile_C_3 collided with Cube3. 
+[2022.06.05-18.56.43:308][443]LogTemp: Warning: Projectile BP_Projectile_C_5 collided with BP_Turret_2. 
+[2022.06.05-18.56.43:308][443]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 2.000000
+[2022.06.05-18.56.43:559][473]LogTemp: Warning: Projectile BP_Projectile_C_4 collided with Cube3. 
+[2022.06.05-18.56.44:513][587]LogTemp: Warning: Projectile BP_Projectile_C_7 collided with BP_Turret_2. 
+[2022.06.05-18.56.44:514][587]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 1.000000
+[2022.06.05-18.56.44:564][593]LogTemp: Warning: Projectile BP_Projectile_C_6 collided with Cube3. 
+[2022.06.05-18.56.45:573][713]LogTemp: Warning: Projectile BP_Projectile_C_8 collided with Cube3. 
+[2022.06.05-18.56.45:748][734]LogTemp: Warning: Projectile BP_Projectile_C_9 collided with BP_Turret_2. 
+[2022.06.05-18.56.46:577][833]LogTemp: Warning: Projectile BP_Projectile_C_10 collided with Cube3. 
+[2022.06.05-18.56.47:430][935]LogTemp: Warning: Projectile BP_Projectile_C_11 collided with BP_Turret_2. 
+[2022.06.05-18.56.49:056][129]LogTemp: Warning: Projectile BP_Projectile_C_12 collided with BP_Turret_2. 
+[2022.06.05-18.56.56:190][983]LogTemp: Warning: Projectile BP_Projectile_C_13 collided with BP_Turret_2. 
+[2022.06.05-18.56.57:633][155]LogTemp: Warning: Projectile BP_Projectile_C_14 collided with BP_Turret_2. 
+[2022.06.05-18.56.59:230][339]LogTemp: Warning: Projectile BP_Projectile_C_15 collided with BP_Turret_2. 
+[2022.06.05-18.57.01:635][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-18.57.01:636][624]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-18.57.01:636][624]LogSlate: Window 'Tankogeddon Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-18.57.01:640][624]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-18.57.01:641][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.57.01:655][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-18.57.01:659][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-18.57.01:674][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-18.57.01:674][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.57.01:676][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-18.57.01:709][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.06.05-18.57.01:843][625]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.06.05-18.57.03:323][777]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.57.03:327][777]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-18.57.08:872][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_Turret.BP_Turret
+[2022.06.05-19.01.22:574][988]BlueprintLog: New page: Compile BP_Turret
+[2022.06.05-19.01.22:616][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.06.05-19.01.23:509][ 70]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.05-19.01.23:521][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-19.01.23:521][ 70]PIE: New page: PIE session: TestLevel (6 июн. 2022 г., 01:01:23)
+[2022.06.05-19.01.23:521][ 70]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-19.01.23:526][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004715s)
+[2022.06.05-19.01.23:528][ 70]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-19.01.23:528][ 70]LogPlayLevel: PIE: World Init took: (0.001887s)
+[2022.06.05-19.01.23:528][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.007002s)
+[2022.06.05-19.01.23:548][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.06.05-19.01.23:549][ 70]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.06.05-19.01.23:549][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-19.01.23:550][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-19.01.23:550][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-19.01.23:550][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-19.01.23:550][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-19.01.23:550][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-19.01.23:550][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-19.01.23:550][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-19.01.23:551][ 70]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-19.01.23:551][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-19.01.23:555][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-19.01.23:555][ 70]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-19.01.23:592][ 70]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-19.01.23:592][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-19.01.23:593][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-19.01.23:593][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-19.01.23:593][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-19.01.23:593][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-19.01.23:593][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-19.01.23:609][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-19.01.23:609][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-19.01.23:609][ 70]LogInit: FAudioDevice initialized.
+[2022.06.05-19.01.23:609][ 70]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestLevel'.
+[2022.06.05-19.01.23:649][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.01.23:649][ 70]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.06.05-19.01.23:651][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:651][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:651][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:652][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:652][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:653][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:653][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:654][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:654][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:655][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:655][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:655][ 70]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.01.23:658][ 70]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.06.05-22.01.23
+[2022.06.05-19.01.23:659][ 70]LogWorld: Bringing up level for play took: 0.008589
+[2022.06.05-19.01.23:659][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.06.05-19.01.23:674][ 70]PIE: Server logged in
+[2022.06.05-19.01.23:678][ 70]PIE: Play in editor total start time 0,159 seconds.
+[2022.06.05-19.01.25:136][190]LogTemp: Warning: Projectile BP_Projectile_C_0 collided with Cube3. 
+[2022.06.05-19.01.33:585][920]LogTemp: Warning: Projectile BP_Projectile_C_1 collided with Cube2. 
+[2022.06.05-19.01.34:006][955]LogTemp: Warning: Projectile BP_Projectile_C_2 collided with BP_Turret_2. 
+[2022.06.05-19.01.34:006][955]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 2.000000
+[2022.06.05-19.01.35:076][ 46]LogTemp: Warning: Projectile BP_Projectile_C_3 collided with Cube3. 
+[2022.06.05-19.01.35:103][ 48]LogTemp: Warning: Projectile BP_Projectile_C_4 collided with BP_Turret_2. 
+[2022.06.05-19.01.35:103][ 48]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 1.000000
+[2022.06.05-19.01.36:088][132]LogTemp: Warning: Projectile BP_Projectile_C_5 collided with Cube3. 
+[2022.06.05-19.01.36:135][136]LogTemp: Warning: Projectile BP_Projectile_C_6 collided with BP_Turret_2. 
+[2022.06.05-19.01.37:093][218]LogTemp: Warning: Projectile BP_Projectile_C_7 collided with Cube3. 
+[2022.06.05-19.01.37:496][253]LogTemp: Warning: Projectile BP_Projectile_C_8 collided with BP_Turret_2. 
+[2022.06.05-19.01.38:522][340]LogTemp: Warning: Projectile BP_Projectile_C_9 collided with BP_Turret_2. 
+[2022.06.05-19.01.39:648][439]LogTemp: Warning: Projectile BP_Projectile_C_10 collided with BP_Turret_2. 
+[2022.06.05-19.01.51:313][462]LogTemp: Warning: Projectile BP_Projectile_C_11 collided with BP_Turret_2. 
+[2022.06.05-19.01.55:143][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.01.55:143][792]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-19.01.55:143][792]LogSlate: Window 'Tankogeddon Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-19.01.55:149][792]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.01.55:150][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.01.55:169][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-19.01.55:178][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.01.55:202][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.01.55:205][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.01.55:238][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.06.05-19.01.55:333][793]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.06.05-19.01.56:696][900]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-19.01.56:702][900]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-19.02.30:359][949]BlueprintLog: New page: Compile BP_Turret
+[2022.06.05-19.02.30:399][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.06.05-19.02.31:271][ 20]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.05-19.02.31:279][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-19.02.31:279][ 20]PIE: New page: PIE session: TestLevel (6 июн. 2022 г., 01:02:31)
+[2022.06.05-19.02.31:279][ 20]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-19.02.31:284][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004506s)
+[2022.06.05-19.02.31:286][ 20]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-19.02.31:286][ 20]LogPlayLevel: PIE: World Init took: (0.001833s)
+[2022.06.05-19.02.31:286][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.006811s)
+[2022.06.05-19.02.31:307][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.06.05-19.02.31:308][ 20]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.06.05-19.02.31:308][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-19.02.31:308][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-19.02.31:308][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-19.02.31:308][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-19.02.31:308][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-19.02.31:308][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-19.02.31:308][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-19.02.31:308][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-19.02.31:309][ 20]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-19.02.31:309][ 20]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-19.02.31:313][ 20]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-19.02.31:314][ 20]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-19.02.31:351][ 20]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-19.02.31:351][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-19.02.31:351][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-19.02.31:352][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-19.02.31:352][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-19.02.31:352][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-19.02.31:352][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-19.02.31:369][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-19.02.31:369][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-19.02.31:369][ 20]LogInit: FAudioDevice initialized.
+[2022.06.05-19.02.31:369][ 20]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestLevel'.
+[2022.06.05-19.02.31:407][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.02.31:407][ 20]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.06.05-19.02.31:409][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:409][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:409][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:409][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:410][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:410][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:410][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:410][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:410][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:411][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:411][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:411][ 20]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.31:412][ 20]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.06.05-22.02.31
+[2022.06.05-19.02.31:413][ 20]LogWorld: Bringing up level for play took: 0.004611
+[2022.06.05-19.02.31:413][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.06.05-19.02.31:421][ 20]PIE: Server logged in
+[2022.06.05-19.02.31:423][ 20]PIE: Play in editor total start time 0,147 seconds.
+[2022.06.05-19.02.32:692][114]LogTemp: Warning: Projectile BP_Projectile_C_0 collided with Cube4. 
+[2022.06.05-19.02.40:876][800]LogTemp: Warning: Projectile BP_Projectile_C_1 collided with Cube2. 
+[2022.06.05-19.02.41:299][835]LogTemp: Warning: Projectile BP_Projectile_C_2 collided with BP_Turret_2. 
+[2022.06.05-19.02.41:299][835]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 2.000000
+[2022.06.05-19.02.42:287][916]LogTemp: Warning: Projectile BP_Projectile_C_4 collided with BP_Turret_2. 
+[2022.06.05-19.02.42:288][916]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 1.000000
+[2022.06.05-19.02.42:373][923]LogTemp: Warning: Projectile BP_Projectile_C_3 collided with Cube3. 
+[2022.06.05-19.02.43:322][  3]LogTemp: Warning: Projectile BP_Projectile_C_6 collided with BP_Turret_2. 
+[2022.06.05-19.02.43:374][  7]LogTemp: Warning: Projectile BP_Projectile_C_5 collided with Cube3. 
+[2022.06.05-19.02.47:394][349]LogTemp: Warning: Projectile BP_Projectile_C_7 collided with BP_Turret_2. 
+[2022.06.05-19.02.53:951][910]LogTemp: Warning: Projectile BP_Projectile_C_8 collided with BP_Turret_2. 
+[2022.06.05-19.02.55:032][  2]LogTemp: Warning: Projectile BP_Projectile_C_9 collided with BP_Turret_2. 
+[2022.06.05-19.02.55:833][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.02.55:833][ 67]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-19.02.55:834][ 67]LogSlate: Window 'Tankogeddon Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-19.02.55:839][ 67]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.02.55:840][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.02.55:862][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-19.02.55:871][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.02.55:894][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.02.55:896][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.02.55:926][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.06.05-19.02.56:006][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.06.05-19.02.56:810][114]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.05-19.02.56:816][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-19.02.56:816][114]PIE: New page: PIE session: TestLevel (6 июн. 2022 г., 01:02:56)
+[2022.06.05-19.02.56:817][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-19.02.56:821][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004332s)
+[2022.06.05-19.02.56:823][114]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.05-19.02.56:823][114]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2022.06.05-19.02.56:823][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.006452s)
+[2022.06.05-19.02.56:842][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.06.05-19.02.56:843][114]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.06.05-19.02.56:843][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-19.02.56:843][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-19.02.56:843][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-19.02.56:843][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-19.02.56:844][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-19.02.56:844][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-19.02.56:844][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-19.02.56:844][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-19.02.56:845][114]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-19.02.56:845][114]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-19.02.56:849][114]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-19.02.56:849][114]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-19.02.56:883][114]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.05-19.02.56:883][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-19.02.56:883][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-19.02.56:883][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-19.02.56:883][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-19.02.56:884][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-19.02.56:884][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-19.02.56:899][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-19.02.56:899][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-19.02.56:899][114]LogInit: FAudioDevice initialized.
+[2022.06.05-19.02.56:900][114]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestLevel'.
+[2022.06.05-19.02.56:938][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.02.56:938][114]LogLoad: Game class is 'BP_TankogeddonGameMode_C'
+[2022.06.05-19.02.56:939][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:940][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:940][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:940][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:940][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:940][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:941][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:941][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:941][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:941][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:941][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:941][114]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.05-19.02.56:943][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.06.05-22.02.56
+[2022.06.05-19.02.56:943][114]LogWorld: Bringing up level for play took: 0.004434
+[2022.06.05-19.02.56:944][114]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.06.05-19.02.56:952][114]PIE: Server logged in
+[2022.06.05-19.02.56:954][114]PIE: Play in editor total start time 0,138 seconds.
+[2022.06.05-19.02.58:364][215]LogTemp: Warning: Projectile BP_Projectile_C_0 collided with Cube3. 
+[2022.06.05-19.03.06:279][830]LogTemp: Warning: Projectile BP_Projectile_C_1 collided with Cube2. 
+[2022.06.05-19.03.06:824][871]LogTemp: Warning: Projectile BP_Projectile_C_2 collided with Cube2. 
+[2022.06.05-19.03.08:005][959]LogTemp: Warning: Projectile BP_Projectile_C_4 collided with BP_Turret_2. 
+[2022.06.05-19.03.08:005][959]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 2.000000
+[2022.06.05-19.03.08:331][983]LogTemp: Warning: Projectile BP_Projectile_C_3 collided with Cube3. 
+[2022.06.05-19.03.09:053][ 37]LogTemp: Warning: Projectile BP_Projectile_C_6 collided with BP_Turret_2. 
+[2022.06.05-19.03.09:054][ 37]LogTemp: Warning: Turret BP_Turret_2 taked damage : 1.000000 Health : 1.000000
+[2022.06.05-19.03.09:330][ 58]LogTemp: Warning: Projectile BP_Projectile_C_5 collided with Cube3. 
+[2022.06.05-19.03.10:345][135]LogTemp: Warning: Projectile BP_Projectile_C_7 collided with Cube3. 
+[2022.06.05-19.03.11:372][213]LogTemp: Warning: Projectile BP_Projectile_C_8 collided with Cube3. 
+[2022.06.05-19.03.12:394][291]LogTemp: Warning: Projectile BP_Projectile_C_9 collided with Cube3. 
+[2022.06.05-19.03.13:403][368]LogTemp: Warning: Projectile BP_Projectile_C_10 collided with Cube3. 
+[2022.06.05-19.03.13:469][373]LogTemp: Warning: Projectile BP_Projectile_C_11 collided with BP_Turret_2. 
+[2022.06.05-19.03.14:419][446]LogTemp: Warning: Projectile BP_Projectile_C_12 collided with Cube3. 
+[2022.06.05-19.03.16:733][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.03.16:733][625]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.06.05-19.03.16:733][625]LogSlate: Window 'Tankogeddon Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-19.03.16:739][625]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.03.16:740][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.03.16:753][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-19.03.16:758][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.03.16:778][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.03.16:780][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.03.16:810][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.06.05-19.03.16:863][626]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.06.05-19.05.43:574][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.06.05-19.05.43:576][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel" FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Saved/Autosaves/Game/Maps/TestLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.05-19.05.43:597][186]LogSavePackage: Moving '../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Saved/TestLevel_Auto1463CD7604D71341A441DFC89AC179222.tmp' to '../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Saved/Autosaves/Game/Maps/TestLevel_Auto1.umap'
+[2022.06.05-19.05.43:600][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestLevel' took 0.069
+[2022.06.05-19.05.43:600][186]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2022.06.05-19.05.43:601][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actors/BP_Turret] ([1] browsable assets)...
+[2022.06.05-19.05.43:632][186]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/BP_Turret.BP_Turret]
+[2022.06.05-19.05.43:632][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BP_Turret]
+[2022.06.05-19.05.43:633][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Turret" FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Saved/Autosaves/Game/Actors/BP_Turret_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.06.05-19.05.43:797][186]LogSavePackage: Moving '../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Saved/BP_Turret_Auto176BD7EF04ED005A6EF31FEA4AEB8CDCF.tmp' to '../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Saved/Autosaves/Game/Actors/BP_Turret_Auto1.uasset'
+[2022.06.05-19.05.43:800][186]LogFileHelpers: Auto-saving content packages took 0.199
+[2022.06.05-19.20.01:919][752]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-19.20.01:922][752]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-19.20.02:911][755]LogSlate: Window 'BP_Turret' being destroyed
+[2022.06.05-19.20.02:914][755]LogSlate: Window 'BP_Turret' being destroyed
+[2022.06.05-19.20.02:931][755]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.20.02:931][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.20.04:664][822]Candidate modules for hot reload:
+[2022.06.05-19.20.04:664][822]  Tankogeddon
+[2022.06.05-19.20.04:665][822]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,7112 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.05-19.20.04:666][822]Warning: Starting HotReload took  0.0s.
+[2022.06.05-19.20.11:782][626]CompilerResultsLog: New page: Compilation - 6 июн. 2022 г., 01:20:11
+[2022.06.05-19.20.11:783][626]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.05-19.20.11:783][626]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.05-19.20.11:783][626]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.05-19.20.11:783][626]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.05-19.20.11:783][626]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.05-19.20.11:783][626]CompilerResultsLog: License is invalid:
+[2022.06.05-19.20.11:784][626]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.05-19.20.11:784][626]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: 
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: Turrel.cpp (0:05.78 at +0:00)
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\Turrel.cpp(99) : error C2665: UGameplayStatics::SpawnEmitterAtLocation: ?? ???? ?? 3 ??ॣ?㧮? ?? ????? ?८?ࠧ????? ??? ⨯? ???㬥?⮢
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(425): note: ????? ???? "UParticleSystemComponent *UGameplayStatics::SpawnEmitterAtLocation(UWorld *,UParticleSystem *,const FTransform &,bool,EPSCPoolMethod,bool)"
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(415): note: ???       "UParticleSystemComponent *UGameplayStatics::SpawnEmitterAtLocation(const UObject *,UParticleSystem *,FVector,FRotator,bool,EPSCPoolMethod,bool)"
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: D:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(412): note: ???       "UParticleSystemComponent *UGameplayStatics::SpawnEmitterAtLocation(const UObject *,UParticleSystem *,FVector,FRotator,FVector,bool,EPSCPoolMethod,bool)"
+[2022.06.05-19.20.11:784][626]CompilerResultsLog: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\Turrel.cpp(99): note: ??? ????⪥ ᮯ??⠢??? ᯨ᮪ ???㬥?⮢ "(UWorld *, UParticleSystemComponent *, FVector, FRotator, FVector, bool)"
+[2022.06.05-19.20.11:785][626]CompilerResultsLog: 
+[2022.06.05-19.20.11:785][626]CompilerResultsLog: Error executing D:\UE4\UE_4.26\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.06.05-19.20.11:785][626]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.05-19.20.11:785][626]CompilerResultsLog: 
+[2022.06.05-19.20.11:785][626]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.06.05-19.20.11:785][626]CompilerResultsLog: 
+[2022.06.05-19.20.11:785][626]CompilerResultsLog: 1 build system warning(s):
+[2022.06.05-19.20.11:785][626]CompilerResultsLog:    - License is invalid
+[2022.06.05-19.20.11:785][626]CompilerResultsLog: 
+[2022.06.05-19.20.11:785][626]LogMainFrame: MainFrame: Module compiling took 7.124 seconds
+[2022.06.05-19.20.13:993][626]Warning: HotReload failed, recompile failed
+[2022.06.05-19.20.17:095][894]LogSlate: Took 0.031513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.05-19.20.17:106][894]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '㧮 (U+39ee)'
+[2022.06.05-19.20.17:168][894]LogSlate: Took 0.057992 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.06.05-19.20.19:151][894]LogSlate: Took 1.983464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2022.06.05-19.24.11:396][840]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-19.24.11:400][840]LogSlate: Window 'Message Log' being destroyed
+[2022.06.05-19.24.14:478][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_Turret.BP_Turret
+[2022.06.05-19.24.35:104][126]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.06.05-19.24.35:108][126]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.06.05-19.25.49:605][916]Candidate modules for hot reload:
+[2022.06.05-19.25.49:605][916]  Tankogeddon
+[2022.06.05-19.25.49:605][916]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,5791 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.05-19.25.49:607][916]Warning: Starting HotReload took  0.0s.
+[2022.06.05-19.26.15:390][860]CompilerResultsLog: New page: Compilation - 6 июн. 2022 г., 01:26:15
+[2022.06.05-19.26.15:390][860]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.05-19.26.15:390][860]CompilerResultsLog: Parsing headers for TankogeddonEditor
+[2022.06.05-19.26.15:390][860]CompilerResultsLog:   Running UnrealHeaderTool "D:\UE4_Curs\Tankogeddon\Tankogeddon\Tankogeddon.uproject" "D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\TankogeddonEditor\Development\TankogeddonEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: Reflection code generated for TankogeddonEditor in 6,3204831 seconds
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: Distributing 6 actions to XGE
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: License is invalid:
+[2022.06.05-19.26.15:391][860]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.05-19.26.15:391][860]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: 
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.05-19.26.15:391][860]CompilerResultsLog: Turrel.cpp (0:11.00 at +0:00)
+[2022.06.05-19.26.15:392][860]CompilerResultsLog: Tankogeddon.init.gen.cpp (0:01.18 at +0:11)
+[2022.06.05-19.26.15:392][860]CompilerResultsLog: Turrel.gen.cpp (0:02.98 at +0:12)
+[2022.06.05-19.26.15:392][860]CompilerResultsLog: UE4Editor-Tankogeddon-5791.lib (0:00.26 at +0:15)
+[2022.06.05-19.26.15:392][860]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-5791.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-5791.exp
+[2022.06.05-19.26.15:392][860]CompilerResultsLog: UE4Editor-Tankogeddon-5791.dll (0:01.03 at +0:15)
+[2022.06.05-19.26.15:392][860]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-5791.suppressed.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-5791.suppressed.exp
+[2022.06.05-19.26.15:392][860]CompilerResultsLog: TankogeddonEditor.target (0:00.92 at +0:16)
+[2022.06.05-19.26.15:392][860]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.05-19.26.15:392][860]CompilerResultsLog: 
+[2022.06.05-19.26.15:392][860]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.06.05-19.26.15:392][860]CompilerResultsLog: 
+[2022.06.05-19.26.15:393][860]CompilerResultsLog: 1 build system warning(s):
+[2022.06.05-19.26.15:393][860]CompilerResultsLog:    - License is invalid
+[2022.06.05-19.26.15:393][860]CompilerResultsLog: 
+[2022.06.05-19.26.15:393][860]CompilerResultsLog: Total time in XGE executor: 17,73 seconds
+[2022.06.05-19.26.15:393][860]CompilerResultsLog: Total execution time: 25,05 seconds
+[2022.06.05-19.26.15:393][860]LogMainFrame: MainFrame: Module compiling took 25.792 seconds

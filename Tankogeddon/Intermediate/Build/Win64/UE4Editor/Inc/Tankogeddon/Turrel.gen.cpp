@@ -18,6 +18,7 @@ void EmptyLinkFunctionForGeneratedCodeTurrel() {}
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
 	UPackage* Z_Construct_UPackage__Script_Tankogeddon();
 	TANKOGEDDON_API UScriptStruct* Z_Construct_UScriptStruct_FDamageData();
+	TANKOGEDDON_API UClass* Z_Construct_UClass_ATankPawn_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UArrowComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
@@ -25,6 +26,8 @@ void EmptyLinkFunctionForGeneratedCodeTurrel() {}
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	TANKOGEDDON_API UClass* Z_Construct_UClass_ACannon_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_APawn_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_UParticleSystemComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_UParticleSystem_NoRegister();
 	TANKOGEDDON_API UClass* Z_Construct_UClass_UDamageTaker_NoRegister();
 // End Cross Module References
 	DEFINE_FUNCTION(ATurrel::execDamageTaked)
@@ -158,6 +161,14 @@ void EmptyLinkFunctionForGeneratedCodeTurrel() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TankPawn_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_TankPawn;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Turrel_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Turrel;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BodyMesh_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_BodyMesh;
@@ -205,6 +216,14 @@ void EmptyLinkFunctionForGeneratedCodeTurrel() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Accurency_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Accurency;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DeadEffect_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_DeadEffect;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DEffect_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_DEffect;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const UE4CodeGen_Private::FImplementedInterfaceParams InterfaceParams[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
@@ -225,6 +244,18 @@ void EmptyLinkFunctionForGeneratedCodeTurrel() {}
 		{ "ModuleRelativePath", "Turrel.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATurrel_Statics::NewProp_TankPawn_MetaData[] = {
+		{ "ModuleRelativePath", "Turrel.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ATurrel_Statics::NewProp_TankPawn = { "TankPawn", nullptr, (EPropertyFlags)0x0020080000000000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ATurrel, TankPawn), Z_Construct_UClass_ATankPawn_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ATurrel_Statics::NewProp_TankPawn_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ATurrel_Statics::NewProp_TankPawn_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATurrel_Statics::NewProp_Turrel_MetaData[] = {
+		{ "ModuleRelativePath", "Turrel.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ATurrel_Statics::NewProp_Turrel = { "Turrel", nullptr, (EPropertyFlags)0x0020080000000000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ATurrel, Turrel), Z_Construct_UClass_ATurrel_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ATurrel_Statics::NewProp_Turrel_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ATurrel_Statics::NewProp_Turrel_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATurrel_Statics::NewProp_BodyMesh_MetaData[] = {
 		{ "Category", "Components" },
@@ -312,7 +343,24 @@ void EmptyLinkFunctionForGeneratedCodeTurrel() {}
 	};
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATurrel_Statics::NewProp_Accurency = { "Accurency", nullptr, (EPropertyFlags)0x0020080000010005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ATurrel, Accurency), METADATA_PARAMS(Z_Construct_UClass_ATurrel_Statics::NewProp_Accurency_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ATurrel_Statics::NewProp_Accurency_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATurrel_Statics::NewProp_DeadEffect_MetaData[] = {
+		{ "Category", "Effects" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "Turrel.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ATurrel_Statics::NewProp_DeadEffect = { "DeadEffect", nullptr, (EPropertyFlags)0x002008000008000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ATurrel, DeadEffect), Z_Construct_UClass_UParticleSystemComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ATurrel_Statics::NewProp_DeadEffect_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ATurrel_Statics::NewProp_DeadEffect_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATurrel_Statics::NewProp_DEffect_MetaData[] = {
+		{ "Category", "Effects" },
+		{ "ModuleRelativePath", "Turrel.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ATurrel_Statics::NewProp_DEffect = { "DEffect", nullptr, (EPropertyFlags)0x0020080000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ATurrel, DEffect), Z_Construct_UClass_UParticleSystem_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ATurrel_Statics::NewProp_DEffect_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ATurrel_Statics::NewProp_DEffect_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ATurrel_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_TankPawn,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_Turrel,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_BodyMesh,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_TurretMesh,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_CannonSetupPoint,
@@ -325,6 +373,8 @@ void EmptyLinkFunctionForGeneratedCodeTurrel() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_TargetingSpeed,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_TargetingRate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_Accurency,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_DeadEffect,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATurrel_Statics::NewProp_DEffect,
 	};
 		const UE4CodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_ATurrel_Statics::InterfaceParams[] = {
 			{ Z_Construct_UClass_UDamageTaker_NoRegister, (int32)VTABLE_OFFSET(ATurrel, IDamageTaker), false },
@@ -356,7 +406,7 @@ void EmptyLinkFunctionForGeneratedCodeTurrel() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ATurrel, 768937056);
+	IMPLEMENT_CLASS(ATurrel, 1904844370);
 	template<> TANKOGEDDON_API UClass* StaticClass<ATurrel>()
 	{
 		return ATurrel::StaticClass();

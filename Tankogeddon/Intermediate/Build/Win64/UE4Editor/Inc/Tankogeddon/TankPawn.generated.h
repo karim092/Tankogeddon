@@ -8,6 +8,7 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FVector;
 struct FDamageData;
 #ifdef TANKOGEDDON_TankPawn_generated_h
 #error "TankPawn.generated.h already included, missing '#pragma once' in TankPawn.h"
@@ -17,6 +18,10 @@ struct FDamageData;
 #define Tankogeddon_Source_Tankogeddon_TankPawn_h_21_SPARSE_DATA
 #define Tankogeddon_Source_Tankogeddon_TankPawn_h_21_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execRotateTurretTo); \
+	DECLARE_FUNCTION(execGetTurretForwardVector); \
+	DECLARE_FUNCTION(execGetMovementAccurency); \
+	DECLARE_FUNCTION(execGetPatrollingPoints); \
 	DECLARE_FUNCTION(execDamageTaked); \
 	DECLARE_FUNCTION(execOnDie); \
 	DECLARE_FUNCTION(execTakeDamage); \
@@ -28,6 +33,10 @@ struct FDamageData;
 
 #define Tankogeddon_Source_Tankogeddon_TankPawn_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execRotateTurretTo); \
+	DECLARE_FUNCTION(execGetTurretForwardVector); \
+	DECLARE_FUNCTION(execGetMovementAccurency); \
+	DECLARE_FUNCTION(execGetPatrollingPoints); \
 	DECLARE_FUNCTION(execDamageTaked); \
 	DECLARE_FUNCTION(execOnDie); \
 	DECLARE_FUNCTION(execTakeDamage); \
@@ -92,10 +101,12 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATankPawn); \
 	FORCEINLINE static uint32 __PPO__RotationSpeed() { return STRUCT_OFFSET(ATankPawn, RotationSpeed); } \
 	FORCEINLINE static uint32 __PPO__InterpolationKey() { return STRUCT_OFFSET(ATankPawn, InterpolationKey); } \
 	FORCEINLINE static uint32 __PPO__TurretRotationInterpolationKey() { return STRUCT_OFFSET(ATankPawn, TurretRotationInterpolationKey); } \
+	FORCEINLINE static uint32 __PPO__PatrollingPoints() { return STRUCT_OFFSET(ATankPawn, PatrollingPoints); } \
+	FORCEINLINE static uint32 __PPO__MovementAccurency() { return STRUCT_OFFSET(ATankPawn, MovementAccurency); } \
 	FORCEINLINE static uint32 __PPO__TankController() { return STRUCT_OFFSET(ATankPawn, TankController); } \
-	FORCEINLINE static uint32 __PPO__CannonSetupPoint() { return STRUCT_OFFSET(ATankPawn, CannonSetupPoint); } \
 	FORCEINLINE static uint32 __PPO__CannonClass() { return STRUCT_OFFSET(ATankPawn, CannonClass); } \
-	FORCEINLINE static uint32 __PPO__Cannon() { return STRUCT_OFFSET(ATankPawn, Cannon); }
+	FORCEINLINE static uint32 __PPO__Cannon() { return STRUCT_OFFSET(ATankPawn, Cannon); } \
+	FORCEINLINE static uint32 __PPO__YankPawn() { return STRUCT_OFFSET(ATankPawn, YankPawn); }
 
 
 #define Tankogeddon_Source_Tankogeddon_TankPawn_h_18_PROLOG

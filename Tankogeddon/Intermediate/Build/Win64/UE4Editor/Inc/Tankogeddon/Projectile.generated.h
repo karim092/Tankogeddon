@@ -75,7 +75,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProjectile); \
 	FORCEINLINE static uint32 __PPO__Mesh() { return STRUCT_OFFSET(AProjectile, Mesh); } \
 	FORCEINLINE static uint32 __PPO__MoveSpeed() { return STRUCT_OFFSET(AProjectile, MoveSpeed); } \
 	FORCEINLINE static uint32 __PPO__MoveRate() { return STRUCT_OFFSET(AProjectile, MoveRate); } \
-	FORCEINLINE static uint32 __PPO__Damage() { return STRUCT_OFFSET(AProjectile, Damage); }
+	FORCEINLINE static uint32 __PPO__Damage() { return STRUCT_OFFSET(AProjectile, Damage); } \
+	FORCEINLINE static uint32 __PPO__HitEffect() { return STRUCT_OFFSET(AProjectile, HitEffect); }
 
 
 #define Tankogeddon_Source_Tankogeddon_Projectile_h_9_PROLOG

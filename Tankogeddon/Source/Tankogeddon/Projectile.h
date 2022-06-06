@@ -31,6 +31,9 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire | Components")
 	float Damage = 1.0f;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Effects")
+	UParticleSystem* HitEffect;
+
 	FTimerHandle MovementTimerHandle;
 
 	UFUNCTION()
