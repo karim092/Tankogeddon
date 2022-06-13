@@ -42,6 +42,8 @@ protected:
 
 	bool IsPlayerSeen();
 
+	void initialize();
+
 protected:
 
 	virtual void BeginPlay() override;

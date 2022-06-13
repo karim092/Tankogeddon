@@ -56,7 +56,9 @@ public:
 	void DamageTaked(float DamageValue);
 
 	UFUNCTION()
-	TArray<FVector> GetPatrollingPoints() { return PatrollingPoints; };
+	TArray<FVector> GetPatrollingPoints();
+
+	void SetPotrollingPoints(TArray<class ATargetPoint*> NewPatrollingPoints);
 
 	UFUNCTION()
 	float GetMovementAccurency() { return MovementAccurency; };
@@ -107,7 +109,7 @@ protected:
 	float TurretRotationInterpolationKey = 0.5f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Move params|Patrolpoints" , Meta = (MakeEditWidget = true))
-	TArray<FVector> PatrollingPoints;
+	TArray<class ATargetPoint*> PatrollingPoints;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Moveparams | Accurency")
 	float MovementAccurency = 50;

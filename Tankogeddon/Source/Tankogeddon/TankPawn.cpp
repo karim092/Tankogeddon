@@ -10,6 +10,7 @@
 #include "Components/ArrowComponent.h"
 #include "HealthComponent.h"
 #include "Components/BoxComponent.h"
+#include "Engine/TargetPoint.h"
 
 
 DECLARE_LOG_CATEGORY_EXTERN(TankLog, All, All);
@@ -205,6 +206,22 @@ void ATankPawn::OnDie()
 void ATankPawn::DamageTaked(float DamageValue)
 {
 	UE_LOG(LogTemp, Warning, TEXT("Turret %s taked damage : %f Health : %f"), *GetName(), DamageValue, HealthComponent->GetHealth());
+}
+
+TArray<FVector> ATankPawn::GetPatrollingPoints()
+{
+	TArray<FVector> points;
+
+	for (ATargetPoint * point : PatrollingPoints)
+	{
+		points.Add(point->GetActorLocation());
+	}
+	return points;
+}
+
+void ATankPawn::SetPotrollingPoints(TArray<class ATargetPoint*> NewPatrollingPoints)
+{
+	PatrollingPoints = NewPatrollingPoints;
 }
 
 FVector ATankPawn::GetEyesPosition()

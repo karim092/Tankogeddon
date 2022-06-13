@@ -81,7 +81,6 @@ void ATurrel::BeginPlay()
 	Super::BeginPlay();
 	
 	SetupCannon();
-	//DeadEffect->DeactivateSystem();
 
 	Pawn = GetWorld()->GetFirstPlayerController()->GetPawn();
 

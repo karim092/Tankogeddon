@@ -1,0 +1,1163 @@
+﻿Log file open, 06/09/22 15:39:15
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Tankogeddon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.240973
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:       Intel(R) Xeon(R) CPU E3-1270 V2 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.09-12.39.17:743][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.09-12.39.17:743][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.09-12.39.17:744][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.09-12.39.17:744][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.09-12.39.17:751][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:751][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.09-12.39.17:751][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.09-12.39.17:751][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:751][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.09-12.39.17:751][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:751][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.09-12.39.17:751][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.09-12.39.17:752][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.09-12.39.17:753][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.09-12.39.17:753][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.09-12.39.17:753][  0]LogHAL: Display: Platform has ~ 16 GB [17145421824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.09-12.39.17:753][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.09-12.39.17:753][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.09-12.39.17:753][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Scalability.ini]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.09-12.39.17:754][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.09-12.39.17:756][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.09-12.39.17:756][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.09-12.39.17:756][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.09-12.39.17:756][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Engine.ini]
+[2022.06.09-12.39.17:756][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Config/Windows/Editor.ini]
+[2022.06.09-12.39.17:756][  0]LogInit: Computer: WIN-UKE6JSO0UCB
+[2022.06.09-12.39.17:756][  0]LogInit: User: user
+[2022.06.09-12.39.17:756][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.09-12.39.17:756][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.09-12.39.17:756][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.06.09-12.39.17:756][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.09-12.39.17:756][  0]LogMemory: Process Physical Memory: 132.09 MB used, 132.10 MB peak
+[2022.06.09-12.39.17:756][  0]LogMemory: Process Virtual Memory: 111.79 MB used, 111.79 MB peak
+[2022.06.09-12.39.17:756][  0]LogMemory: Physical Memory: 7489.78 MB used,  8861.37 MB free, 16351.15 MB total
+[2022.06.09-12.39.17:756][  0]LogMemory: Virtual Memory: 134209448.00 MB used,  8278.84 MB free, 134217728.00 MB total
+[2022.06.09-12.39.17:762][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.09-12.39.18:301][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.09-12.39.18:302][  0]LogInit: Using OS detected language (ru-RU).
+[2022.06.09-12.39.18:302][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.06.09-12.39.18:304][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.06.09-12.39.18:304][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.06.09-12.39.18:304][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.06.09-12.39.18:305][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.06.09-12.39.18:305][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.06.09-12.39.18:305][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.06.09-12.39.18:305][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.06.09-12.39.18:305][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.06.09-12.39.18:307][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.09-12.39.18:319][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.09-12.39.18:338][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.09-12.39.18:338][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.09-12.39.18:769][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.09-12.39.18:769][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.09-12.39.18:769][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.09-12.39.18:769][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.09-12.39.18:870][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2022.06.09-12.39.18:870][  0]LogD3D11RHI:       2988/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.09-12.39.18:874][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.09-12.39.18:874][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.09-12.39.18:874][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.09-12.39.18:879][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.09-12.39.18:879][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.09-12.39.18:879][  0]LogWindows: EnumDisplayDevices:
+[2022.06.09-12.39.18:880][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2022.06.09-12.39.18:880][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.06.09-12.39.18:880][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.06.09-12.39.18:880][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2022.06.09-12.39.18:880][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.09-12.39.18:880][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2022.06.09-12.39.18:880][  0]LogD3D11RHI:   Driver Version: 512.96 (internal:30.0.15.1296, unified:512.96)
+[2022.06.09-12.39.18:880][  0]LogD3D11RHI:      Driver Date: 5-19-2022
+[2022.06.09-12.39.18:880][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2022.06.09-12.39.18:943][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.09-12.39.18:943][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.09-12.39.18:943][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.09-12.39.18:964][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.09-12.39.18:966][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.09-12.39.19:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.09-12.39.19:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.09-12.39.19:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.09-12.39.19:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.09-12.39.19:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.09-12.39.19:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.09-12.39.19:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.09-12.39.19:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.09-12.39.19:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.09-12.39.19:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.09-12.39.19:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.09-12.39.19:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.09-12.39.19:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.09-12.39.19:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.09-12.39.19:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.09-12.39.19:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.09-12.39.19:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.09-12.39.19:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.09-12.39.19:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.09-12.39.19:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.09-12.39.19:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.09-12.39.19:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.09-12.39.19:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.09-12.39.19:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.09-12.39.19:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.09-12.39.19:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.09-12.39.19:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.09-12.39.19:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.09-12.39.19:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.09-12.39.19:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.09-12.39.19:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.09-12.39.19:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.09-12.39.19:542][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.09-12.39.19:594][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.09-12.39.20:611][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.09-12.39.20:611][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Intermediate/Shaders/WorkingDirectory/5656/).
+[2022.06.09-12.39.20:611][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/16D6065C4363D029E1A84E8A7168BA10/'.
+[2022.06.09-12.39.20:611][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.06.09-12.39.21:907][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.09-12.39.21:961][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.09-12.39.21:961][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.06.09-12.39.21:961][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE4_Curs/Tankogeddon/Tankogeddon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.09-12.39.21:961][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.09-12.39.21:961][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE4_Curs/Tankogeddon/Tankogeddon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.09-12.39.21:961][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.09-12.39.21:973][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.09-12.39.21:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.09-12.39.21:974][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.09-12.39.21:989][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.06.09-12.39.21:990][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=171.18MBs, RandomWriteSpeed=89.80MBs. Assigned SpeedClass 'Local'
+[2022.06.09-12.39.21:990][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.09-12.39.21:990][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.09-12.39.21:990][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.09-12.39.22:043][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.09-12.39.22:045][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.09-12.39.22:085][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.06.09-12.39.22:357][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.09-12.39.22:357][  0]LogInit: Active device profile: [000001AB8BC79A00][000001AB8A1DB940 49] Windows
+[2022.06.09-12.39.22:357][  0]LogInit: Profiles: [000001AB8BC79A00][000001AB8A1DB940 49] Windows, [000001AB8BC4EA00][000001AB8A1E3AC0 49] WindowsNoEditor, [000001AB8BC7B400][000001AB8A1E7C40 49] WindowsServer, [000001AB8BC4CF00][000001AB8A1EA100 49] WindowsClient, [000001AB8BC79000][000001AB8A1EE280 49] IOS, [000001AB8BC4FC00][000001AB8A1F2400 49] iPadAir, [000001AB8BC7B100][000001AB8A1F6580 49] iPadAir2, [000001AB8BBF6900][000001AB8A1FE840 49] IPadPro, [000001AB8BBF6A00][000001AB8A1FA880 49] iPadAir3, [000001AB8BC79B00][000001AB8A202A00 49] iPadAir4, [000001AB8BBF7F00][000001AB8A206B80 49] iPadMini2, [000001AB8BC78C00][000001AB8A20AD00 49] iPadMini3, [000001AB8BBF5A00][000001AB8A20EE80 49] iPadMini4, [000001AB8BC7A000][000001AB8A213000 49] iPadMini5, [000001AB8BC4A200][000001AB8A21B2C0 49] iPhone6, [000001AB8BC4A300][000001AB8A217300 49] iPodTouch6, [000001AB8BC4C200][000001AB8A2235C0 49] iPhone7, [000001AB8BC4C400][000001AB8A21F600 49] iPodTouch7, [000001AB8BC4B900][000001AB8A1DF740 49] iPhone5S, [000001AB8BC4ED00][000001AB8A227880 49] iPhone6Plus, [000001AB8BC49800][000001AB8A22B9C0 49] iPhone6S, [000001AB8BC4E000][000001AB8A233B40 49] iPhone6SPlus, [000001AB8BC48900][000001AB8A237CC0 49] iPhone7Plus, [000001AB8BC4D400][000001AB8A23A180 49] iPhoneSE, [000001AB8BC4B500][000001AB8AA70300 49] iPhone8, [000001AB8BC4F700][000001AB8AA74480 49] iPhone8Plus, [000001AB8BC4AF00][000001AB8AA78600 49] iPhoneX, [000001AB8BC4D900][000001AB8AA7C780 49] iPhoneXS, [000001AB8BC4A900][000001AB8AA80900 49] iPhoneXSMax, [000001AB8BC4F500][000001AB8AA84A80 49] iPhoneXR, [000001AB8BC4BA00][000001AB8AA88C00 49] iPhone11, [000001AB8BC4D600][000001AB8AA8CD80 49] iPhone11Pro, [000001AB8BC4AC00][000001AB8AA90F00 49] iPhone11ProMax, [000001AB8BC4D300][000001AB8AA95080 49] iPhoneSE2, [000001AB8BC48700][000001AB8AA99200 49] iPhone12Mini, [000001AB8BC4D000][000001AB8AA9D380 49] iPhone12, [000001AB8BC48600][000001AB8AAA1500 49] iPhone12Pro, [000001AB8BC4B100][000001AB8AAA5680 49] iPhone12ProMax, [000001AB8BC78500][000001AB8A22F7C0 49] iPadPro105, [000001AB8BC4BC00][000001AB8AAA9900 49] iPadPro129, [000001AB8BC7BD00][000001AB8AAADA40 49] iPadPro97, [000001AB8BC48C00][000001AB8AAB1B80 49] iPadPro2_129, [000001AB8BC7BF00][000001AB8AAB9D00 49] iPad5, [000001AB8BC49F00][000001AB8AABC1C0 49] iPad6, [000001AB8BC4FA00][000001AB8AAC0340 49] iPad7, [000001AB8BC49E00][000001AB8AAC44C0 49] iPad8, [000001AB8BC4CD00][000001AB8AAC8640 49] iPadPro11, [000001AB8BC48A00][000001AB8AACC7C0 49] iPadPro2_11, [000001AB8BC4DA00][000001AB8AAD0940 49] iPadPro3_129, [000001AB8BC4B700][000001AB8AAD4AC0 49] iPadPro4_129, [000001AB8BC4FD00][000001AB8AAD8C40 49] AppleTV, [000001AB8BC4B000][000001AB8AADCDC0 49] AppleTV4K, [000001AB8BC4F600][000001AB8AAE0F40 49] TVOS, [000001AB8BC4A800][000001AB8AAE50C0 49] Mac, [000001AB8BC4EE00][000001AB8AAE9240 49] MacClient, [000001AB8BC48800][000001AB8AAED3C0 49] MacNoEditor, [000001AB8BC4F000][000001AB8AAF1540 49] MacServer, [000001AB8BC48400][000001AB8AAF56C0 49] Linux, [000001AB8BC4CB00][000001AB8AAB5800 49] LinuxAArch64, [000001AB8BC4A600][000001AB8AAF9940 49] LinuxNoEditor, [000001AB8BC4D700][000001AB8AAFDA80 49] LinuxAArch64NoEditor, [000001AB8BC4BD00][000001AB8AB01BC0 49] LinuxClient, [000001AB8BC4F800][000001AB8AB09D40 49] LinuxAArch64Client, [000001AB8BC48D00][000001AB8AB0C200 49] LinuxServer, [000001AB8BC4D500][000001AB8AB10380 49] LinuxAArch64Server, [000001AB8BC4AB00][000001AB8AB14500 49] Android, [000001AB8BC4DD00][000001AB8AB18680 49] Android_Low, [000001AB8BC4A400][000001AB8AB1C800 49] Android_Mid, [000001AB8BC4C900][000001AB8AB20980 49] Android_High, [000001AB8BC4BF00][000001AB8AB24B00 49] Android_Default, [000001AB8BC4C100][000001AB8AB28C80 49] Android_Adreno4xx, [000001AB8BC49400][000001AB8AB2CE00 49] Android_Adreno5xx_Low, [000001AB8BC4CC00][000001AB8AB30F80 49] Android_Adreno5xx, [000001AB8BC48F00][000001AB8AB35100 49] Android_Adreno6xx, [000001AB8BC4E800][000001AB8AB39280 49] Android_Adreno6xx_Vulkan, [000001AB8BC4AA00][000001AB8AB3D400 49] Android_Mali_T6xx, [000001AB8BC4C300][000001AB8AB41580 49] Android_Mali_T7xx, [000001AB8BC49600][000001AB8AB45700 49] Android_Mali_T8xx, [000001AB8BC4FE00][000001AB8AB49880 49] Android_Mali_G71, [000001AB8BC48300][000001AB8AB059C0 49] Android_Mali_G72, [000001AB8BC4DE00][000001AB8AB4DB00 49] Android_Mali_G72_Vulkan, [000001AB8BC49500][000001AB8AB51C40 49] Android_Mali_G76, [000001AB8BC4E300][000001AB8AB58100 49] Android_Mali_G76_Vulkan, [000001AB8BC48200][000001AB8AB5C280 49] Android_Mali_G77, [000001AB8BC4C800][000001AB8AB60400 49] Android_Mali_G77_Vulkan, [000001AB8BC4AD00][000001AB8AB64580 49] Android_Vulkan_SM5, [000001AB8BC79400][000001AB8AB68700 49] Android_PowerVR_G6xxx, [000001AB8BBF4700][000001AB8AB6C880 49] Android_PowerVR_GT7xxx, [000001AB8BC7B700][000001AB8AB70A00 49] Android_PowerVR_GE8xxx, [000001AB8BBF5900][000001AB8AB74B80 49] Android_PowerVR_GM9xxx, [000001AB8BC7AE00][000001AB8AB78D00 49] Android_PowerVR_GM9xxx_Vulkan, [000001AB8BBF5000][000001AB8AB7CE80 49] Android_TegraK1, [000001AB8BC78800][000001AB8AB81000 49] Android_Unknown_Vulkan, [000001AB8BBF4600][000001AB8AB85180 49] Lumin, [000001AB8BC79700][000001AB8AB89300 49] Lumin_Desktop, [000001AB8BBF5F00][000001AB8AB8D480 49] HoloLens, 
+[2022.06.09-12.39.22:481][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.09-12.39.22:481][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.09-12.39.22:481][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.09-12.39.22:481][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.09-12.39.22:481][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.09-12.39.22:499][  0]LogNetVersion: Tankogeddon 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1156881733)
+[2022.06.09-12.39.23:134][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.09-12.39.23:183][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.048080 seconds
+[2022.06.09-12.39.23:188][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.06.09-12.39.23:188][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.06.09-12.39.23:188][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.09-12.39.24:225][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.09-12.39.24:234][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.09-12.39.24:476][  0]SourceControl: Source control is disabled
+[2022.06.09-12.39.24:476][  0]SourceControl: Source control is disabled
+[2022.06.09-12.39.24:480][  0]SourceControl: Source control is disabled
+[2022.06.09-12.39.24:483][  0]SourceControl: Source control is disabled
+[2022.06.09-12.39.24:491][  0]SourceControl: Source control is disabled
+[2022.06.09-12.39.24:498][  0]LogUProjectInfo: Found projects:
+[2022.06.09-12.39.24:690][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.09-12.39.24:709][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.09-12.39.24:709][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.09-12.39.24:766][  0]LogCollectionManager: Loaded 0 collections in 0.000707 seconds
+[2022.06.09-12.39.24:791][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Saved/Collections/' took 0.00s
+[2022.06.09-12.39.24:791][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/Developers/user/Collections/' took 0.00s
+[2022.06.09-12.39.24:791][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/Collections/' took 0.00s
+[2022.06.09-12.39.24:791][  0]LogOcInput: OculusInput pre-init called
+[2022.06.09-12.39.24:802][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.06.09-12.39.24:802][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.06.09-12.39.24:854][  0]LogEngine: Initializing Engine...
+[2022.06.09-12.39.24:855][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.09-12.39.24:855][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.09-12.39.24:856][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.09-12.39.24:977][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.09-12.39.24:986][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.09-12.39.24:995][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.09-12.39.25:000][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.09-12.39.25:000][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.09-12.39.25:000][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.09-12.39.25:000][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.09-12.39.25:000][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.09-12.39.25:000][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.09-12.39.25:000][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.09-12.39.25:000][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.09-12.39.25:000][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.09-12.39.25:000][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.09-12.39.25:001][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.09-12.39.25:001][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.09-12.39.25:015][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.09-12.39.25:015][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.09-12.39.25:104][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.09-12.39.25:107][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.09-12.39.25:111][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.09-12.39.25:111][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.09-12.39.25:112][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.09-12.39.25:112][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.09-12.39.25:112][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.09-12.39.25:113][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.09-12.39.25:113][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.09-12.39.25:113][  0]LogInit: FAudioDevice initialized.
+[2022.06.09-12.39.25:114][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.09-12.39.25:114][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.09-12.39.25:278][  0]LogDerivedDataCache: Saved boot cache 0.16s 79MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.09-12.39.25:280][  0]LogInit: Texture streaming: Enabled
+[2022.06.09-12.39.25:308][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.06.09-12.39.25:314][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.09-12.39.25:314][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.09-12.39.25:316][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.09-12.39.25:356][  0]LogInit: Transaction tracking system initialized
+[2022.06.09-12.39.25:380][  0]BlueprintLog: New page: Editor Load
+[2022.06.09-12.39.25:454][  0]LocalizationService: Localization service is disabled
+[2022.06.09-12.39.25:480][  0]TimingProfiler: Initialize
+[2022.06.09-12.39.25:480][  0]TimingProfiler: OnSessionChanged
+[2022.06.09-12.39.25:480][  0]LoadingProfiler: Initialize
+[2022.06.09-12.39.25:480][  0]LoadingProfiler: OnSessionChanged
+[2022.06.09-12.39.25:480][  0]NetworkingProfiler: Initialize
+[2022.06.09-12.39.25:480][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.09-12.39.25:480][  0]MemoryProfiler: Initialize
+[2022.06.09-12.39.25:480][  0]MemoryProfiler: OnSessionChanged
+[2022.06.09-12.39.26:110][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.09-12.39.26:110][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.09-12.39.26:291][  0]LogFileCache: Scanning file cache for directory 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Content/' took 0.01s
+[2022.06.09-12.39.26:506][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.09-12.39.26:510][  0]SourceControl: Source control is disabled
+[2022.06.09-12.39.26:510][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.291
+[2022.06.09-12.39.26:510][  0]Cmd: MAP LOAD FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.09-12.39.26:510][  0]LogEditorServer: Warning: Can't find file '../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/TestLevel.umap'
+[2022.06.09-12.39.26:510][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-12.39.26:510][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,107ms to complete.
+[2022.06.09-12.39.26:510][  0]LogFileHelpers: Loading map 'TestLevel' took 0.000
+[2022.06.09-12.39.26:512][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.293
+[2022.06.09-12.39.26:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-12.39.26:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-12.39.26:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-12.39.26:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-12.39.26:669][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0105 seconds. Added 3614 classes and 861 folders.
+[2022.06.09-12.39.26:673][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.09-12.39.26:676][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.09-12.39.26:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.09-12.39.26:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.06.09-12.39.26:677][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.09-12.39.26:677][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:677][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.09-12.39.26:677][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.06.09-12.39.26:678][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.09-12.39.26:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.09-12.39.26:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.06.09-12.39.26:679][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.09-12.39.26:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.09-12.39.26:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.06.09-12.39.26:680][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.09-12.39.26:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.09-12.39.26:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.06.09-12.39.26:681][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.09-12.39.26:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.09-12.39.26:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.06.09-12.39.26:682][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.09-12.39.26:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.09-12.39.26:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.06.09-12.39.26:684][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.09-12.39.26:684][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:684][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.09-12.39.26:684][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.06.09-12.39.26:685][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.09-12.39.26:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.09-12.39.26:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.06.09-12.39.26:685][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.09-12.39.26:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.09-12.39.26:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.06.09-12.39.26:686][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.09-12.39.26:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.09-12.39.26:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.09-12.39.26:687][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.09-12.39.26:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.09-12.39.26:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.09-12.39.26:688][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.09-12.39.26:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.09-12.39.26:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.06.09-12.39.26:689][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.09-12.39.26:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.09-12.39.26:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.06.09-12.39.26:690][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.09-12.39.26:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.09-12.39.26:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.06.09-12.39.26:691][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.09-12.39.26:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.09-12.39.26:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.09-12.39.26:692][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.09-12.39.26:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.09-12.39.26:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.09-12.39.26:694][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.09-12.39.26:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:694][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.09-12.39.26:694][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.06.09-12.39.26:695][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.09-12.39.26:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.09-12.39.26:695][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.06.09-12.39.26:696][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.09-12.39.26:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.09-12.39.26:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.09-12.39.26:696][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.09-12.39.26:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.09-12.39.26:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.06.09-12.39.26:697][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.09-12.39.26:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.09-12.39.26:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.06.09-12.39.26:699][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.09-12.39.26:699][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:699][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.09-12.39.26:699][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.06.09-12.39.26:700][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.09-12.39.26:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.09-12.39.26:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.06.09-12.39.26:701][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.09-12.39.26:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.09-12.39.26:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.09-12.39.26:702][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.09-12.39.26:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.09-12.39.26:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.09-12.39.26:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.06.09-12.39.26:773][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.09-12.39.26:777][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.06.09-12.39.26:880][  0]LogSlate: Took 0.001188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.09-12.39.26:884][  0]LogSlate: Took 0.001133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.09-12.39.26:896][  0]LogSlate: Took 0.000989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.09-12.39.27:010][  0]LogRenderer: Reallocating scene render targets to support 1208x524 Format 10 NumSamples 1 (Frame:1).
+[2022.06.09-12.39.27:064][  0]LogSlate: Took 0.000625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.09-12.39.27:224][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.06.09-12.39.27:225][  0]LogLoad: (Engine Initialization) Total time: 12.01 seconds
+[2022.06.09-12.39.27:225][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.09-12.39.27:225][  0]LogInit: First time updating LLM stats...
+[2022.06.09-12.39.27:377][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.09-12.39.27:414][  1]LogAssetRegistry: Asset discovery search completed in 5.3306 seconds
+[2022.06.09-12.39.27:415][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.06.09-12.40.13:004][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.06.09-12.40.13:084][403]LogSlate: Took 0.000742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.09-12.40.14:804][403]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.06.09-12.40.14:810][403]Cmd: MAP LOAD FILE="../../../../../UE4_Curs/Tankogeddon/Tankogeddon/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.09-12.40.14:819][403]LightingResults: New page: Lighting Build
+[2022.06.09-12.40.14:834][403]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 6 classes and 0 folders.
+[2022.06.09-12.40.14:834][403]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.06.09-12.40.14:858][403]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-12.40.14:858][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-12.40.14:866][403]MapCheck: New page: Map Check
+[2022.06.09-12.40.14:866][403]LightingResults: New page: Lighting Build
+[2022.06.09-12.40.14:916][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.09-12.40.14:950][403]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.06.09-12.40.15:047][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:047][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:047][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube8.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube9.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube11.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:049][403]PIE: Warning: Trying to simulate physics on ''/Game/Maps/TestLevel.TestLevel:PersistentLevel.Cube12.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2022.06.09-12.40.15:521][403]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-12.40.15:521][403]LogAIModule: Creating AISystem for world TestLevel
+[2022.06.09-12.40.15:607][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.06.09-12.40.15:648][403]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-12.40.15:649][403]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,18ms to complete.
+[2022.06.09-12.40.15:649][403]LogFileHelpers: Loading map 'TestLevel' took 0.838
+[2022.06.09-12.40.17:355][509]Candidate modules for hot reload:
+[2022.06.09-12.40.17:355][509]  Tankogeddon
+[2022.06.09-12.40.17:355][509]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,7346 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-12.40.17:358][509]Warning: Starting HotReload took  0.3s.
+[2022.06.09-12.40.42:928][755]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 18:40:42
+[2022.06.09-12.40.42:929][755]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-12.40.42:929][755]CompilerResultsLog: Creating makefile for TankogeddonEditor (no existing makefile)
+[2022.06.09-12.40.42:929][755]CompilerResultsLog: Parsing headers for TankogeddonEditor
+[2022.06.09-12.40.42:929][755]CompilerResultsLog:   Running UnrealHeaderTool "D:\UE4_Curs\Tankogeddon\Tankogeddon\Tankogeddon.uproject" "D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\TankogeddonEditor\Development\TankogeddonEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.06.09-12.40.42:929][755]CompilerResultsLog: Error: D:/UE4_Curs/Tankogeddon/Tankogeddon/Source/Tankogeddon/TankFactory.h(54)  : Error: Unrecognized type 'ATargetPoin' - type must be a UCLASS, USTRUCT or UENUM
+[2022.06.09-12.40.42:934][755]LogMainFrame: MainFrame: Module compiling took 25.724 seconds
+[2022.06.09-12.40.42:965][755]Warning: HotReload failed, recompile failed
+[2022.06.09-12.40.53:263][190]LogSlate: Took 0.022033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.09-12.40.54:685][335]LogVSAccessor: Warning: Couldn't goto line number '54' in 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Source/Tankogeddon/TankFactory.h'
+[2022.06.09-12.41.05:703][574]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.41.05:705][574]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.41.07:249][653]Candidate modules for hot reload:
+[2022.06.09-12.41.07:249][653]  Tankogeddon
+[2022.06.09-12.41.07:249][653]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,6593 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-12.41.07:251][653]Warning: Starting HotReload took  0.0s.
+[2022.06.09-12.41.15:458][893]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 18:41:15
+[2022.06.09-12.41.15:458][893]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-12.41.15:458][893]CompilerResultsLog: Creating makefile for TankogeddonEditor (no existing makefile)
+[2022.06.09-12.41.15:458][893]CompilerResultsLog: Parsing headers for TankogeddonEditor
+[2022.06.09-12.41.15:458][893]CompilerResultsLog:   Running UnrealHeaderTool "D:\UE4_Curs\Tankogeddon\Tankogeddon\Tankogeddon.uproject" "D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\TankogeddonEditor\Development\TankogeddonEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.06.09-12.41.15:458][893]CompilerResultsLog: Error: D:/UE4_Curs/Tankogeddon/Tankogeddon/Source/Tankogeddon/TankFactory.h(54)  : Error: Unrecognized type 'ATargetPoin' - type must be a UCLASS, USTRUCT or UENUM
+[2022.06.09-12.41.15:458][893]LogMainFrame: MainFrame: Module compiling took 8.213 seconds
+[2022.06.09-12.41.15:458][893]Warning: HotReload failed, recompile failed
+[2022.06.09-12.43.35:190][138]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.43.35:193][138]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.43.35:906][218]Candidate modules for hot reload:
+[2022.06.09-12.43.35:906][218]  Tankogeddon
+[2022.06.09-12.43.35:906][218]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,1480 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-12.43.35:908][218]Warning: Starting HotReload took  0.0s.
+[2022.06.09-12.43.44:122][135]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 18:43:44
+[2022.06.09-12.43.44:122][135]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-12.43.44:122][135]CompilerResultsLog: Creating makefile for TankogeddonEditor (no existing makefile)
+[2022.06.09-12.43.44:122][135]CompilerResultsLog: Parsing headers for TankogeddonEditor
+[2022.06.09-12.43.44:122][135]CompilerResultsLog:   Running UnrealHeaderTool "D:\UE4_Curs\Tankogeddon\Tankogeddon\Tankogeddon.uproject" "D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\TankogeddonEditor\Development\TankogeddonEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.06.09-12.43.44:122][135]CompilerResultsLog: Error: D:/UE4_Curs/Tankogeddon/Tankogeddon/Source/Tankogeddon/TankFactory.h(54)  : Error: Unrecognized type 'ATargetPoin' - type must be a UCLASS, USTRUCT or UENUM
+[2022.06.09-12.43.44:122][135]LogMainFrame: MainFrame: Module compiling took 8.221 seconds
+[2022.06.09-12.43.44:123][135]Warning: HotReload failed, recompile failed
+[2022.06.09-12.43.48:407][627]LogVSAccessor: Warning: Couldn't goto line number '54' in 'D:/UE4_Curs/Tankogeddon/Tankogeddon/Source/Tankogeddon/TankFactory.h'
+[2022.06.09-12.44.00:879][104]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.44.00:883][104]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.44.46:467][578]Candidate modules for hot reload:
+[2022.06.09-12.44.46:467][578]  Tankogeddon
+[2022.06.09-12.44.46:467][578]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,5073 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-12.44.46:468][578]Warning: Starting HotReload took  0.0s.
+[2022.06.09-12.47.55:306][ 61]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 18:47:55
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Creating makefile for TankogeddonEditor (no existing makefile)
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Parsing headers for TankogeddonEditor
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog:   Running UnrealHeaderTool "D:\UE4_Curs\Tankogeddon\Tankogeddon\Tankogeddon.uproject" "D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\TankogeddonEditor\Development\TankogeddonEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Reflection code generated for TankogeddonEditor in 6,8656466 seconds
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Distributing 6 actions to XGE
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: License is invalid:
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: 
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: TankFactory.cpp (1:33.03 at +0:00)
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankFactory.cpp(31) : error C2276: &: ???????⨬?? ???????? ? ??ࠦ????? ?ਢ易???? ?㭪樨-童??
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankFactory.cpp(31) : error C2672: "TMulticastDelegate<void (float),FDefaultDelegateUserPolicy>::AddUObject": ?? ??????? ᮮ⢥????????? ??ॣ?㦥???? ?㭪???
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankFactory.cpp(31) : error C2780: FDelegateHandle TMulticastDelegate<void (float),FDefaultDelegateUserPolicy>::AddUObject(const UserClass *,TMemFunPtrType<true,UserClass,void(float,VarTypes...)>::Type,VarTypes...): ?ॡ??? ???㬥?⮢: 3, ???????: 1
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: D:\UE4\UE_4.26\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl(869): note:  ??. ??????? "TMulticastDelegate<void (float),FDefaultDelegateUserPolicy>::AddUObject"
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankFactory.cpp(31) : error C2780: FDelegateHandle TMulticastDelegate<void (float),FDefaultDelegateUserPolicy>::AddUObject(UserClass *,TMemFunPtrType<false,UserClass,void(float,VarTypes...)>::Type,VarTypes...): ?ॡ??? ???㬥?⮢: 3, ???????: 1
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: D:\UE4\UE_4.26\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl(862): note:  ??. ??????? "TMulticastDelegate<void (float),FDefaultDelegateUserPolicy>::AddUObject"
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankFactory.cpp(33) : error C2143: ᨭ⠪????᪠? ?訡??: ??????⢨? ";" ??। "}"
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: 
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Error executing D:\UE4\UE_4.26\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: TankFactory.gen.cpp (1:21.45 at +1:33)
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: Tankogeddon.init.gen.cpp (0:02.15 at +2:54)
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: 
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: 
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: 1 build system warning(s):
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog:    - License is invalid
+[2022.06.09-12.47.55:307][ 61]CompilerResultsLog: 
+[2022.06.09-12.47.55:307][ 61]LogMainFrame: MainFrame: Module compiling took 188.844 seconds
+[2022.06.09-12.47.55:308][ 61]Warning: HotReload failed, recompile failed
+[2022.06.09-12.48.05:923][218]LogSlate: Took 0.025129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.09-12.48.05:935][218]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '⨬ (U+2a2c)'
+[2022.06.09-12.48.05:985][218]LogSlate: Took 0.048773 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.06.09-12.48.06:139][218]LogSlate: Took 0.050816 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2022.06.09-12.48.08:146][443]LogVSAccessor: Warning: Couldn't goto line number '31' in 'D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankFactory.cpp'
+[2022.06.09-12.48.54:406][204]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.48.54:410][204]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.48.55:257][297]Candidate modules for hot reload:
+[2022.06.09-12.48.55:257][297]  Tankogeddon
+[2022.06.09-12.48.55:257][297]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,3006 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-12.48.55:259][297]Warning: Starting HotReload took  0.0s.
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 18:49:01
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: License is invalid:
+[2022.06.09-12.49.01:260][945]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.09-12.49.01:260][945]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: 
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: TankFactory.cpp (0:03.89 at +0:00)
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankFactory.cpp(33) : error C2143: ᨭ⠪????᪠? ?訡??: ??????⢨? ";" ??। "}"
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: 
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: Error executing D:\UE4\UE_4.26\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: 
+[2022.06.09-12.49.01:260][945]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: 
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: 1 build system warning(s):
+[2022.06.09-12.49.01:260][945]CompilerResultsLog:    - License is invalid
+[2022.06.09-12.49.01:260][945]CompilerResultsLog: 
+[2022.06.09-12.49.01:260][945]LogMainFrame: MainFrame: Module compiling took 6.007 seconds
+[2022.06.09-12.49.01:261][945]Warning: HotReload failed, recompile failed
+[2022.06.09-12.49.15:099][731]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.49.15:103][731]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-12.49.16:161][848]Candidate modules for hot reload:
+[2022.06.09-12.49.16:161][848]  Tankogeddon
+[2022.06.09-12.49.16:161][848]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,7826 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-12.49.16:163][848]Warning: Starting HotReload took  0.0s.
+[2022.06.09-12.49.51:274][988]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 18:49:51
+[2022.06.09-12.49.51:274][988]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-12.49.51:274][988]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.09-12.49.51:274][988]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.09-12.49.51:274][988]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: License is invalid:
+[2022.06.09-12.49.51:275][988]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.09-12.49.51:275][988]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: 
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: TankFactory.cpp (0:28.62 at +0:00)
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: UE4Editor-Tankogeddon-7826.lib (0:01.37 at +0:28)
+[2022.06.09-12.49.51:275][988]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-7826.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-7826.exp
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: UE4Editor-Tankogeddon-7826.dll (0:02.25 at +0:30)
+[2022.06.09-12.49.51:275][988]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-7826.suppressed.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-7826.suppressed.exp
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: TankogeddonEditor.target (0:00.95 at +0:32)
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: 
+[2022.06.09-12.49.51:275][988]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: 
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: 1 build system warning(s):
+[2022.06.09-12.49.51:275][988]CompilerResultsLog:    - License is invalid
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: 
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: Total time in XGE executor: 33,47 seconds
+[2022.06.09-12.49.51:275][988]CompilerResultsLog: Total execution time: 34,39 seconds
+[2022.06.09-12.49.51:275][988]LogMainFrame: MainFrame: Module compiling took 35.119 seconds
+[2022.06.09-12.49.51:441][988]LogClass: Could not find existing class TankFactory in package /Script/Tankogeddon for HotReload, assuming new class
+[2022.06.09-12.49.51:441][988]LogClass: Function DamageTaked is new.
+[2022.06.09-12.49.51:441][988]LogClass: Function Die is new.
+[2022.06.09-12.49.51:442][988]LogClass: Function TakeDamage is new.
+[2022.06.09-12.49.51:451][988]LogClass: ECannonType HotReload.
+[2022.06.09-12.49.51:451][988]LogClass: DamageData HotReload.
+[2022.06.09-12.49.51:471][988]LogHotReload: Re-instancing TankFactory after hot-reload.
+[2022.06.09-12.49.51:528][988]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Tankogeddon' in 0.0004 seconds. Added 13 classes and 2 folders.
+[2022.06.09-12.49.51:529][988]Display: HotReload successful (19 functions remapped  1 scriptstructs remapped)
+[2022.06.09-12.49.52:050][988]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0226 seconds. Added 3614 classes and 861 folders.
+[2022.06.09-12.49.52:087][988]Display: HotReload took 36.0s.
+[2022.06.09-13.07.09:710][853]Candidate modules for hot reload:
+[2022.06.09-13.07.09:711][853]  Tankogeddon
+[2022.06.09-13.07.09:711][853]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,7567 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-13.07.09:714][853]Warning: Starting HotReload took  0.1s.
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 19:10:12
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: Parsing headers for TankogeddonEditor
+[2022.06.09-13.10.12:244][677]CompilerResultsLog:   Running UnrealHeaderTool "D:\UE4_Curs\Tankogeddon\Tankogeddon\Tankogeddon.uproject" "D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\TankogeddonEditor\Development\TankogeddonEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: Reflection code generated for TankogeddonEditor in 6,3492775 seconds
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: Distributing 12 actions to XGE
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: License is invalid:
+[2022.06.09-13.10.12:244][677]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.09-13.10.12:244][677]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: 
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: AmmoBox.cpp (1:29.86 at +0:00)
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: SpellBox.cpp (0:20.84 at +1:29)
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: TankAIController.cpp (0:36.51 at +1:50)
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: TankPawn.cpp (0:05.90 at +2:27)
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.cpp(224) : error C4458: ??????? "PatrollingPoints" ???뢠?? 童? ??????
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.h(112): note:  ??. ??????? "ATankPawn::PatrollingPoints"
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.cpp(224) : error C2440: ???樠???????: ?????????? ?८?ࠧ????? "TArray<ATargetPoint *,FDefaultAllocator>" ? "ATargetPoint"
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.cpp(224): note: ?? ???? ??????????? ?? ᬮ? ?ਭ??? ??室??? ⨯, ???? ࠧ??襭?? ??ॣ?㧪? ???????????? ?????????筮
+[2022.06.09-13.10.12:244][677]CompilerResultsLog: 
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: Error executing D:\UE4\UE_4.26\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: TankPlayerController.cpp (0:05.95 at +2:33)
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: Turrel.cpp (0:07.65 at +2:39)
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: Tankogeddon.init.gen.cpp (0:00.84 at +2:46)
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: TankPawn.gen.cpp (0:03.81 at +2:47)
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: Turrel.gen.cpp (0:03.42 at +2:51)
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: 
+[2022.06.09-13.10.12:245][677]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: 
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: 1 build system warning(s):
+[2022.06.09-13.10.12:245][677]CompilerResultsLog:    - License is invalid
+[2022.06.09-13.10.12:245][677]CompilerResultsLog: 
+[2022.06.09-13.10.12:245][677]LogMainFrame: MainFrame: Module compiling took 182.542 seconds
+[2022.06.09-13.10.12:245][677]Warning: HotReload failed, recompile failed
+[2022.06.09-13.11.15:385][891]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-13.11.15:388][891]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-13.11.16:434][  7]Candidate modules for hot reload:
+[2022.06.09-13.11.16:434][  7]  Tankogeddon
+[2022.06.09-13.11.16:434][  7]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,6428 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-13.11.16:436][  7]Warning: Starting HotReload took  0.0s.
+[2022.06.09-13.11.18:748][236]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 19:11:18
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: License is invalid:
+[2022.06.09-13.11.18:749][236]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.09-13.11.18:749][236]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: 
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: TankPawn.cpp (0:01.09 at +0:00)
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.cpp(225) : error C4458: ??????? "PatrollingPoints" ???뢠?? 童? ??????
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.h(112): note:  ??. ??????? "ATankPawn::PatrollingPoints"
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: Error: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.cpp(225) : error C2440: ???樠???????: ?????????? ?८?ࠧ????? "TArray<ATargetPoint *,FDefaultAllocator>" ? "ATargetPoint"
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: D:\UE4_Curs\Tankogeddon\Tankogeddon\Source\Tankogeddon\TankPawn.cpp(225): note: ?? ???? ??????????? ?? ᬮ? ?ਭ??? ??室??? ⨯, ???? ࠧ??襭?? ??ॣ?㧪? ???????????? ?????????筮
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: 
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: Error executing D:\UE4\UE_4.26\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.06.09-13.11.18:749][236]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.09-13.11.18:750][236]CompilerResultsLog: 
+[2022.06.09-13.11.18:750][236]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.06.09-13.11.18:750][236]CompilerResultsLog: 
+[2022.06.09-13.11.18:750][236]CompilerResultsLog: 1 build system warning(s):
+[2022.06.09-13.11.18:750][236]CompilerResultsLog:    - License is invalid
+[2022.06.09-13.11.18:750][236]CompilerResultsLog: 
+[2022.06.09-13.11.18:750][236]LogMainFrame: MainFrame: Module compiling took 2.319 seconds
+[2022.06.09-13.11.18:750][236]Warning: HotReload failed, recompile failed
+[2022.06.09-13.11.41:111][163]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-13.11.41:114][163]LogSlate: Window 'Message Log' being destroyed
+[2022.06.09-13.11.41:938][253]Candidate modules for hot reload:
+[2022.06.09-13.11.41:938][253]  Tankogeddon
+[2022.06.09-13.11.41:938][253]Launching UnrealBuildTool... [D:/UE4/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Tankogeddon,1987 TankogeddonEditor Win64 Development -Project="D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject" "D:/UE4_Curs/Tankogeddon/Tankogeddon/Tankogeddon.uproject"  -IgnoreJunk]
+[2022.06.09-13.11.41:939][253]Warning: Starting HotReload took  0.0s.
+[2022.06.09-13.11.46:571][723]CompilerResultsLog: New page: Compilation - 9 июн. 2022 г., 19:11:46
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UE4_Curs\Tankogeddon).
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: Building TankogeddonEditor...
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: License is invalid:
+[2022.06.09-13.11.46:572][723]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2022.06.09-13.11.46:572][723]CompilerResultsLog:     This build will run in standalone mode.
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: 
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: TankPawn.cpp (0:02.25 at +0:00)
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: UE4Editor-Tankogeddon-1987.lib (0:00.25 at +0:02)
+[2022.06.09-13.11.46:572][723]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-1987.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-1987.exp
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: UE4Editor-Tankogeddon-1987.dll (0:00.75 at +0:02)
+[2022.06.09-13.11.46:572][723]CompilerResultsLog:    ????????? ??????⥪? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-1987.suppressed.lib ? ??ꥪ? D:\UE4_Curs\Tankogeddon\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-1987.suppressed.exp
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: TankogeddonEditor.target (0:00.25 at +0:03)
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: 
+[2022.06.09-13.11.46:572][723]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: 
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: 1 build system warning(s):
+[2022.06.09-13.11.46:572][723]CompilerResultsLog:    - License is invalid
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: 
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: Total time in XGE executor: 3,72 seconds
+[2022.06.09-13.11.46:572][723]CompilerResultsLog: Total execution time: 4,54 seconds
+[2022.06.09-13.11.46:572][723]LogMainFrame: MainFrame: Module compiling took 4.639 seconds
+[2022.06.09-13.11.46:583][723]LogClass: Could not find existing class TankPawn in package /Script/Tankogeddon for HotReload, assuming new class
+[2022.06.09-13.11.46:583][723]LogClass: Function DamageTaked is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function Fire is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function FireSpecial is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function GetMovementAccurency is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function GetPatrollingPoints is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function GetTurretForwardVector is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function MoveForward is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function OnDie is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function RotateRight is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function RotateTurretTo is new.
+[2022.06.09-13.11.46:583][723]LogClass: Function TakeDamage is new.
+[2022.06.09-13.11.46:584][723]LogClass: ECannonType HotReload.
+[2022.06.09-13.11.46:584][723]LogClass: DamageData HotReload.
+[2022.06.09-13.11.46:596][723]LogHotReload: Re-instancing TankPawn after hot-reload.
+[2022.06.09-13.11.46:646][723]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.09-13.11.46:647][723]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2022.06.09-13.12.00:013][723]LogWindows: Error: === Critical error: ===
+[2022.06.09-13.12.00:013][723]LogWindows: Error: 
+[2022.06.09-13.12.00:013][723]LogWindows: Error: Assertion failed: Tag.Size == Loaded [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/Class.cpp] [Line: 1497] 
+[2022.06.09-13.12.00:013][723]LogWindows: Error: 
+[2022.06.09-13.12.00:013][723]LogWindows: Error: 
+[2022.06.09-13.12.00:013][723]LogWindows: Error: 
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffbe9694f69 KERNELBASE.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb8727d066 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb872807a8 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86f8e8cd UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86f25575 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86f27620 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb867a8012 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb867a5ffc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb868994a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86897a90 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb868974fb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb80bca409 UE4Editor-Engine.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb81ded9e6 UE4Editor-Engine.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb846dbdce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb7eec7e09 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb7ee71282 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb7ee15eaf UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb7ee15bf1 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb846d7ced UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb84716092 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb6a7263b7 UE4Editor-HotReload.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb6a7269f9 UE4Editor-HotReload.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb6a71ec86 UE4Editor-HotReload.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb8695dcd6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86942886 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86872305 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86fc99ea UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86ff12a8 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86ff0328 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb6a71afc7 UE4Editor-HotReload.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb6a718f27 UE4Editor-HotReload.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb6a719aed UE4Editor-HotReload.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb6a72c644 UE4Editor-HotReload.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffb86d4e708 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ff7896dd07d UE4Editor.exe!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ff7896f117c UE4Editor.exe!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ff7896f125a UE4Editor.exe!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ff7897052bd UE4Editor.exe!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ff789707fea UE4Editor.exe!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffbebb17034 KERNEL32.DLL!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: [Callstack] 0x00007ffbebe02651 ntdll.dll!UnknownFunction []
+[2022.06.09-13.12.00:013][723]LogWindows: Error: 
+[2022.06.09-13.12.00:025][723]LogExit: Executing StaticShutdownAfterError
+[2022.06.09-13.12.00:029][723]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.06.09-13.12.00:029][723]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.06.09-13.12.00:054][723]Log file closed, 06/09/22 16:12:00
